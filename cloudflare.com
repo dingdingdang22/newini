@@ -1,2 +1,2 @@
 DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,zyddff.top
+DOMAIN-SUFFIX,dingyue.zyddff.top
