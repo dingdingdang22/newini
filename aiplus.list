@@ -1,8 +1,8 @@
+DOMAIN,gemini.google.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,bing.com
-DOMAIN,gemini.google.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
