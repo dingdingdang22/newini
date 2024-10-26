@@ -1,1302 +1,224 @@
-IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,127,30.58
-85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,198100,WAPAC LTD,255,21.47
-122.121.210.28,22441,True,TPE,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,141,17.14
-183.236.51.57,31617,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,28,16.37
-122.121.210.28,15475,True,TPE,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,111,15.95
-85.237.207.79,31177,True,TPE,TW,Asia Pacific,Taipei,198100,WAPAC LTD,228,15.85
-122.118.128.118,20592,True,KHH,TW,Asia Pacific,Kaohsiung City,3462,Data Communication Business Group,36,14.71
-122.121.210.28,10834,True,KHH,TW,Asia Pacific,Kaohsiung City,3462,Data Communication Business Group,53,14.3
-85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,198100,WAPAC LTD,259,13.98
-122.121.210.28,10320,True,TPE,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,112,12.68
-85.237.207.79,31144,True,TPE,TW,Asia Pacific,Taipei,198100,WAPAC LTD,234,10.84
-1.244.202.141,24236,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,135,9.95
-222.104.23.36,31097,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,169,9.61
-14.52.18.105,34431,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,121,9.6
-59.27.228.134,27123,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,85,9.6
-14.52.18.105,15389,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,123,9.56
-175.196.101.16,12635,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,104,9.48
-203.228.115.209,36109,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,647,9.46
-183.94.30.165,25583,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,28,9.45
-59.27.228.134,17102,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,233,9.44
-14.52.18.105,33509,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,162,9.43
-61.84.224.58,26064,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,170,9.26
-14.52.18.105,17172,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,96,9.26
-211.223.28.36,36094,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,140,9.23
-180.69.77.130,25049,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,213,9.2
-222.251.222.151,18130,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,86,9.18
-218.48.148.10,15833,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,834,9.06
-1.244.202.141,22642,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,1633,9.05
-175.114.193.209,10590,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,120,9.04
-222.102.190.56,18997,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,112,9.0
-14.52.18.105,17690,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,104,8.97
-61.73.189.16,25489,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,235,8.97
-1.244.202.141,11858,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,130,8.97
-59.19.192.51,35868,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,209,8.96
-59.28.217.164,25605,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,81,8.96
-1.244.202.141,38840,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,68,8.94
-61.254.67.106,39639,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,375,8.93
-61.84.224.58,26600,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,691,8.92
-222.232.58.94,35416,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,118,8.87
-61.84.224.58,28060,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,1046,8.86
-175.125.207.253,13864,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,134,8.86
-211.243.77.40,28655,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,306,8.82
-175.125.207.253,10435,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,226,8.79
-175.123.37.191,32483,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,1911,8.79
-175.213.86.244,33794,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,161,8.78
-39.121.97.223,12044,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,345,8.71
-218.150.247.12,12559,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,249,8.71
-14.33.103.27,12909,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,8.71
-59.18.176.119,13830,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,190,8.64
-116.122.120.234,25853,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,190,8.61
-118.44.96.97,13803,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,126,8.58
-1.244.202.141,28503,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,91,8.57
-180.65.81.9,39250,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,240,8.57
-211.243.77.40,15707,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,293,8.56
-211.186.127.143,17521,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,108,8.55
-59.20.45.212,23380,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,95,8.53
-61.84.224.58,28283,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,97,8.52
-1.244.202.141,11949,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,788,8.5
-218.232.46.4,30688,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,487,8.5
-180.65.81.9,37164,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,201,8.48
-175.125.207.253,35812,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,236,8.47
-211.197.141.138,29551,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,142,8.42
-175.125.207.253,11932,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,367,8.4
-116.122.120.234,27453,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,3322,8.37
-121.125.215.217,17800,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,129,8.37
-1.237.229.226,34285,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,460,8.37
-222.251.222.151,24381,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,81,8.35
-180.65.81.9,12559,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,191,8.34
-59.28.24.148,12418,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,792,8.33
-180.65.81.9,34052,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,860,8.32
-218.238.224.169,26805,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,87,8.32
-218.48.148.10,15624,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,246,8.32
-124.111.204.31,24782,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,240,8.27
-211.179.70.112,10671,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,89,8.27
-39.121.97.223,38122,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,182,8.24
-222.99.156.159,13829,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,211,8.23
-61.254.67.106,15957,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,150,8.22
-1.244.202.141,34437,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,134,8.2
-211.225.115.76,36561,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,1154,8.19
-1.252.122.180,36791,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,229,8.18
-118.44.96.97,33952,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,190,8.16
-175.125.207.253,10176,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,193,8.14
-118.44.96.97,36549,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,243,8.13
-61.98.58.5,17144,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,1920,8.12
-58.238.77.178,15787,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,225,8.12
-175.125.207.253,31636,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,174,8.1
-124.111.204.31,18700,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,72,8.09
-61.98.58.5,13100,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,263,8.09
-180.67.12.103,28856,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,58,8.08
-180.65.81.9,31469,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,254,8.05
-14.36.119.92,26433,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,245,8.03
-58.233.215.231,11891,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,262,8.02
-59.27.228.116,29835,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,794,8.01
-1.251.60.253,22500,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,112,8.01
-175.125.207.253,26973,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,2768,8.01
-211.212.43.153,29898,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,541,8.01
-1.241.218.157,37268,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,116,8.0
-222.121.79.214,11088,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,1110,7.99
-118.44.96.97,38600,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,152,7.99
-222.97.243.235,18882,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,227,7.98
-116.122.120.234,13585,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,202,7.98
-1.236.186.119,34258,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,1653,7.98
-211.178.119.67,50000,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,64,7.97
-39.120.77.105,21155,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,63,7.96
-222.234.5.27,30054,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,484,7.95
-14.36.119.92,18356,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,91,7.94
-180.67.139.241,11293,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,106,7.94
-39.116.71.182,31033,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,200,7.92
-1.252.122.180,14508,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,275,7.91
-39.121.97.223,16822,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,113,7.91
-222.104.82.72,15784,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,136,7.9
-222.104.23.36,35294,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,132,7.9
-1.243.125.214,25270,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,323,7.89
-1.224.124.211,30063,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,480,7.87
-175.119.93.150,10731,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,115,7.86
-61.254.205.175,20831,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,361,7.86
-39.119.162.96,15400,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,116,7.85
-14.53.21.79,25844,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,252,7.85
-221.138.1.99,35187,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,184,7.85
-220.122.155.200,26524,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,134,7.84
-118.44.96.97,28435,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,145,7.84
-221.152.242.211,23963,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,131,7.84
-39.112.49.232,36990,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,256,7.83
-58.120.162.231,30104,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,200,7.83
-39.115.0.100,10304,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,460,7.81
-180.67.139.241,22167,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,203,7.81
-118.221.45.53,28874,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,278,7.79
-211.199.54.68,29718,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,121,7.79
-211.207.174.216,21707,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,433,7.78
-219.241.66.229,30583,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,411,7.77
-116.126.89.4,29231,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,172,7.76
-1.252.122.180,37945,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,836,7.76
-221.163.115.134,26037,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,115,7.76
-221.138.1.99,20670,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,389,7.75
-58.233.215.231,14125,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,135,7.74
-61.254.205.175,32137,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,69,7.74
-39.112.49.232,37164,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,588,7.71
-124.111.204.31,23464,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,154,7.71
-118.38.208.63,18458,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,86,7.7
-103.137.63.3,443,True,KIX,JP,Asia Pacific,Osaka,131642,Pittqiao Network Information CoLtd,71,7.69
-114.203.96.76,17307,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,483,7.68
-58.231.121.107,15518,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,263,7.68
-110.11.252.175,30166,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,245,7.67
-14.48.204.248,10870,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,826,7.67
-211.243.77.40,18542,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,105,7.67
-118.223.221.138,18929,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,824,7.66
-124.111.204.31,11334,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,107,7.66
-61.84.224.58,39741,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,156,7.66
-14.36.119.92,19848,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,573,7.65
-59.10.2.83,30394,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,140,7.65
-218.232.46.4,26147,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,209,7.64
-39.124.231.44,12148,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,131,7.62
-39.118.174.54,33513,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,269,7.62
-118.216.108.26,23249,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,254,7.61
-211.179.70.112,33936,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,106,7.61
-14.50.42.93,16470,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,104,7.6
-118.223.221.138,11615,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,217,7.6
-221.139.219.97,29164,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,275,7.6
-180.65.81.9,10433,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,787,7.59
-211.179.70.112,13361,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,214,7.59
-61.254.205.175,32350,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,73,7.59
-110.12.93.33,34307,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,132,7.58
-39.113.7.144,22108,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,119,7.57
-59.26.109.237,29828,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,185,7.55
-222.97.243.235,25528,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,835,7.55
-61.98.58.5,11222,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,492,7.54
-220.70.254.71,15138,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,104,7.53
-1.243.39.139,14038,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,308,7.52
-211.104.215.140,11197,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,303,7.51
-110.12.93.33,10133,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,301,7.51
-39.113.220.231,38459,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,129,7.51
-1.238.141.98,36973,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,201,7.5
-124.111.204.31,15038,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,147,7.5
-1.241.218.157,37529,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,93,7.49
-39.119.6.39,24970,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,284,7.46
-222.97.243.235,23601,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,121,7.46
-59.5.168.201,10755,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,120,7.46
-118.223.221.138,22063,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,408,7.46
-116.125.73.21,35864,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,422,7.45
-175.119.93.150,34647,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,250,7.44
-222.104.82.72,37527,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,109,7.44
-61.99.197.200,12964,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,219,7.43
-124.111.204.31,10232,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,525,7.42
-1.236.248.109,11867,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,148,7.42
-1.243.125.214,23036,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,407,7.41
-222.108.35.132,39563,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,169,7.41
-118.44.96.97,35399,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,203,7.41
-222.104.82.72,27086,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,227,7.41
-118.40.150.219,10977,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,97,7.41
-124.111.204.31,25581,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,690,7.39
-211.194.207.184,20450,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,229,7.39
-118.44.96.97,27369,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,115,7.38
-211.179.70.112,25392,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,118,7.38
-211.213.4.68,38548,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,130,7.38
-1.251.112.185,23373,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,132,7.38
-118.38.208.63,11885,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,78,7.36
-180.67.139.241,35350,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,102,7.36
-1.246.157.72,15242,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,364,7.35
-222.120.173.147,30198,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,294,7.35
-218.38.36.6,14326,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,78,7.35
-183.94.30.165,25425,True,TPE,TW,Asia Pacific,Taipei,4837,CHINA UNICOM China169 Backbone,40,7.34
-39.124.96.8,22628,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,387,7.34
-221.144.52.131,10320,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,238,7.33
-222.103.251.148,23913,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,75,7.33
-14.35.64.119,23078,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,120,7.33
-218.237.123.117,11473,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,257,7.33
-211.197.141.138,18868,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,113,7.32
-175.201.21.227,10835,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,7.32
-61.254.205.175,21311,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,124,7.31
-222.99.207.77,33368,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,866,7.3
-222.235.89.37,37868,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,258,7.3
-110.12.188.72,30361,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,243,7.3
-211.104.215.140,10481,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,93,7.29
-222.237.202.177,15540,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,180,7.28
-110.12.85.17,36773,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,135,7.27
-222.104.82.72,25264,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,88,7.27
-59.10.2.83,36975,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,174,7.26
-175.199.77.12,10986,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,115,7.26
-175.194.139.90,38559,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,212,7.26
-59.29.151.4,39964,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,100,7.26
-61.80.135.3,23325,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,299,7.25
-59.28.24.148,16899,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,133,7.25
-221.144.52.131,35656,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,117,7.25
-1.252.122.180,17077,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,228,7.25
-110.13.24.137,24939,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,240,7.24
-222.237.202.177,27759,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,165,7.23
-58.224.204.214,31074,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,255,7.23
-220.119.123.7,10442,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,250,7.22
-221.141.80.241,21091,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,424,7.22
-175.121.138.160,39400,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,112,7.22
-175.119.93.150,18337,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,402,7.22
-175.121.157.42,32798,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,308,7.21
-211.243.140.31,16620,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,209,7.21
-1.243.39.139,10832,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,213,7.21
-175.201.21.227,38954,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,133,7.21
-211.198.26.197,15796,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,116,7.21
-1.243.39.139,22293,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,175,7.2
-211.243.107.157,14602,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,302,7.2
-59.29.151.4,22166,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,92,7.2
-14.35.62.98,17751,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,133,7.19
-110.12.85.17,27375,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,79,7.19
-220.119.123.7,24695,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,221,7.18
-222.121.218.138,37138,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,160,7.18
-175.121.157.42,37652,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,117,7.17
-218.238.105.140,29203,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,100,7.17
-211.117.167.131,32489,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,424,7.17
-220.126.127.139,37039,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,722,7.16
-124.111.208.233,31804,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,490,7.16
-118.38.208.63,38878,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,788,7.16
-222.113.18.218,19574,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,244,7.16
-14.36.97.87,28706,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,747,7.16
-1.243.39.139,32748,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,155,7.15
-175.200.150.13,31529,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,599,7.14
-211.199.54.68,36943,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,240,7.14
-175.125.207.253,21363,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,82,7.14
-116.125.73.21,33731,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,384,7.13
-175.121.157.42,29335,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,116,7.13
-118.219.239.158,12457,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,291,7.12
-124.111.208.233,16310,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,67,7.12
-220.122.42.198,21555,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,489,7.1
-222.232.58.94,20737,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,116,7.1
-222.251.222.151,19617,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,88,7.1
-1.243.39.139,18892,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,144,7.1
-14.50.234.221,14134,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,191,7.09
-1.236.97.252,21577,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,274,7.09
-115.22.214.78,31765,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,659,7.08
-218.238.105.140,38761,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,793,7.08
-1.248.65.59,32798,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,291,7.08
-124.111.208.233,29079,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,67,7.08
-211.177.242.55,30609,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,1633,7.08
-116.125.73.21,38807,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,198,7.08
-14.32.158.138,37901,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,164,7.07
-211.108.195.48,10927,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,104,7.06
-118.222.219.124,35679,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,227,7.06
-118.41.50.223,15099,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,112,7.05
-118.223.171.250,28841,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,282,7.05
-211.199.54.68,22716,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,94,7.05
-219.241.66.229,36567,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,113,7.05
-218.55.175.15,39897,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,352,7.04
-59.10.2.83,26808,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,200,7.04
-59.3.87.55,37785,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,991,7.04
-1.236.248.109,13367,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,81,7.03
-220.90.32.30,32358,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,306,7.03
-222.237.202.177,21869,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,462,7.03
-220.88.166.132,27806,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,112,7.02
-220.119.123.7,24481,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,142,7.02
-39.120.214.134,26107,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,140,7.0
-14.36.191.89,32379,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,101,7.0
-211.39.65.170,16077,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,391,7.0
-39.121.220.182,16259,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,176,6.99
-222.104.209.76,18004,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,135,6.99
-221.141.56.84,50000,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,361,6.99
-110.12.85.17,34377,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,816,6.98
-175.119.93.150,24000,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,459,6.97
-218.238.105.140,36533,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,99,6.97
-1.251.112.185,13196,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,435,6.96
-118.38.208.63,28089,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,101,6.96
-118.217.254.146,35447,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,425,6.96
-220.122.92.54,38648,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,123,6.95
-61.80.239.136,29744,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,93,6.95
-124.111.57.79,33446,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,146,6.95
-39.119.121.132,38289,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,157,6.95
-222.99.156.159,12106,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,218,6.94
-222.104.209.76,10277,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,299,6.94
-221.155.238.5,37457,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,152,6.94
-124.111.204.31,39071,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,146,6.93
-59.0.211.90,27465,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,122,6.93
-211.207.174.216,36128,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,434,6.93
-221.163.115.134,20008,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,226,6.92
-222.111.59.184,22524,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,127,6.92
-14.36.191.89,33533,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,704,6.92
-14.36.191.89,19979,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,368,6.92
-222.119.4.194,18219,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,92,6.91
-39.114.165.173,22514,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,132,6.91
-222.237.202.177,31255,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,119,6.91
-220.94.99.59,32912,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,231,6.9
-118.217.254.146,21096,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,146,6.9
-39.123.159.34,12962,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,74,6.88
-59.3.87.55,37432,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,230,6.88
-221.165.128.234,13418,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,104,6.88
-61.84.224.58,33959,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,124,6.87
-14.43.88.199,12099,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,167,6.87
-14.55.234.18,12385,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,131,6.87
-124.111.204.31,36937,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,104,6.86
-14.43.88.199,10468,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,111,6.86
-1.243.39.139,30577,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,174,6.86
-110.12.188.72,15861,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,104,6.86
-222.121.79.214,24738,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,272,6.85
-14.46.76.37,11160,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,220,6.85
-14.36.181.53,34425,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,144,6.85
-59.10.2.83,24428,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,262,6.83
-1.243.39.139,21536,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,139,6.82
-175.200.243.54,26496,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,130,6.82
-58.231.161.155,16621,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,387,6.81
-222.239.152.203,36959,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,533,6.79
-211.243.107.157,19575,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,185,6.79
-180.71.161.49,10946,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,111,6.79
-220.75.220.36,21723,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,886,6.79
-39.121.220.182,12016,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,303,6.78
-1.232.40.93,38945,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,245,6.78
-58.227.226.238,13910,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,834,6.78
-222.99.156.159,12149,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,89,6.78
-218.144.184.196,24454,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,105,6.78
-39.120.77.105,24757,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,129,6.78
-124.111.204.31,13113,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,488,6.78
-121.124.114.17,17457,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,132,6.77
-210.222.105.52,33668,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,114,6.77
-222.235.14.103,26551,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,707,6.76
-110.12.93.33,21563,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,125,6.76
-110.12.85.17,28478,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,343,6.76
-211.179.70.112,25297,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,111,6.75
-221.141.80.241,15993,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,301,6.75
-211.179.70.112,25186,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,120,6.75
-175.195.244.202,33026,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,121,6.74
-14.43.88.199,37780,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,102,6.74
-14.38.20.161,25276,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,177,6.74
-114.205.34.118,24872,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,288,6.74
-1.236.13.140,24754,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,395,6.74
-221.163.255.239,13196,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,144,6.73
-114.203.96.76,19162,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,978,6.73
-211.252.108.75,32603,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,107,6.72
-39.116.71.182,19448,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,122,6.72
-118.44.96.97,13931,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,175,6.72
-1.229.191.26,11293,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,482,6.72
-1.248.65.59,19219,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,299,6.7
-115.22.214.78,19609,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,1071,6.7
-14.55.234.18,22315,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,180,6.7
-1.229.191.26,25482,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,408,6.69
-118.38.208.63,15699,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,105,6.69
-168.126.210.143,13591,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,184,6.69
-221.166.163.231,11370,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,115,6.69
-175.112.117.142,37019,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,100,6.69
-222.237.202.177,33411,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,126,6.69
-61.85.59.244,23522,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,258,6.68
-14.48.204.248,27480,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,464,6.68
-218.38.36.6,36000,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,233,6.68
-1.251.60.253,13995,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,283,6.68
-39.114.165.173,25502,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,391,6.68
-39.113.7.144,31999,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,414,6.67
-175.119.93.150,31484,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,106,6.66
-211.207.129.20,30447,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,230,6.66
-114.201.130.237,38224,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,815,6.66
-59.1.7.124,18915,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,139,6.66
-222.103.7.204,23618,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,91,6.66
-118.221.27.51,32803,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,131,6.65
-59.27.12.34,10877,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,199,6.65
-1.229.191.26,14676,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,146,6.65
-14.32.85.141,23805,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,139,6.64
-175.200.150.13,35725,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,170,6.64
-222.103.7.204,24098,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,107,6.64
-39.116.231.236,30055,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,282,6.64
-222.99.207.77,24161,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,106,6.64
-220.86.117.70,11119,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,171,6.64
-14.48.204.248,14116,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,106,6.64
-221.138.1.99,26697,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,107,6.64
-1.236.248.109,33674,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,186,6.63
-222.114.236.58,13342,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,614,6.63
-218.156.162.26,13322,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,131,6.63
-222.236.136.212,12823,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,520,6.62
-180.71.205.236,34368,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,216,6.62
-14.32.158.138,18546,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,80,6.62
-114.203.236.104,32665,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,270,6.62
-61.253.34.186,16474,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,853,6.61
-14.38.20.161,11567,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,789,6.61
-14.50.42.93,10984,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,130,6.61
-39.114.237.166,27986,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,292,6.6
-39.118.174.54,22046,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,231,6.6
-1.236.186.119,18496,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,679,6.6
-221.141.80.241,32555,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,330,6.6
-1.236.248.109,23550,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,254,6.59
-115.22.214.78,33451,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,144,6.59
-221.152.242.211,34838,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,124,6.59
-121.124.114.17,27857,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,120,6.59
-180.67.139.241,36305,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,125,6.59
-211.117.167.131,33829,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,121,6.58
-211.210.202.186,22548,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,98,6.58
-124.111.57.79,35960,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,886,6.58
-1.244.202.141,37553,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,157,6.58
-61.82.218.64,28362,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,796,6.57
-59.28.24.148,26646,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,215,6.57
-14.38.20.161,10790,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,140,6.56
-222.103.7.204,31153,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,128,6.56
-1.237.229.226,29371,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,177,6.56
-39.119.6.39,36124,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,153,6.55
-218.237.123.117,31778,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,726,6.55
-14.49.248.125,27859,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,156,6.55
-210.222.105.52,32802,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,157,6.54
-222.235.16.163,33051,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,140,6.54
-1.238.209.247,37264,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,373,6.53
-39.115.0.100,35372,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,146,6.52
-118.223.221.138,15128,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,112,6.52
-222.104.209.76,13857,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,112,6.52
-220.94.6.151,14710,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,183,6.51
-222.121.79.214,34446,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,99,6.51
-222.121.79.214,33717,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,109,6.51
-218.38.36.6,25399,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,464,6.51
-1.224.98.149,21963,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,225,6.51
-220.81.242.185,32831,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,209,6.5
-14.50.42.93,29335,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,584,6.49
-221.156.0.84,38682,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,674,6.49
-116.125.73.21,21093,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,211,6.49
-211.179.70.112,29366,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,223,6.49
-39.120.77.105,39335,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,124,6.48
-222.235.14.103,21816,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,568,6.48
-1.243.39.139,12094,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,126,6.48
-39.113.220.231,31272,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,1334,6.48
-14.38.20.161,26652,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,81,6.47
-175.201.21.227,24947,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,273,6.47
-118.44.96.97,34939,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,156,6.47
-211.104.215.140,10123,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,115,6.47
-1.235.176.215,22105,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,305,6.47
-39.124.70.190,20039,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,510,6.46
-223.222.178.82,32021,True,KIX,JP,Asia Pacific,Osaka,17849,SK Broadband Co Ltd,139,6.46
-14.34.25.156,13416,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,165,6.45
-118.41.50.223,39282,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,239,6.45
-39.119.121.132,31071,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,115,6.44
-222.103.7.204,30850,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,82,6.44
-218.156.162.26,30603,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,198,6.44
-14.43.145.132,38274,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,117,6.44
-1.241.218.157,22240,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,570,6.44
-1.236.97.252,34456,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,260,6.44
-219.249.105.205,39466,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,826,6.44
-124.111.204.31,30654,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,353,6.43
-222.236.136.212,15967,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,434,6.43
-211.212.43.153,33135,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,210,6.43
-211.33.71.215,31091,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,219,6.43
-118.219.239.158,38100,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,232,6.43
-211.117.167.131,16123,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,224,6.42
-14.36.97.87,11372,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,66,6.42
-58.231.161.155,32669,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,428,6.41
-14.37.201.37,32495,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,75,6.41
-218.148.216.36,30035,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,119,6.41
-118.223.171.250,14172,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,133,6.4
-58.122.187.141,25716,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,246,6.4
-175.215.130.73,10856,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,161,6.39
-121.124.114.17,13612,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,197,6.39
-14.46.76.37,22765,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,660,6.39
-116.125.73.21,14584,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,142,6.39
-1.243.39.139,15397,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,120,6.39
-221.141.80.241,31896,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,269,6.39
-114.206.204.41,13836,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,137,6.38
-1.243.39.139,25272,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,132,6.38
-59.31.45.52,38135,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,290,6.38
-211.212.43.153,14957,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,172,6.38
-59.10.2.83,30945,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,169,6.38
-220.78.52.112,12590,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,269,6.37
-39.124.231.44,27197,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,102,6.37
-1.231.146.114,12994,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,370,6.37
-175.200.243.54,38724,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,117,6.37
-58.124.161.15,29003,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,237,6.37
-39.114.237.166,24250,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,198,6.36
-110.12.93.33,38272,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,508,6.36
-118.222.219.124,11824,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,226,6.36
-1.237.229.226,15778,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,268,6.36
-211.210.202.186,33441,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,659,6.35
-211.59.51.163,39159,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,703,6.35
-211.198.190.105,30799,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,615,6.35
-118.42.251.196,30673,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,391,6.35
-180.71.205.236,17835,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,783,6.34
-114.201.130.237,28855,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,304,6.34
-220.94.99.59,20645,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,89,6.34
-1.248.65.59,16618,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,285,6.34
-222.235.135.123,21406,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,265,6.33
-211.59.51.163,13457,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,354,6.33
-222.232.59.84,21305,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,299,6.33
-1.236.248.109,37239,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,235,6.32
-222.97.173.104,11756,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,73,6.32
-118.38.208.63,31984,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,148,6.32
-221.138.1.99,27729,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,148,6.31
-218.156.162.26,28792,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,263,6.31
-220.120.248.42,22153,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,146,6.31
-1.243.39.139,32667,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,123,6.3
-222.104.209.76,28052,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,187,6.3
-180.71.219.67,15815,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,320,6.3
-220.119.123.7,26722,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,999,6.3
-218.38.36.6,16221,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,193,6.29
-61.101.131.17,30039,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,71,6.29
-221.162.185.151,34722,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,204,6.29
-180.71.205.236,21115,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,576,6.29
-58.231.161.155,27805,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,207,6.29
-58.238.77.178,23130,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,164,6.28
-175.200.141.106,30046,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,165,6.28
-211.172.136.38,28775,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,131,6.27
-59.21.10.151,21264,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,125,6.27
-222.235.193.82,11911,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,106,6.26
-14.48.204.248,16461,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,140,6.25
-175.119.93.150,29560,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,173,6.25
-39.124.96.8,15306,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,488,6.25
-59.0.211.90,13717,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,112,6.25
-115.22.214.78,34076,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,224,6.24
-118.41.114.116,24289,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,199,6.24
-118.38.208.63,15555,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,147,6.24
-218.237.123.117,23689,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,154,6.23
-1.243.39.139,36539,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,184,6.23
-59.1.55.42,35496,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,180,6.23
-222.236.136.212,13592,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,269,6.23
-218.49.51.119,36852,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,162,6.23
-211.179.49.130,10136,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,183,6.22
-218.151.61.149,11578,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,682,6.22
-222.236.168.230,18363,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,108,6.22
-14.46.193.166,35626,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,116,6.22
-222.234.105.56,28531,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,119,6.22
-211.179.70.112,28813,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,206,6.22
-122.116.105.15,10443,True,TPE,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,184,6.21
-221.152.115.8,10742,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,6.21
-211.33.71.215,27880,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,114,6.2
-180.71.205.236,27501,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,136,6.2
-118.223.114.241,38531,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,103,6.2
-175.200.243.54,11668,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,182,6.2
-110.12.155.13,31039,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,269,6.2
-220.82.184.100,34136,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,125,6.19
-218.238.105.140,25682,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,108,6.18
-222.103.7.204,35266,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,875,6.18
-14.44.63.6,15784,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,197,6.18
-114.203.96.76,29409,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,235,6.17
-14.43.88.199,35113,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,133,6.16
-221.152.242.211,16322,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,203,6.16
-180.71.214.223,11841,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,416,6.16
-39.119.121.132,36248,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,265,6.16
-58.231.161.155,36848,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,125,6.15
-39.119.121.132,38602,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,124,6.14
-39.121.247.78,10180,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,135,6.14
-211.186.127.143,12383,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,67,6.14
-175.121.157.42,19400,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,157,6.14
-175.200.243.54,21522,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,165,6.13
-1.243.39.139,27261,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,216,6.12
-58.230.183.96,16771,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,124,6.12
-58.226.236.121,13047,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,270,6.11
-58.122.187.141,28330,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,349,6.11
-175.199.77.12,12558,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,138,6.11
-124.111.204.31,38285,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,169,6.11
-14.43.88.199,20612,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,91,6.1
-175.200.243.54,29960,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,820,6.09
-211.38.90.108,19723,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,212,6.09
-1.250.33.152,10614,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,433,6.08
-39.124.96.8,16746,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,124,6.07
-118.43.214.55,14727,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,225,6.07
-221.163.255.239,13692,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,124,6.07
-222.235.89.37,22607,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,198,6.07
-123.111.75.98,12540,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,428,6.07
-222.235.193.82,12755,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,284,6.07
-1.243.39.139,27431,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,152,6.06
-211.199.54.68,17236,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,121,6.06
-211.33.71.215,11138,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,293,6.06
-39.113.220.231,13404,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,269,6.06
-118.44.41.251,17149,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,111,6.05
-118.46.87.142,20698,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,169,6.05
-220.94.6.151,27707,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,89,6.04
-115.23.34.207,35112,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,110,6.03
-175.200.213.62,25563,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,185,6.03
-1.236.97.252,10703,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,109,6.03
-211.117.150.67,34155,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,123,6.03
-39.124.96.8,36097,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,225,6.03
-175.112.211.140,21340,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,304,6.03
-13.250.131.37,443,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,227,6.02
-218.237.123.117,39036,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,282,6.02
-58.224.204.214,23950,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,483,6.02
-61.99.197.200,38421,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,209,6.02
-211.203.39.135,38714,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,889,6.01
-61.254.67.106,33597,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,97,6.01
-211.177.242.55,20067,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,112,6.01
-121.125.215.217,14545,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,827,6.01
-210.222.105.52,13034,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,142,6.01
-183.236.51.57,25982,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,18,42.22
-183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,9808,"China Mobile Communications Group Co., Ltd.",16,35.47
-183.236.51.57,25081,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,15,26.14
-183.236.51.16,10388,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,12,25.84
-132.145.94.80,443,True,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,116,23.77
-143.42.66.91,443,True,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,312,21.27
-183.236.51.57,28994,True,BKK,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,12,20.65
-163.177.58.169,25990,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,36,20.53
-43.229.149.251,2053,True,SIN,SG,Asia Pacific,Singapore,56309,Siamdata Communication CoLtd,133,18.85
-183.236.51.57,26471,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,21,16.56
-85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,198100,WAP.AC LTD,190,16.01
-183.236.51.57,27638,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,64,15.89
-183.94.30.165,46047,True,NRT,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,1850,15.83
-183.236.51.57,30578,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,21,13.44
-183.236.51.57,25893,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,17,12.46
-43.156.253.94,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,49,12.15
-43.156.53.68,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,47,12.06
-85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,198100,WAP.AC LTD,189,11.82
-183.236.51.57,29211,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,53,11.23
-166.88.35.141,443,True,SIN,SG,Asia Pacific,Singapore,149440,Evoxt Enterprise,93,10.93
-175.125.207.253,12133,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,186,10.17
-27.119.235.184,38748,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,379,9.98
-175.125.207.253,12180,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,222,9.89
-14.52.18.105,15389,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,299,9.84
-183.94.30.165,25669,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,60,9.83
-175.196.105.220,12571,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,72,9.79
-14.52.18.105,17172,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,293,9.78
-14.52.18.105,17974,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,137,9.77
-14.34.18.178,22504,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,111,9.75
-175.125.207.253,15361,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,107,9.72
-175.125.207.253,39587,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,369,9.66
-14.52.18.105,28643,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,179,9.63
-175.196.105.220,12178,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,69,9.61
-175.196.105.220,10048,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,9.6
-61.84.224.58,15528,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,805,9.56
-27.119.235.142,25375,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,371,9.56
-175.196.105.220,10241,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,323,9.55
-14.52.18.105,17690,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,86,9.54
-14.52.18.105,33509,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,213,9.53
-14.33.103.27,12909,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,226,9.52
-14.34.18.178,20249,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,127,9.52
-222.104.23.36,31097,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,82,9.5
-175.125.207.253,31658,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,386,9.5
-175.195.109.5,11887,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,176,9.45
-210.222.30.180,11383,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,138,9.41
-14.52.18.105,12658,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,751,9.38
-175.196.105.220,32679,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,293,9.37
-183.236.51.57,31617,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,14,9.35
-27.119.235.138,30204,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,377,9.32
-14.52.18.105,13228,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,566,9.3
-175.196.105.220,12856,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,136,9.26
-175.125.207.253,33469,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,359,9.26
-222.104.23.36,21082,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,248,9.25
-175.196.105.220,18936,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,607,9.24
-61.84.224.58,12558,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,838,9.23
-222.104.15.219,38815,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,116,9.22
-27.119.235.138,35135,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,369,9.21
-175.125.207.253,10106,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,402,9.2
-27.119.235.184,18700,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,571,9.19
-183.94.30.165,29312,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,56,9.17
-14.36.119.92,25105,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,152,9.16
-1.243.125.214,18759,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,290,9.15
-27.119.235.146,31027,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,371,9.12
-27.119.233.115,20446,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,378,9.11
-59.18.235.160,19999,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,470,9.08
-59.27.228.134,35404,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,113,9.02
-116.122.120.234,12529,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,237,9.02
-27.119.235.222,12136,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,375,9.02
-222.104.23.36,12390,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,138,8.98
-114.203.236.104,24482,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,141,8.98
-211.184.95.217,11272,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,309,8.97
-27.119.235.222,16702,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,372,8.95
-27.119.233.60,11763,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,259,8.95
-175.196.105.220,31401,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,324,8.94
-175.114.193.209,37274,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,240,8.93
-175.125.207.253,12501,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,460,8.92
-27.119.235.138,13152,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,373,8.92
-27.119.233.60,22689,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,378,8.91
-222.104.23.36,10018,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,798,8.9
-114.203.236.104,32665,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,155,8.9
-27.119.235.222,30049,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,349,8.89
-43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,49,8.87
-27.119.235.142,24316,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,367,8.84
-222.251.222.151,23309,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,281,8.84
-175.196.105.220,22697,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,8.84
-211.243.77.40,17480,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,198,8.8
-180.65.81.9,24917,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,174,8.78
-114.203.236.104,28120,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,539,8.78
-175.125.207.253,29377,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,154,8.78
-14.36.119.92,10829,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,325,8.76
-61.98.185.140,22397,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,140,8.74
-27.119.233.190,12568,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,373,8.74
-27.119.235.138,10349,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,376,8.74
-27.124.234.213,38323,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,345,8.74
-61.84.224.58,39741,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,136,8.73
-222.251.222.151,24381,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,342,8.73
-222.251.222.151,21817,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,337,8.73
-219.240.54.189,10958,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,181,8.73
-211.243.77.40,10893,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,197,8.72
-27.119.235.222,22433,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,367,8.71
-175.125.207.253,25192,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,349,8.69
-222.251.222.151,24206,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,337,8.69
-1.224.192.147,12855,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,142,8.69
-219.240.54.189,27196,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,137,8.68
-116.122.120.234,28108,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,131,8.68
-222.102.190.56,12221,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,476,8.65
-175.196.105.220,15470,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,81,8.64
-183.94.30.165,42910,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,50,8.64
-121.125.215.217,10589,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,161,8.62
-175.114.193.209,24250,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,143,8.58
-222.251.222.151,17194,True,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,265,8.57
-27.119.233.26,37607,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,375,8.57
-211.199.226.149,12757,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,229,8.57
-211.243.77.40,38262,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,139,8.56
-27.119.233.14,25147,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,383,8.55
-27.119.235.222,21976,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,378,8.54
-110.12.93.33,26964,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,146,8.53
-211.225.115.76,36561,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,625,8.53
-39.116.245.197,50004,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,416,8.51
-222.97.243.235,18882,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,96,8.49
-27.124.234.213,21407,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,421,8.49
-61.98.185.140,28947,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,134,8.44
-222.251.222.151,22321,True,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,350,8.43
-1.236.186.119,22565,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,190,8.42
-222.251.222.151,35570,True,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,319,8.38
-59.19.192.51,35868,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,343,8.38
-211.243.77.40,17779,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,207,8.38
-175.125.207.253,12316,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,389,8.37
-39.119.6.39,39553,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,325,8.37
-118.216.108.26,16871,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,194,8.37
-114.203.236.104,35559,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,193,8.36
-27.119.233.14,16839,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,318,8.33
-218.150.247.12,12559,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,349,8.33
-210.222.30.180,23208,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,751,8.32
-103.191.242.222,9099,True,SIN,SG,Asia Pacific,Singapore,4816,China Telecom Group,194,8.32
-61.254.67.106,39639,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,157,8.29
-211.199.54.68,18862,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,110,8.26
-175.121.138.160,19544,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,163,8.25
-175.121.57.59,30021,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,115,8.24
-14.36.119.92,18356,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,293,8.23
-211.196.226.172,24043,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,213,8.22
-210.222.30.180,10225,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,175,8.22
-1.232.40.93,19538,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,124,8.2
-222.103.251.148,23867,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,59,8.13
-27.124.234.213,17507,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,350,8.11
-220.77.18.195,21309,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,268,8.11
-222.251.222.151,29429,True,HKG,HK,Asia Pacific,Hong Kong,23563,SK Broadband Co Ltd,345,8.08
-210.100.215.99,12195,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,133,8.08
-14.36.119.92,25407,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,295,8.07
-175.121.138.160,10049,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,226,8.07
-61.84.208.144,12339,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,456,8.07
-14.36.119.92,36285,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,183,8.06
-61.80.135.3,30019,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,578,8.06
-222.232.58.94,30925,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,167,8.05
-14.36.191.89,19979,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,109,8.05
-221.144.52.131,26255,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,124,8.04
-175.196.105.220,10912,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,8.03
-27.124.234.213,31939,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,394,8.03
-222.120.173.147,30198,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,296,8.02
-210.222.30.180,23747,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,164,8.01
-114.203.236.104,19391,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,288,8.0
-59.27.228.134,10116,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,638,7.98
-222.97.243.235,15456,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,60,7.95
-1.243.125.214,25270,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,379,7.95
-1.236.13.140,24452,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,110,7.94
-222.104.82.72,28076,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,62,7.94
-211.243.77.40,24496,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,137,7.93
-59.28.137.27,33807,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,113,7.92
-61.80.135.3,10390,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,218,7.92
-58.231.121.107,25947,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,497,7.92
-1.248.41.114,11312,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,542,7.91
-118.44.96.97,22107,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,270,7.9
-211.199.54.68,33604,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,260,7.9
-58.231.161.155,12657,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,142,7.89
-222.97.243.235,11030,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,55,7.89
-114.203.236.104,12829,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,282,7.88
-14.32.158.138,19017,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,148,7.87
-211.243.77.40,18542,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,211,7.87
-1.241.49.215,36958,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,247,7.86
-39.121.97.223,10956,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,312,7.86
-211.199.54.68,19015,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,247,7.85
-1.243.125.214,12322,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,178,7.84
-115.41.79.96,12237,True,ICN,KR,Asia Pacific,Seoul,10066,LG HelloVision Corp,183,7.84
-222.103.7.204,38748,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,112,7.83
-14.43.88.199,12099,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,99,7.83
-116.122.120.234,17906,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,214,7.83
-220.121.96.219,21326,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,817,7.82
-222.232.58.94,28765,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,185,7.8
-175.114.193.209,34057,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,169,7.78
-27.124.234.213,25734,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,421,7.78
-211.212.43.153,33135,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,225,7.78
-175.121.157.42,26853,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,365,7.77
-61.80.135.3,16035,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,597,7.76
-222.100.158.229,18088,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,526,7.76
-59.28.137.27,10020,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,136,7.76
-222.113.18.206,16089,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,701,7.75
-118.219.239.158,24532,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,146,7.75
-222.103.251.148,12345,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,832,7.75
-118.44.96.97,16095,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,157,7.75
-27.124.234.213,31759,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,277,7.74
-210.179.32.202,17780,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,695,7.73
-222.232.58.94,18515,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,229,7.72
-14.55.234.18,12385,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,88,7.71
-219.249.105.205,14105,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,169,7.7
-61.98.58.5,31609,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,181,7.7
-175.196.105.220,33270,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,128,7.7
-116.122.120.234,37873,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,270,7.69
-118.221.45.53,36365,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,275,7.67
-27.124.234.213,10758,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,420,7.65
-222.111.59.184,10480,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,162,7.64
-175.194.139.90,33242,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,736,7.64
-211.243.107.157,35713,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,261,7.63
-222.119.82.237,18534,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,658,7.62
-116.122.120.234,21140,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,202,7.62
-222.111.59.184,12483,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,80,7.61
-221.166.163.231,11370,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,134,7.61
-1.253.134.202,37215,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,212,7.6
-222.236.178.98,29014,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,175,7.59
-1.236.13.140,25674,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,441,7.58
-222.114.236.58,15743,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,400,7.58
-211.207.174.216,25107,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,250,7.58
-1.231.146.114,19448,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,205,7.57
-1.236.186.119,26674,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,106,7.56
-221.164.149.81,19764,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,112,7.55
-203.236.108.40,31630,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,93,7.55
-121.125.215.217,19214,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,179,7.55
-175.199.77.12,19527,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,359,7.54
-222.251.222.151,11554,True,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,252,7.54
-175.199.77.12,38461,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,91,7.54
-119.18.124.161,12735,True,ICN,KR,Asia Pacific,Seoul,9770,LG HelloVision Corp,120,7.54
-118.221.27.51,23046,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,142,7.54
-175.200.141.106,30046,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,104,7.53
-59.28.24.148,16899,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,78,7.53
-1.231.146.114,17722,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,245,7.53
-114.200.231.102,50000,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,130,7.52
-221.152.242.211,20367,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,243,7.52
-118.44.96.97,30444,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,284,7.52
-175.121.57.59,23841,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,100,7.52
-211.179.49.130,22129,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,283,7.51
-114.201.84.248,28571,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,398,7.51
-61.80.135.3,18079,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,788,7.51
-14.37.201.37,39077,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,180,7.51
-27.119.235.184,29455,True,KIX,JP,Asia Pacific,Osaka,17864,SK Broadband Co Ltd,483,7.5
-222.251.222.151,31793,True,KIX,JP,Asia Pacific,Osaka,23563,SK Broadband Co Ltd,384,7.5
-211.207.129.20,11333,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,392,7.5
-211.199.54.68,17236,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,112,7.5
-218.209.226.8,13073,True,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,197,7.5
-59.11.33.164,12469,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,448,7.49
-1.237.229.226,17767,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,165,7.48
-14.32.247.43,30486,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,260,7.48
-175.192.27.197,19548,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,198,7.47
-222.97.173.104,10225,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,143,7.47
-203.228.115.209,36109,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,175,7.47
-180.71.161.49,23379,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,321,7.46
-115.22.214.78,10128,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,783,7.46
-14.43.88.199,27088,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,775,7.45
-211.57.93.19,13775,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,367,7.45
-211.243.77.40,19440,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,258,7.44
-61.98.185.140,27985,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,364,7.44
-61.84.224.58,26064,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,226,7.44
-58.231.161.155,15624,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,525,7.43
-1.231.146.114,34851,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,1085,7.42
-220.119.123.7,24695,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,121,7.41
-118.38.208.63,15694,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,745,7.4
-58.122.187.141,11341,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,266,7.39
-114.203.236.104,23530,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,340,7.39
-221.165.66.12,12526,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,122,7.39
-221.152.242.211,32325,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,502,7.39
-211.199.54.68,38582,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,217,7.39
-222.251.222.151,14750,True,HKG,HK,Asia Pacific,Hong Kong,23563,SK Broadband Co Ltd,1141,7.38
-59.4.127.17,10850,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,195,7.38
-220.77.105.23,10038,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,190,7.38
-222.119.56.43,12179,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,111,7.37
-14.36.181.53,34425,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,664,7.37
-1.232.40.93,17388,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,99,7.36
-27.124.234.213,33122,True,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,384,7.36
-222.104.82.72,27086,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,84,7.35
-118.44.96.97,34939,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,359,7.35
-222.251.222.151,26862,True,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,321,7.34
-222.236.136.212,14014,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,868,7.34
-27.124.234.213,16559,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,271,7.34
-61.80.135.3,10012,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,535,7.33
-39.121.97.223,37268,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,429,7.33
-180.66.77.154,29183,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,115,7.32
-175.201.21.227,14104,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,253,7.32
-14.50.42.93,15157,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,281,7.32
-220.122.42.198,18429,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,106,7.32
-222.119.56.43,28755,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,206,7.31
-222.237.202.177,33411,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,340,7.31
-27.119.235.142,39833,True,NRT,JP,Asia Pacific,Tokyo,17864,SK Broadband Co Ltd,284,7.29
-218.238.105.140,36403,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,192,7.29
-1.243.39.139,14443,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,229,7.28
-220.86.117.70,12312,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,444,7.28
-14.32.158.138,21324,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,281,7.27
-183.94.30.165,26401,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,54,7.26
-175.201.21.227,22511,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,573,7.26
-220.94.105.146,20082,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,252,7.26
-1.231.146.114,12237,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,93,7.25
-211.224.61.108,11946,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,216,7.25
-1.243.39.139,29306,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,294,7.24
-114.201.84.248,31344,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,331,7.24
-110.12.93.33,21075,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,271,7.24
-59.29.151.4,39084,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,219,7.24
-59.29.151.4,39964,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,249,7.24
-14.36.181.53,23961,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,240,7.24
-175.200.243.54,25213,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,124,7.23
-222.121.79.214,10032,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,127,7.23
-210.222.105.52,13034,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,307,7.23
-61.77.77.3,12258,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,1070,7.23
-1.232.40.93,22685,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,542,7.23
-59.27.38.73,10088,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,102,7.22
-211.232.211.183,18141,True,HKG,HK,Asia Pacific,Hong Kong,17854,SK Broadband Co Ltd,139,7.22
-222.251.222.151,10050,True,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,271,7.22
-1.231.146.114,33739,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,354,7.22
-222.121.79.214,26567,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,78,7.22
-14.48.204.248,11372,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,576,7.22
-115.22.214.78,10592,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,419,7.19
-27.119.235.142,21096,True,KIX,JP,Asia Pacific,Osaka,17864,SK Broadband Co Ltd,500,7.19
-175.195.149.58,18083,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,244,7.18
-118.41.50.223,27296,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,258,7.18
-211.199.54.68,16016,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,117,7.17
-175.112.234.248,10134,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,326,7.16
-211.243.77.40,10650,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,131,7.16
-14.36.233.181,50007,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,265,7.16
-218.209.226.8,12055,True,HKG,HK,Asia Pacific,Hong Kong,23563,SK Broadband Co Ltd,157,7.16
-118.38.208.63,18458,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,130,7.15
-14.48.204.248,14116,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,68,7.15
-211.227.125.151,11817,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,158,7.15
-211.232.211.183,28935,True,ICN,KR,Asia Pacific,Seoul,17854,SK Broadband Co Ltd,278,7.14
-222.97.173.104,28929,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,274,7.14
-110.12.93.33,13476,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,564,7.13
-14.50.42.93,26421,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,121,7.13
-121.125.162.32,12825,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,206,7.12
-222.104.209.76,10277,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,287,7.12
-1.243.39.139,15765,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,552,7.12
-218.37.77.96,15453,True,NRT,JP,Asia Pacific,Tokyo,17864,SK Broadband Co Ltd,408,7.11
-211.232.211.183,27898,True,ICN,KR,Asia Pacific,Seoul,17854,SK Broadband Co Ltd,277,7.11
-222.251.222.151,21563,True,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,348,7.11
-211.199.54.68,11758,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,293,7.11
-39.116.71.182,33178,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,363,7.1
-116.122.120.234,11084,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,172,7.09
-222.104.209.76,24890,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,7.09
-211.199.127.208,10249,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,662,7.09
-1.231.146.114,14342,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,178,7.09
-211.176.90.4,50003,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,539,7.08
-61.83.8.8,12690,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,101,7.08
-1.232.40.93,38945,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,141,7.08
-39.124.96.8,13623,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,263,7.08
-222.97.243.235,17146,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,449,7.07
-14.43.145.132,30388,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,129,7.06
-219.241.66.229,38294,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,190,7.06
-39.114.237.166,26544,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,263,7.06
-14.38.20.161,25276,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,230,7.05
-39.113.220.231,21404,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,131,7.05
-222.121.79.214,30422,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,1077,7.05
-222.97.243.235,23601,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,350,7.04
-220.122.42.198,21555,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,196,7.04
-61.98.190.141,30897,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,447,7.04
-211.232.211.183,18534,True,ICN,KR,Asia Pacific,Seoul,17854,SK Broadband Co Ltd,346,7.03
-180.67.12.103,30171,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,197,7.03
-14.32.158.138,18546,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,293,7.02
-58.224.204.214,22566,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,272,7.02
-27.119.235.144,10438,True,KIX,JP,Asia Pacific,Osaka,17864,SK Broadband Co Ltd,395,7.02
-210.123.169.157,12409,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,127,7.01
-121.125.215.217,29689,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,208,7.01
-1.243.52.80,36745,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,274,7.0
-14.46.76.37,11160,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,307,7.0
-14.48.204.248,27480,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,802,7.0
-58.122.187.141,38202,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,341,7.0
-59.29.151.4,11402,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,292,6.99
-14.53.21.79,21379,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,407,6.99
-222.113.18.206,22735,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,193,6.99
-14.36.181.53,18062,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,463,6.98
-14.50.132.112,16032,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,242,6.98
-222.119.56.43,29017,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,71,6.98
-14.36.97.87,11372,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,85,6.98
-180.68.128.117,17222,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,428,6.97
-218.146.121.229,21309,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,208,6.97
-14.36.191.89,25285,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,193,6.97
-211.232.211.183,15187,True,ICN,KR,Asia Pacific,Seoul,17854,SK Broadband Co Ltd,280,6.97
-211.199.54.68,22315,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,134,6.96
-61.80.135.3,23325,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,95,6.95
-220.77.18.195,12551,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,255,6.95
-1.236.186.119,12504,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,426,6.94
-222.119.56.43,12567,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,207,6.94
-14.32.85.141,23805,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,486,6.94
-39.124.231.44,30267,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,217,6.94
-221.166.161.62,15984,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,707,6.93
-59.3.87.55,30468,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,677,6.93
-222.119.56.43,30452,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,1290,6.92
-13.250.131.37,443,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,355,6.91
-210.113.121.145,12492,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,132,6.9
-211.212.43.153,11550,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,170,6.9
-61.80.135.3,12198,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,133,6.9
-39.115.0.100,10415,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,92,6.9
-222.113.179.204,22314,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,280,6.89
-14.49.248.125,27859,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,658,6.89
-59.28.24.148,38705,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,145,6.88
-118.41.50.223,23147,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,116,6.88
-220.86.117.70,10084,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,385,6.88
-1.252.122.180,25457,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,324,6.88
-222.113.18.218,16401,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,442,6.87
-1.251.60.253,31433,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,129,6.86
-14.32.158.138,14888,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,576,6.86
-39.124.70.190,24315,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,215,6.85
-59.1.55.42,11527,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,129,6.84
-222.119.4.194,18219,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,209,6.83
-220.85.254.226,12557,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,731,6.83
-211.194.207.184,20450,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,90,6.83
-14.38.20.161,10790,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,105,6.83
-222.114.236.58,34211,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,109,6.83
-59.28.24.148,14167,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,113,6.83
-59.27.228.116,18054,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,65,6.82
-175.199.77.12,19092,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,277,6.81
-222.104.209.76,31903,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,108,6.81
-116.125.73.21,23635,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,167,6.81
-118.44.96.97,12220,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,286,6.79
-1.251.112.185,18362,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,321,6.79
-175.192.11.74,13001,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,862,6.79
-114.201.84.248,14492,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,260,6.78
-1.231.146.114,11105,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,786,6.78
-218.38.36.6,34692,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,179,6.77
-175.200.243.54,11668,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,136,6.77
-218.37.77.96,17846,True,HKG,HK,Asia Pacific,Hong Kong,17864,SK Broadband Co Ltd,785,6.77
-118.223.221.138,18929,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,468,6.77
-222.251.222.151,27837,True,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,318,6.77
-1.243.39.139,15917,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,266,6.77
-222.119.56.43,12563,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,854,6.77
-1.252.122.180,28074,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,188,6.77
-1.235.176.215,19143,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,215,6.76
-211.179.70.112,33936,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,186,6.76
-14.53.181.197,12504,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,127,6.76
-222.103.251.148,12508,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,128,6.75
-211.198.190.105,27736,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,63,6.75
-14.32.158.138,17197,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,124,6.75
-222.118.11.245,50004,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,141,6.74
-203.229.50.40,30055,True,ICN,KR,Asia Pacific,Seoul,38096,SK Broadband Co Ltd,259,6.74
-175.194.139.90,12349,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,78,6.74
-39.115.0.100,18624,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,190,6.73
-39.113.7.144,23685,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,459,6.73
-175.119.93.150,18337,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,256,6.73
-14.38.20.161,16811,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,544,6.73
-222.103.7.204,31153,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,59,6.73
-118.38.208.63,15852,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,126,6.72
-222.107.156.10,50005,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,249,6.71
-14.38.20.161,11115,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,601,6.71
-59.1.55.42,34801,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,175,6.71
-222.119.56.43,18201,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,851,6.71
-1.231.146.114,39704,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,169,6.7
-118.43.181.146,18998,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,782,6.7
-118.47.26.159,29058,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,341,6.7
-221.165.128.234,22673,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,154,6.7
-222.119.56.43,15729,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,867,6.69
-27.124.234.213,35470,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,345,6.69
-1.241.218.157,14639,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,208,6.69
-220.121.201.24,17780,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,268,6.69
-222.104.209.76,13857,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,111,6.69
-115.22.214.78,19609,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,164,6.69
-59.21.20.249,30070,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,366,6.68
-210.222.105.52,21203,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,114,6.68
-211.197.213.156,28074,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,736,6.68
-61.254.205.175,22323,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,194,6.68
-1.236.97.252,34456,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,265,6.68
-222.99.156.159,19080,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,139,6.68
-116.125.73.21,26258,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,182,6.67
-220.73.84.115,50000,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,465,6.67
-220.119.123.7,11389,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,143,6.67
-175.200.243.54,34860,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,201,6.66
-175.198.227.26,23082,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,603,6.66
-211.199.54.68,13665,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,249,6.66
-168.126.210.143,12280,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,248,6.66
-222.111.59.184,22524,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,103,6.66
-175.200.150.13,35725,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,103,6.66
-1.241.218.157,12780,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,215,6.66
-211.197.141.138,29551,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,610,6.66
-61.98.190.141,36666,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,205,6.65
-1.235.176.215,15258,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,138,6.65
-175.206.85.15,12390,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,570,6.65
-39.123.159.34,12231,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,561,6.65
-175.199.77.12,21594,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,138,6.65
-121.124.114.17,11560,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,153,6.63
-14.36.97.87,12303,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,122,6.63
-14.38.20.161,34653,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,284,6.63
-27.124.234.213,34910,True,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,424,6.62
-175.195.244.202,33026,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,86,6.62
-211.198.190.105,34646,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,97,6.62
-59.29.151.4,14681,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,225,6.62
-59.27.228.116,25870,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,96,6.62
-59.27.228.116,35248,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,83,6.62
-1.248.41.114,18857,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,185,6.62
-118.44.96.97,30122,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,846,6.62
-221.164.149.81,31852,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,286,6.61
-27.119.235.146,10667,True,NRT,JP,Asia Pacific,Tokyo,17864,SK Broadband Co Ltd,385,6.6
-220.86.117.70,20090,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,499,6.59
-211.228.85.135,12588,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,262,6.59
-14.53.181.197,10161,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,126,6.59
-220.123.165.166,12129,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,1838,6.59
-222.251.222.151,19407,True,HKG,HK,Asia Pacific,Hong Kong,23563,SK Broadband Co Ltd,422,6.58
-61.99.197.200,12964,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,201,6.58
-115.22.17.221,21329,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,149,6.58
-58.239.136.32,38179,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,574,6.58
-14.53.21.79,11666,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,114,6.58
-210.204.144.74,30012,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,179,6.57
-220.90.32.30,32358,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,133,6.56
-222.232.58.94,24078,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,192,6.56
-175.115.116.134,12339,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,470,6.56
-118.42.251.196,27190,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,333,6.55
-59.1.55.42,39311,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,103,6.55
-14.50.42.93,33084,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,322,6.55
-211.207.129.20,39998,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,136,6.55
-118.41.114.116,10579,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,170,6.54
-218.238.105.140,36945,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,131,6.54
-222.251.222.151,21705,True,HKG,HK,Asia Pacific,Hong Kong,23563,SK Broadband Co Ltd,373,6.53
-14.36.191.89,12339,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,252,6.53
-211.223.106.3,50000,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,490,6.53
-218.151.5.197,30023,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,110,6.53
-118.41.50.223,24920,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,322,6.52
-211.46.4.145,32853,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,129,6.52
-39.116.71.182,38680,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,185,6.52
-1.238.209.247,30044,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,106,6.52
-211.179.70.112,12702,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,242,6.52
-211.243.107.157,35521,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,837,6.52
-59.4.197.59,38713,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,267,6.51
-221.161.118.96,10443,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,465,6.51
-1.231.146.114,26462,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,374,6.51
-115.22.214.78,13360,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,792,6.51
-39.124.70.190,14917,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,193,6.51
-218.209.5.180,30078,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,343,6.51
-218.234.111.175,10081,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,96,6.5
-211.213.4.68,38029,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,282,6.5
-221.152.242.211,16322,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,149,6.5
-14.36.97.87,14812,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,215,6.5
-211.39.65.170,16077,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,138,6.5
-175.200.150.13,31529,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,105,6.5
-1.241.218.157,22240,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,137,6.49
-211.199.54.68,38939,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,835,6.48
-211.199.127.208,32540,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,149,6.48
-222.119.56.43,12487,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,73,6.47
-221.152.242.211,38579,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,689,6.47
-211.198.190.105,30799,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,211,6.47
-1.237.229.226,24150,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,121,6.47
-175.200.243.54,37167,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,90,6.46
-118.46.87.142,39189,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,307,6.46
-222.232.59.84,22222,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,399,6.45
-218.238.105.140,33227,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,267,6.45
-211.220.3.25,12411,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,132,6.45
-211.212.43.153,11798,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,126,6.45
-59.28.24.148,26646,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,499,6.44
-222.97.173.104,11756,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,123,6.44
-118.38.208.63,15699,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,717,6.44
-175.112.211.140,10188,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,2178,6.42
-211.196.226.172,22297,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,229,6.42
-119.75.99.140,29127,True,NRT,JP,Asia Pacific,Tokyo,17854,SK Broadband Co Ltd,1105,6.42
-1.248.65.59,25105,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,138,6.42
-61.101.87.93,50004,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,370,6.41
-211.199.54.68,36943,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,122,6.41
-118.44.88.88,11272,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,421,6.41
-220.94.81.3,16012,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,275,6.41
-14.48.204.248,23648,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,219,6.41
-211.228.85.135,10005,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,235,6.41
-218.152.195.182,39499,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,249,6.4
-14.43.88.199,16843,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,315,6.4
-39.116.185.111,33449,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,460,6.4
-61.82.218.64,17084,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,490,6.39
-114.94.49.3,4343,True,SIN,SG,Asia Pacific,Singapore,4812,China Telecom Group,447,6.39
-39.124.96.8,30965,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,281,6.38
-58.122.187.141,34836,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,207,6.38
-175.200.243.54,38235,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,308,6.38
-221.162.185.151,34722,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,129,6.38
-218.38.36.6,36912,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,172,6.38
-118.43.167.72,39890,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,358,6.37
-61.85.59.244,23522,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,93,6.37
-14.39.163.51,29783,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,92,6.36
-118.38.208.63,18089,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,660,6.36
-59.1.55.42,20880,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,114,6.35
-61.78.148.12,12477,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,452,6.35
-221.156.63.104,39234,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,385,6.35
-221.164.149.81,11854,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,846,6.35
-59.10.2.83,30862,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,388,6.35
-211.198.190.105,13717,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,608,6.34
-39.120.214.134,18159,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,178,6.34
-175.115.106.101,30060,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,542,6.34
-118.40.150.219,10977,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,209,6.34
-222.119.56.43,20640,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,177,6.33
-14.36.181.53,35925,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,345,6.33
-175.115.116.134,13825,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,276,6.33
-222.104.209.76,33422,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,293,6.32
-221.152.242.211,10081,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,132,6.32
-211.195.147.250,15502,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,656,6.32
-210.222.105.52,12237,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,907,6.32
-175.215.130.73,10856,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,476,6.31
-1.253.134.202,35361,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,186,6.31
-14.38.20.161,24603,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,210,6.31
-218.146.117.49,12546,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,255,6.3
-211.178.205.71,28017,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,418,6.3
-219.241.66.229,30583,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,240,6.3
-211.108.166.193,28232,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,329,6.3
-175.121.157.42,11963,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,210,6.3
-220.90.32.30,10283,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,116,6.29
-175.118.73.120,16805,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,157,6.29
-61.81.58.40,30025,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,819,6.29
-14.32.85.141,28933,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,766,6.28
-220.119.123.7,10442,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,6.28
-39.123.159.34,25216,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,426,6.28
-211.55.94.47,12189,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,110,6.27
-218.37.77.96,15856,True,KIX,JP,Asia Pacific,Osaka,17864,SK Broadband Co Ltd,419,6.27
-221.154.56.4,30029,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,123,6.27
-14.32.158.138,10001,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,1041,6.26
-220.77.18.195,38709,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,175,6.26
-39.123.159.34,32928,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,583,6.26
-39.123.159.34,18179,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,376,6.26
-222.113.18.205,27639,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,240,6.25
-14.32.158.138,30015,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,263,6.25
-59.5.165.246,16057,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,97,6.25
-39.113.220.231,10616,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,107,6.25
-222.234.105.56,20821,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,497,6.25
-59.3.87.55,10013,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,286,6.25
-211.198.190.105,26638,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,267,6.25
-59.28.137.27,50000,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,72,6.24
-211.232.211.183,11737,True,HKG,HK,Asia Pacific,Hong Kong,17854,SK Broadband Co Ltd,764,6.24
-59.28.24.148,30209,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,125,6.24
-222.251.222.151,35598,True,KIX,JP,Asia Pacific,Osaka,23563,SK Broadband Co Ltd,341,6.23
-211.232.211.183,29541,True,KIX,JP,Asia Pacific,Osaka,17854,SK Broadband Co Ltd,216,6.23
-221.152.115.8,10994,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,144,6.22
-58.122.187.141,25716,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,242,6.22
-221.164.149.81,16612,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,6.22
-221.152.115.8,33661,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,684,6.22
-122.202.210.81,50005,True,ICN,KR,Asia Pacific,Seoul,9946,KCTV JEJU BROADCASTING,332,6.22
-210.178.104.232,10254,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,163,6.22
-39.124.70.190,36579,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,191,6.21
-221.152.115.8,36510,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,297,6.21
-211.104.215.140,25286,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,370,6.21
-39.120.214.134,24386,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,127,6.21
-1.231.146.114,12576,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,149,6.2
-175.200.243.54,26496,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,293,6.2
-114.203.96.76,36071,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,4217,6.2
-222.116.55.76,50003,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,249,6.2
-39.114.237.166,28725,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,377,6.18
-1.235.176.215,20614,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,166,6.18
-211.212.43.153,14957,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,191,6.18
-14.32.158.138,14584,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,185,6.18
-59.9.79.74,27077,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,86,6.17
-114.201.84.248,39175,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,846,6.16
-221.156.0.84,23786,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,110,6.16
-118.40.73.223,34865,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,148,6.16
-14.43.220.246,10591,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,204,6.16
-211.195.217.104,10333,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,109,6.16
-218.232.46.4,15971,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,131,6.16
-221.152.115.8,17322,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,147,6.16
-59.31.45.52,38135,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,121,6.16
-14.42.24.233,16053,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,240,6.15
-119.75.99.140,21103,True,NRT,JP,Asia Pacific,Tokyo,17854,SK Broadband Co Ltd,894,6.15
-220.78.203.221,12425,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,704,6.15
-220.89.111.173,12182,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,584,6.15
-39.123.159.34,15813,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,560,6.14
-211.197.55.216,30005,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,800,6.14
-211.248.194.239,10205,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,160,6.14
-220.90.32.30,10571,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,497,6.14
-211.198.190.105,25177,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,60,6.14
-114.206.204.41,24933,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,170,6.13
-222.232.59.84,38661,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,100,6.13
-211.248.157.201,12365,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,486,6.13
-210.222.105.52,10254,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,177,6.12
-222.119.56.43,22877,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,264,6.12
-114.205.34.118,18344,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,417,6.12
-175.199.77.12,12558,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,120,6.12
-222.100.158.229,14082,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,209,6.12
-211.46.225.120,15184,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,125,6.12
-14.36.191.89,14350,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,123,6.12
-1.248.41.114,22926,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,163,6.12
-115.23.34.207,35112,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,219,6.11
-221.164.149.81,31017,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,274,6.11
-59.27.12.34,10877,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,67,6.11
-39.123.159.34,36250,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,367,6.1
-211.228.85.135,11111,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,374,6.1
-14.44.63.6,15784,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,114,6.09
-118.223.171.250,39644,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,566,6.08
-168.126.210.143,26327,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,650,6.07
-118.41.50.223,18160,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,128,6.07
-221.157.224.204,16105,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,633,6.07
-114.201.130.237,35316,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,487,6.07
-59.10.193.231,14808,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,72,6.06
-211.228.85.135,10209,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,243,6.06
-59.11.239.253,16045,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,273,6.06
-218.38.36.6,16764,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,118,6.06
-220.78.203.221,12320,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,114,6.06
-222.237.202.177,29291,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,868,6.05
-116.125.73.21,24104,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,172,6.05
-1.243.39.139,37840,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,559,6.05
-39.123.97.116,30070,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,543,6.05
-222.114.236.58,21786,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,204,6.04
-168.126.182.190,12558,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,806,6.04
-210.91.156.151,22522,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,624,6.03
-221.165.128.234,10086,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,116,6.03
-124.137.174.42,33150,True,NRT,JP,Asia Pacific,Tokyo,38117,jin san cable net company ltd,110,6.02
-218.238.105.140,33794,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,178,6.02
-118.219.239.158,22152,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,188,6.01
-14.55.234.18,11120,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,64,6.01
+IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),ChatGPT解锁,速度(MB/s)
+43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,127,,30.58
+85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,198100,WAPAC LTD,255,,21.47
+122.121.210.28,22441,True,TPE,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,141,,17.14
+183.236.51.57,31617,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,28,,16.37
+122.121.210.28,15475,True,TPE,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,111,,15.95
+85.237.207.79,31177,True,TPE,TW,Asia Pacific,Taipei,198100,WAPAC LTD,228,,15.85
+122.118.128.118,20592,True,KHH,TW,Asia Pacific,Kaohsiung City,3462,Data Communication Business Group,36,,14.71
+122.121.210.28,10834,True,KHH,TW,Asia Pacific,Kaohsiung City,3462,Data Communication Business Group,53,,14.3
+85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,198100,WAPAC LTD,259,,13.98
+122.121.210.28,10320,True,TPE,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,112,,12.68
+85.237.207.79,31144,True,TPE,TW,Asia Pacific,Taipei,198100,WAPAC LTD,234,,10.84
+1.244.202.141,24236,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,135,,9.95
+183.94.30.165,25583,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,28,,9.45
+180.69.77.130,25049,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,213,,9.2
+222.251.222.151,18130,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,86,,9.18
+218.48.148.10,15833,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,834,,9.06
+1.244.202.141,22642,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,1633,,9.05
+175.114.193.209,10590,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,120,,9.04
+1.244.202.141,11858,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,130,,8.97
+1.244.202.141,38840,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,68,,8.94
+61.254.67.106,39639,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,375,,8.93
+222.232.58.94,35416,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,118,,8.87
+175.125.207.253,13864,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,134,,8.86
+211.243.77.40,28655,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,306,,8.82
+175.123.37.191,32483,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,1911,,8.79
+175.125.207.253,10435,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,226,,8.79
+39.121.97.223,12044,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,345,,8.71
+116.122.120.234,25853,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,190,,8.61
+1.244.202.141,28503,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,91,,8.57
+180.65.81.9,39250,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,240,,8.57
+211.243.77.40,15707,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,293,,8.56
+211.186.127.143,17521,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,108,,8.55
+218.232.46.4,30688,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,487,,8.5
+1.244.202.141,11949,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,788,,8.5
+180.65.81.9,37164,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,201,,8.48
+175.125.207.253,35812,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,236,,8.47
+175.125.207.253,11932,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,367,,8.4
+116.122.120.234,27453,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,3322,,8.37
+1.237.229.226,34285,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,460,,8.37
+121.125.215.217,17800,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,129,,8.37
+222.251.222.151,24381,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,81,,8.35
+180.65.81.9,12559,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,191,,8.34
+218.48.148.10,15624,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,246,,8.32
+180.65.81.9,34052,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,860,,8.32
+218.238.224.169,26805,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,87,,8.32
+211.179.70.112,10671,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,89,,8.27
+124.111.204.31,24782,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,240,,8.27
+39.121.97.223,38122,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,182,,8.24
+61.254.67.106,15957,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,150,,8.22
+1.244.202.141,34437,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,134,,8.2
+1.252.122.180,36791,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,229,,8.18
+175.125.207.253,10176,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,193,,8.14
+61.98.58.5,17144,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,1920,,8.12
+58.238.77.178,15787,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,225,,8.12
+175.125.207.253,31636,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,174,,8.1
+61.98.58.5,13100,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,263,,8.09
+124.111.204.31,18700,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,72,,8.09
+180.67.12.103,28856,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,58,,8.08
+180.65.81.9,31469,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,254,,8.05
+58.233.215.231,11891,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,262,,8.02
+211.212.43.153,29898,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,541,,8.01
+175.125.207.253,26973,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,2768,,8.01
+1.251.60.253,22500,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,112,,8.01
+183.236.51.57,25982,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,18,,42.22
+183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,9808,"China Mobile Communications Group Co., Ltd.",16,,35.47
+183.236.51.57,25081,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,15,,26.14
+183.236.51.16,10388,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,12,,25.84
+132.145.94.80,443,True,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,116,,23.77
+143.42.66.91,443,True,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,312,,21.27
+183.236.51.57,28994,True,BKK,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,12,,20.65
+163.177.58.169,25990,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,36,,20.53
+43.229.149.251,2053,True,SIN,SG,Asia Pacific,Singapore,56309,Siamdata Communication CoLtd,133,,18.85
+183.236.51.57,26471,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,21,,16.56
+85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,198100,WAP.AC LTD,190,,16.01
+183.236.51.57,27638,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,64,,15.89
+183.94.30.165,46047,True,NRT,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,1850,,15.83
+183.236.51.57,30578,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,21,,13.44
+183.236.51.57,25893,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,17,,12.46
+43.156.253.94,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,49,,12.15
+43.156.53.68,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,47,,12.06
+85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,198100,WAP.AC LTD,189,,11.82
+183.236.51.57,29211,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,53,,11.23
+166.88.35.141,443,True,SIN,SG,Asia Pacific,Singapore,149440,Evoxt Enterprise,93,,10.93
+175.125.207.253,12133,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,186,,10.17
+27.119.235.184,38748,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,379,,9.98
+175.125.207.253,12180,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,222,,9.89
+14.52.18.105,15389,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,299,,9.84
+183.94.30.165,25669,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,60,,9.83
+175.196.105.220,12571,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,72,,9.79
+14.52.18.105,17172,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,293,,9.78
+14.52.18.105,17974,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,137,,9.77
+14.34.18.178,22504,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,111,,9.75
+175.125.207.253,15361,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,107,,9.72
+175.125.207.253,39587,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,369,,9.66
+14.52.18.105,28643,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,179,,9.63
+175.196.105.220,12178,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,69,,9.61
+175.196.105.220,10048,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,,9.6
+27.119.235.142,25375,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,371,,9.56
+61.84.224.58,15528,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,805,,9.56
+175.196.105.220,10241,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,323,,9.55
+14.52.18.105,17690,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,86,,9.54
+14.52.18.105,33509,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,213,,9.53
+14.34.18.178,20249,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,127,,9.52
+14.33.103.27,12909,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,226,,9.52
+175.125.207.253,31658,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,386,,9.5
+222.104.23.36,31097,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,82,,9.5
+175.195.109.5,11887,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,176,,9.45
+210.222.30.180,11383,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,138,,9.41
+14.52.18.105,12658,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,751,,9.38
+175.196.105.220,32679,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,293,,9.37
+183.236.51.57,31617,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,14,,9.35
+27.119.235.138,30204,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,377,,9.32
+14.52.18.105,13228,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,566,,9.3
+175.196.105.220,12856,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,136,,9.26
+175.125.207.253,33469,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,359,,9.26
+222.104.23.36,21082,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,248,,9.25
+175.196.105.220,18936,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,607,,9.24
+61.84.224.58,12558,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,838,,9.23
+222.104.15.219,38815,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,116,,9.22
+27.119.235.138,35135,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,369,,9.21
+175.125.207.253,10106,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,402,,9.2
+27.119.235.184,18700,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,571,,9.19
+183.94.30.165,29312,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,56,,9.17
+14.36.119.92,25105,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,152,,9.16
+1.243.125.214,18759,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,290,,9.15
+27.119.235.146,31027,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,371,,9.12
+27.119.233.115,20446,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,378,,9.11
+59.18.235.160,19999,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,470,,9.08
+116.122.120.234,12529,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,237,,9.02
+27.119.235.222,12136,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,375,,9.02
+59.27.228.134,35404,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,113,,9.02
+222.104.23.36,12390,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,138,,8.98
+114.203.236.104,24482,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,141,,8.98
+211.184.95.217,11272,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,309,,8.97
+27.119.235.222,16702,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,372,,8.95
+27.119.233.60,11763,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,259,,8.95
+175.196.105.220,31401,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,324,,8.94
+175.114.193.209,37274,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,240,,8.93
+27.119.235.138,13152,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,373,,8.92
+175.125.207.253,12501,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,460,,8.92
+27.119.233.60,22689,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,378,,8.91
+114.203.236.104,32665,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,155,,8.9
+222.104.23.36,10018,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,798,,8.9
+27.119.235.222,30049,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,349,,8.89
+43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,49,,8.87
+175.196.105.220,22697,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,,8.84
+222.251.222.151,23309,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,281,,8.84
+27.119.235.142,24316,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,367,,8.84
+211.243.77.40,17480,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,198,,8.8
+175.125.207.253,29377,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,154,,8.78
+114.203.236.104,28120,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,539,,8.78
+180.65.81.9,24917,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,174,,8.78
+14.36.119.92,10829,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,325,,8.76
+27.119.233.190,12568,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,373,,8.74
+61.98.185.140,22397,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,140,,8.74
+27.119.235.138,10349,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,376,,8.74
+27.124.234.213,38323,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,345,,8.74
+61.84.224.58,39741,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,136,,8.73
+222.251.222.151,21817,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,337,,8.73
+222.251.222.151,24381,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,342,,8.73
+219.240.54.189,10958,True,NRT,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,181,,8.73
+211.243.77.40,10893,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,197,,8.72
+27.119.235.222,22433,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,367,,8.71
+1.224.192.147,12855,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,142,,8.69
+175.125.207.253,25192,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,349,,8.69
+222.251.222.151,24206,True,ICN,KR,Asia Pacific,Seoul,23563,SK Broadband Co Ltd,337,,8.69
+219.240.54.189,27196,True,KIX,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,137,,8.68
+116.122.120.234,28108,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,131,,8.68
+222.102.190.56,12221,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,476,,8.65
+175.196.105.220,15470,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,81,,8.64
+183.94.30.165,42910,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,50,,8.64
+121.125.215.217,10589,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,161,,8.62
+175.114.193.209,24250,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,143,,8.58
+222.251.222.151,17194,True,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,265,,8.57
+211.199.226.149,12757,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,229,,8.57
+27.119.233.26,37607,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,375,,8.57
+211.243.77.40,38262,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,139,,8.56
+27.119.233.14,25147,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,383,,8.55
+27.119.235.222,21976,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,378,,8.54
+211.225.115.76,36561,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,625,,8.53
+110.12.93.33,26964,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,146,,8.53
+39.116.245.197,50004,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,416,,8.51
+27.124.234.213,21407,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,421,,8.49
+222.97.243.235,18882,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,96,,8.49
+61.98.185.140,28947,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,134,,8.44
+222.251.222.151,22321,True,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,350,,8.43
+1.236.186.119,22565,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,190,,8.42
+222.251.222.151,35570,True,NRT,JP,Asia Pacific,Tokyo,23563,SK Broadband Co Ltd,319,,8.38
+211.243.77.40,17779,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,207,,8.38
+59.19.192.51,35868,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,343,,8.38
+39.119.6.39,39553,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,325,,8.37
+118.216.108.26,16871,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,194,,8.37
+175.125.207.253,12316,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,389,,8.37
+114.203.236.104,35559,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,193,,8.36
+27.119.233.14,16839,True,ICN,KR,Asia Pacific,Seoul,17864,SK Broadband Co Ltd,318,,8.33
+218.150.247.12,12559,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,349,,8.33
+103.191.242.222,9099,True,SIN,SG,Asia Pacific,Singapore,4816,China Telecom Group,194,,8.32
+210.222.30.180,23208,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,751,,8.32
+61.254.67.106,39639,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,157,,8.29
+211.199.54.68,18862,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,110,,8.26
+175.121.138.160,19544,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,163,,8.25
+175.121.57.59,30021,True,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,115,,8.24
+14.36.119.92,18356,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,293,,8.23
+211.196.226.172,24043,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,213,,8.22
+210.222.30.180,10225,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,175,,8.22
+1.232.40.93,19538,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,124,,8.2
+222.103.251.148,23867,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,59,,8.13
+27.124.234.213,17507,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,350,,8.11
+220.77.18.195,21309,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,268,,8.11
+222.251.222.151,29429,True,HKG,HK,Asia Pacific,Hong Kong,23563,SK Broadband Co Ltd,345,,8.08
+210.100.215.99,12195,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,133,,8.08
+61.84.208.144,12339,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,456,,8.07
+14.36.119.92,25407,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,295,,8.07
+175.121.138.160,10049,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,226,,8.07
+14.36.119.92,36285,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,183,,8.06
+61.80.135.3,30019,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,578,,8.06
+14.36.191.89,19979,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,109,,8.05
+222.232.58.94,30925,True,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,167,,8.05
+221.144.52.131,26255,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,124,,8.04
+175.196.105.220,10912,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,,8.03
+27.124.234.213,31939,True,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,394,,8.03
+222.120.173.147,30198,True,FUK,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,296,,8.02
+210.222.30.180,23747,True,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,164,,8.01
