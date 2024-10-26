@@ -1,0 +1,6 @@
+IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),ChatGPT解锁
+118.35.78.217,31843,True,chat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,115,True
+118.44.96.97,28435,True,chat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,369,True
+221.156.0.84,28626,True,chat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,599,True
+221.158.66.108,13457,True,chat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,699,True
+59.20.45.212,23380,True,chat,JP,Asia Pacific,Osaka,4766,Korea Telecom,755,True
