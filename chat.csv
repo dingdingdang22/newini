@@ -1,15 +1,15 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.94.30.165,25469,True,chat,TW,Asia Pacific,Taipei,4837,CHINA UNICOM China169 Backbone,80,8.88
-218.154.201.53,30744,True,chat,JP,Asia Pacific,Osaka,4766,Korea Telecom,513,8.88
-175.201.21.227,14104,True,chat,JP,Asia Pacific,Osaka,4766,Korea Telecom,332,8.88
-163.177.58.169,28607,True,chat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,15,8.88
-163.177.58.169,28381,True,chat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,15,8.88
-183.236.51.16,11037,True,chat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,19,8.88
-183.94.30.165,46043,True,chat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,30,8.88
-183.94.30.165,25866,True,chat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,32,8.88
-103.191.242.222,9099,True,chat,SG,Asia Pacific,Singapore,4816,China Telecom Group,9,8.88
-183.236.51.57,25893,True,chat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,19,8.88
-14.119.112.72,25379,True,chat,SG,Asia Pacific,Singapore,4134,Chinanet,49,8.88
-14.119.112.72,28279,True,chat,SG,Asia Pacific,Singapore,4134,Chinanet,51,8.88
-183.236.51.57,31617,True,chat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,53,8.88
-183.236.51.16,10388,True,chat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,83,8.88
+183.94.30.165,25469,True,TPEchat,TW,Asia Pacific,Taipei,4837,CHINA UNICOM China169 Backbone,80,8.88
+218.154.201.53,30744,True,KIXchat,JP,Asia Pacific,Osaka,4766,Korea Telecom,513,8.88
+175.201.21.227,14104,True,KIXchat,JP,Asia Pacific,Osaka,4766,Korea Telecom,332,8.88
+163.177.58.169,28607,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,15,8.88
+163.177.58.169,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,15,8.88
+183.236.51.16,11037,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,19,8.88
+183.94.30.165,46043,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,30,8.88
+183.94.30.165,25866,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,32,8.88
+103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,9,8.88
+183.236.51.57,25893,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,19,8.88
+14.119.112.72,25379,True,SINchat,SG,Asia Pacific,Singapore,4134,Chinanet,49,8.88
+14.119.112.72,28279,True,SINchat,SG,Asia Pacific,Singapore,4134,Chinanet,51,8.88
+183.236.51.57,31617,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,53,8.88
+183.236.51.16,10388,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,83,8.88
