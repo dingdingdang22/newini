@@ -1,12 +1,13 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,31617,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,99,8.88
-163.177.58.169,28607,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,12,8.88
-163.177.58.169,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,28,8.88
-183.94.30.165,45965,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,30,8.88
-183.236.51.16,11037,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,31,8.88
-183.94.30.165,25866,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,61,8.88
-183.236.51.57,28994,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,11,8.88
-183.236.51.57,31617,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,20,8.88
-183.236.51.57,25893,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,21,8.88
-103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,25,8.88
-183.236.51.16,10388,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,25,8.88
+183.236.51.16,11037,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,13,8.88
+163.177.58.169,28607,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,19,8.88
+163.177.58.169,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,21,8.88
+183.94.30.165,25866,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,28,8.88
+183.94.30.165,45965,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,29,8.88
+36.134.37.76,27175,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,35,8.88
+183.236.51.16,10388,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,14,8.88
+183.236.51.57,31617,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,16,8.88
+103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,18,8.88
+183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,19,8.88
+183.236.51.57,25893,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,19,8.88
+43.245.198.240,587,True,SINchat,SG,Asia Pacific,Singapore,63916,IPTELECOM Global,337,8.88
