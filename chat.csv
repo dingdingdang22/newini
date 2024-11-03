@@ -1,4 +1,5 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+167.253.153.92,443,True,TPEchat,TW,Asia Pacific,Taipei,0,Unknown,289,8.88
 183.236.51.16,11037,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,13,8.88
 163.177.58.169,28607,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,19,8.88
 163.177.58.169,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,21,8.88
