@@ -1,6 +1,19 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-211.51.199.88,10584,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,194,8.88
-211.104.215.140,12494,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,194,8.88
-183.236.51.57,31617,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,10,8.88
-183.236.51.16,10388,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,15,8.88
-103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,38,8.88
+211.221.105.204,33394,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,169,8.88
+183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,57,8.88
+118.44.96.97,36651,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,208,8.88
+211.227.114.208,16008,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,111,8.88
+218.150.25.93,21959,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,118,8.88
+14.63.70.104,19243,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,122,8.88
+118.32.223.205,17861,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,147,8.88
+221.158.44.101,10792,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,566,8.88
+175.210.37.208,35428,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,618,8.88
+211.223.106.3,17172,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,161,8.88
+183.236.51.16,11037,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,22,8.88
+36.134.37.76,26109,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,30,8.88
+36.134.37.76,26928,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,35,8.88
+183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,26,8.88
+183.236.51.57,25893,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,31,8.88
+183.236.51.16,10388,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,43,8.88
+183.236.51.57,31617,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,48,8.88
+152.32.255.24,587,True,SINchat,SG,Asia Pacific,Singapore,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,422,8.88
