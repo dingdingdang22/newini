@@ -1,44 +1,48 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.94.30.165,25583,True,TPE,TW,Asia Pacific,Taipei,4837,CHINA UNICOM China169 Backbone,75,48.05
-183.236.51.57,27586,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,88,34.25
-183.236.51.57,59310,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,76,34.08
-45.78.23.125,443,True,HKG,HK,Asia Pacific,Hong Kong,9312,xTom,58,31.25
-13.229.72.179,42235,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,50,24.36
-183.236.51.57,32569,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,102,21.03
-18.167.194.154,443,True,HKG,HK,Asia Pacific,Hong Kong,16509,AMAZON-02,137,19.88
+35.201.203.106,443,True,TPE,TW,Asia Pacific,Taipei,396982,GOOGLE-CLOUD-PLATFORM,24,43.74
+183.94.30.165,27370,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,41,33.08
+3.1.116.161,8443,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,50,31.63
+13.229.72.179,42235,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,50,22.56
 183.236.51.57,30606,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,20,18.54
 183.236.51.57,30606,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,36,17.28
-35.201.203.106,443,True,TPE,TW,Asia Pacific,Taipei,396982,GOOGLE-CLOUD-PLATFORM,29,11.22
+210.61.97.241,81,True,KHH,TW,Asia Pacific,Kaohsiung City,3462,Data Communication Business Group,42,13.46
 20.173.66.64,2053,True,BOM,IN,Asia Pacific,Mumbai,8075,MICROSOFT-CORP-MSN-AS-BLOCK,159,10.9
-183.94.30.165,26222,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,162,10.68
-188.253.6.210,443,True,TPE,TW,Asia Pacific,Taipei,38136,Akari Networks,165,10.19
-183.236.51.57,27934,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,78,59.73
-163.177.58.169,25990,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,256,57.25
-163.177.58.169,25286,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,197,55.69
-163.177.58.169,30665,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,70,51.17
-183.236.51.57,27871,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,78,50.22
-183.236.51.57,27638,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,109,50.08
-183.236.51.57,25103,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,102,49.59
-183.236.51.57,27668,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,65,48.33
-183.236.51.57,30578,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,90,39.7
-183.236.51.57,25504,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,96,38.01
-163.177.58.169,28240,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,89,37.71
-183.236.51.57,25982,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,39,36.19
+183.236.51.57,27934,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,37,56.68
+163.177.58.169,25990,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,600,56.61
+163.177.58.169,30665,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,55,54.36
+183.236.51.57,27668,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,60,52.05
+183.236.51.57,28383,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,36,51.0
+183.236.51.57,30578,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,37,49.45
+183.236.51.57,25982,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,39,49.2
+183.236.51.57,27871,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,789,49.08
+183.236.51.57,27638,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,775,48.74
+183.236.51.57,25103,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,37,46.92
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,9808,"China Mobile Communications Group Co., Ltd.",16,35.47
-183.94.30.165,25669,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,82,31.24
-163.177.58.169,27799,True,ICN,KR,Asia Pacific,Seoul,17623,China Unicom Shenzen network,144,30.44
-43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,53,29.68
-163.177.58.169,28551,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,126,27.57
-183.236.51.57,26882,True,ICN,KR,Asia Pacific,Seoul,9808,China Mobile Communications Group Co Ltd,89,23.93
-183.94.30.165,25328,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,158,23.84
-43.229.149.251,8443,True,SIN,SG,Asia Pacific,Singapore,56309,Siamdata Communication CoLtd,85,19.4
-132.145.94.80,443,True,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,124,18.23
-183.94.30.165,27267,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,56,18.15
+163.177.58.169,28240,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,55,35.29
+183.94.30.165,25328,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,39,33.43
+183.94.30.165,45612,True,NRT,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,95,32.49
+183.94.30.165,29312,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,731,31.15
+183.94.30.165,46921,True,NRT,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,64,28.58
+13.231.68.156,443,True,NRT,JP,Asia Pacific,Tokyo,16509,AMAZON-02,72,26.36
+163.177.58.169,31609,True,NRT,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,18,26.06
+188.64.108.9,443,True,SIN,SG,Asia Pacific,Singapore,398465,RACKDOG-LLC,73,25.25
+183.94.30.165,46574,True,NRT,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,171,25.15
+183.236.51.57,26882,True,ICN,KR,Asia Pacific,Seoul,9808,China Mobile Communications Group Co Ltd,62,24.23
+36.134.37.76,27175,True,NRT,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,120,23.83
+43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,72,23.62
+163.177.58.169,28551,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,37,22.41
+183.236.51.57,32569,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,860,21.14
+36.134.37.76,26109,True,NRT,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,76,20.83
+199.21.172.224,443,True,BKK,TH,Asia Pacific,Bangkok,58507,Wireline,225,19.52
+163.177.58.169,27799,True,ICN,KR,Asia Pacific,Seoul,17623,China Unicom Shenzen network,74,17.89
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,198100,WAP.AC LTD,190,16.01
-166.88.35.141,443,True,SIN,SG,Asia Pacific,Singapore,149440,Evoxt Enterprise,104,13.77
-43.134.34.18,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,57,13.11
-43.156.53.68,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,50,11.88
+183.94.30.165,27267,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,806,15.15
+207.148.122.83,8443,True,SIN,SG,Asia Pacific,Singapore,20473,AS-CHOOPA,214,14.69
+143.42.66.91,443,True,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,270,14.56
+43.134.34.18,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,98,13.03
+43.156.116.194,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,61,12.51
+43.229.149.251,2053,True,SIN,SG,Asia Pacific,Singapore,56309,Siamdata Communication CoLtd,296,12.49
+43.156.253.94,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,197,12.31
+45.77.36.40,443,True,SIN,SG,Asia Pacific,Singapore,20473,AS-CHOOPA,159,12.03
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,198100,WAP.AC LTD,189,11.82
-13.228.142.218,443,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,63,11.12
-129.226.150.167,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,68,11.11
-163.177.58.169,28607,True,NRT,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,144,10.47
+183.236.51.57,30606,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,164,11.53
