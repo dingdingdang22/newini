@@ -1,21 +1,9 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-221.152.115.8,10319,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,99,8.88
-221.160.155.189,35881,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,133,8.88
-118.44.96.97,32088,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,148,8.88
-118.44.96.97,39210,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,174,8.88
-118.44.96.97,18124,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,183,8.88
-118.44.96.97,13803,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,184,8.88
-222.232.58.94,39358,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,108,8.88
-39.117.158.134,18500,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,124,8.88
-183.94.30.165,26278,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,21,8.88
-183.94.30.165,25037,True,SEAchat,US,North America,Seattle,4837,CHINA UNICOM China169 Backbone,22,8.88
 183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,57,8.88
-222.103.251.148,39289,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,63,8.88
-59.29.151.94,36612,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,67,8.88
-222.103.251.148,35758,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,68,8.88
-163.177.58.169,28607,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,23,8.88
-183.236.51.16,11037,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,25,8.88
+183.236.51.16,11037,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,12,8.88
+163.177.58.169,28607,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,12,8.88
+183.94.30.165,25866,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,20,8.88
+103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,8,8.88
 183.236.51.16,11571,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,14,8.88
-183.236.51.57,39154,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,20,8.88
-183.94.30.165,45296,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,22,8.88
-183.94.30.165,26278,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,23,8.88
+183.94.30.165,25037,True,SEAchat,US,North America,Seattle,4837,CHINA UNICOM China169 Backbone,25,8.88
+183.94.30.165,45296,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,28,8.88
