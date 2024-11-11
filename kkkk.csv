@@ -1,24 +1,21 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,27586,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,21,28.45
-13.229.72.179,42235,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,51,21.52
-183.236.51.57,30606,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,20,18.54
-183.236.51.57,30606,True,SIN,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,36,17.28
-20.173.66.64,2053,True,BOM,IN,Asia Pacific,Mumbai,8075,MICROSOFT-CORP-MSN-AS-BLOCK,159,10.9
-163.177.58.169,28551,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,11,72.78
-183.236.51.57,25982,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,11,70.12
-183.236.51.57,25103,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,50,62.06
-183.94.30.165,45612,True,NRT,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,28,50.21
-163.177.58.169,30665,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,20,49.11
-183.236.51.57,30578,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,24,47.88
+183.236.51.57,27586,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,11,56.46
+13.229.72.179,42235,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,49,21.18
+163.177.58.169,30665,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,23,65.69
+183.94.30.165,25328,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,33,57.06
+183.94.30.165,25669,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,54,51.6
+183.236.51.57,27934,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,42,37.37
+183.236.51.57,27668,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,56,36.64
+183.236.51.57,57852,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,30,35.85
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,9808,"China Mobile Communications Group Co., Ltd.",16,35.47
-163.177.58.169,25990,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,32,35.22
-43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,49,31.52
-163.177.58.169,28240,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,24,21.05
-163.177.58.169,27799,True,ICN,KR,Asia Pacific,Seoul,17623,China Unicom Shenzen network,51,17.24
+3.1.94.232,443,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,51,25.71
+183.94.30.165,29312,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,31,23.03
+163.177.58.169,28240,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,12,19.45
+43.156.116.194,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,48,17.81
+43.156.253.94,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,48,17.29
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,198100,WAP.AC LTD,190,16.01
-183.94.30.165,29312,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,22,15.09
-43.134.34.18,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,48,14.91
-129.226.150.167,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,42,13.31
+163.177.58.169,25990,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,86,14.58
+183.236.51.57,27638,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,16,14.37
+43.156.53.68,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,49,12.96
+163.177.58.169,27799,True,ICN,KR,Asia Pacific,Seoul,17623,China Unicom Shenzen network,62,12.89
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,198100,WAP.AC LTD,189,11.82
-183.94.30.165,27267,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,24,10.55
-183.94.30.165,25669,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,58,10.45
