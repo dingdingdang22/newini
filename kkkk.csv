@@ -1,21 +1,25 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,27586,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,22,34.74
-13.229.72.179,42235,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,56,19.53
-163.177.58.169,30665,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,17,57.4
-183.94.30.165,46574,True,NRT,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,21,36.11
+13.229.72.179,42235,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,49,16.22
+163.177.58.169,25990,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,16,56.7
+183.236.51.57,25103,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,85,50.77
+183.236.51.57,57852,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,17,44.81
+183.236.51.57,27586,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,25,36.78
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,9808,"China Mobile Communications Group Co., Ltd.",16,35.47
-183.236.51.57,27668,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,193,31.99
-43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,47,31.34
-163.177.58.169,25286,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,85,28.98
-163.177.58.169,28240,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,13,25.82
-3.1.94.232,443,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,50,23.38
-163.177.58.169,28551,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,13,18.75
-163.177.58.169,27799,True,ICN,KR,Asia Pacific,Seoul,17623,China Unicom Shenzen network,19,17.4
+163.177.58.169,31969,True,NRT,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,38,29.03
+183.94.30.165,29312,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,20,25.33
+36.134.37.76,26928,True,NRT,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,45,20.83
+54.251.167.101,443,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,51,19.8
+3.1.94.232,443,True,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,52,18.88
+43.156.116.194,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,48,17.83
+183.94.30.165,26222,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,28,17.4
+36.134.37.76,27175,True,NRT,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,36,16.48
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,198100,WAP.AC LTD,190,16.01
-193.122.125.223,443,True,ICN,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,178,15.2
-43.134.34.18,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,46,14.15
-183.94.30.165,25328,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,27,12.43
-183.236.51.57,32569,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,36,12.35
-183.94.30.165,29312,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,22,12.35
+163.177.58.169,27799,True,ICN,KR,Asia Pacific,Seoul,17623,China Unicom Shenzen network,104,15.11
+163.177.58.169,28240,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,20,14.39
+163.177.58.169,28551,True,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,12,14.12
+183.94.30.165,27370,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,25,13.19
+183.94.30.165,45612,True,NRT,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,40,13.07
+183.94.30.165,27267,True,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,20,12.7
+43.156.253.94,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,45,12.28
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,198100,WAP.AC LTD,189,11.82
-183.236.51.57,27638,True,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,20,10.42
+43.156.53.68,443,True,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,47,11.01
