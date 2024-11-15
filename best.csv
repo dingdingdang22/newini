@@ -1,0 +1,50 @@
+IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+52.231.97.210,2053,True,ICN,Asia Pacific,KR,Seoul,94,19.55
+20.173.73.142,2053,True,BOM,Asia Pacific,IN,Mumbai,133,12.54
+168.63.108.160,2053,True,AMS,Europe,NL,Amsterdam,204,8.23
+18.118.124.39,2053,True,ORD,North America,US,Chicago,212,8.16
+18.132.176.212,2096,True,LHR,Europe,GB,London,205,8.45
+35.157.121.50,2096,True,FRA,Europe,DE,Frankfurt,201,8.3
+103.44.255.81,443,True,HKG,Asia Pacific,HK,Hong Kong,34,32.34
+43.156.181.203,443,True,SIN,Asia Pacific,SG,Singapore,48,30.15
+13.67.62.54,443,True,SIN,Asia Pacific,SG,Singapore,86,19.71
+4.230.9.53,443,True,ICN,Asia Pacific,KR,Seoul,95,17.27
+91.149.239.238,443,True,LAX,North America,US,Los Angeles,209,16.45
+91.149.239.62,443,True,LAX,North America,US,Los Angeles,207,14.98
+43.156.116.194,443,True,SIN,Asia Pacific,SG,Singapore,46,12.36
+91.149.239.145,443,True,LAX,North America,US,Los Angeles,236,12.15
+54.193.48.13,443,True,SJC,North America,US,San Jose,158,11.81
+91.149.239.198,443,True,LAX,North America,US,Los Angeles,208,11.73
+94.78.67.172,443,True,LCA,Europe,CY,Nicosia,223,11.72
+67.226.221.233,443,True,SJC,North America,US,San Jose,156,11.38
+185.218.6.47,443,True,SJC,North America,US,San Jose,165,11.15
+18.189.42.33,443,True,CMH,North America,US,Columbus,215,10.91
+75.2.32.4,443,True,IAD,North America,US,Ashburn,51,10.75
+44.227.209.152,443,True,PDX,North America,US,Portland,190,10.69
+34.208.221.169,443,True,PDX,North America,US,Portland,181,10.65
+35.88.63.122,443,True,PDX,North America,US,Portland,184,10.54
+54.200.244.93,443,True,SEA,North America,US,Seattle,180,10.39
+35.89.156.159,443,True,PDX,North America,US,Portland,175,10.0
+43.156.53.68,443,True,SIN,Asia Pacific,SG,Singapore,49,9.96
+35.235.84.162,443,True,LAX,North America,US,Los Angeles,157,9.42
+104.255.69.3,443,True,AMS,Europe,NL,Amsterdam,212,8.47
+52.41.218.4,443,True,PDX,North America,US,Portland,189,8.44
+3.147.73.220,443,True,ORD,North America,US,Chicago,210,8.43
+45.147.50.154,443,True,FRA,Europe,DE,Frankfurt,201,8.26
+18.235.208.126,443,True,IAD,North America,US,Ashburn,223,8.18
+185.94.164.12,443,True,AMS,Europe,NL,Amsterdam,162,8.17
+13.58.243.238,443,True,ORD,North America,US,Chicago,220,8.15
+172.187.200.28,443,True,LHR,Europe,GB,London,204,8.08
+52.231.97.210,8443,True,ICN,Asia Pacific,KR,Seoul,95,16.56
+51.107.8.47,8443,True,MXP,Europe,IT,Milan,196,15.56
+20.173.66.64,8443,True,BOM,Asia Pacific,IN,Mumbai,141,12.32
+185.214.103.3,8443,True,ICN,Asia Pacific,KR,Seoul,50,12.27
+4.161.46.61,8443,True,BOM,Asia Pacific,IN,Mumbai,131,11.92
+20.173.73.142,8443,True,BOM,Asia Pacific,IN,Mumbai,136,11.58
+13.56.58.118,8443,True,SJC,North America,US,San Jose,153,10.96
+54.200.240.33,8443,True,SEA,North America,US,Seattle,179,10.88
+52.41.36.201,8443,True,SEA,North America,US,Seattle,176,10.16
+35.167.219.51,8443,True,SEA,North America,US,Seattle,175,9.12
+20.228.249.211,8443,True,IAD,North America,US,Ashburn,220,8.65
+34.209.142.91,8443,True,SEA,North America,US,Seattle,177,8.41
+18.118.124.39,8443,True,ORD,North America,US,Chicago,215,8.21
