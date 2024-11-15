@@ -1,23 +1,23 @@
-IP地址,端口,TLS,原始IP,原始IPORG,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-13.229.72.179,42235,True,104.28.222.43,CLOUDFLARENET,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,54,17.36
-163.177.58.169,25286,True,103.100.176.114,Akari Networks,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,11,60.54
-163.177.58.169,30665,True,2407:cdc0:b027::25c,Akari Networks,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,13,35.81
-43.156.181.203,443,True,101.32.239.42,Tencent Building Kejizhongyi Avenue,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,48,35.65
-183.236.51.57,27519,True,,,TPE,TW,Asia Pacific,Taipei,9808,"China Mobile Communications Group Co., Ltd.",16,35.47
-163.177.58.169,28551,True,2407:cdc0:b027::25c,Akari Networks,HKG,HK,Asia Pacific,Hong Kong,17623,China Unicom Shenzen network,13,29.25
-183.236.51.57,27638,True,1.65.196.119,HKT Limited,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,29,22.72
-183.94.30.165,46574,True,2407:cdc0:8101::1002,Akari Networks,NRT,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,27,22.69
-183.236.51.57,57852,True,2404:c806:2b00:2100:be24:11ff:feb4:aa4a,HKT Limited,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,17,21.7
-183.236.51.57,27934,True,203.218.116.239,HKT Limited,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,17,17.61
-183.236.51.57,25982,True,1.65.196.119,HKT Limited,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,17,16.48
-85.237.207.79,31121,True,,,TPE,TW,Asia Pacific,Taipei,198100,WAP.AC LTD,190,16.01
-183.236.51.57,32569,True,2400:8a20:123:15:0:1:ed4a:5e0f,POLONETWORK LIMITED,HKG,HK,Asia Pacific,Hong Kong,9808,China Mobile Communications Group Co Ltd,26,15.73
-43.134.34.18,443,True,43.134.34.18,Tencent Building Kejizhongyi Avenue,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,48,14.45
-13.228.142.218,443,True,18.141.133.92,AMAZON-02,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,59,13.44
-163.177.58.169,27799,True,2603:c024:8:5677:6f45:947f:3e3a:1eb8,ORACLE-BMC-31898,ICN,KR,Asia Pacific,Seoul,17623,China Unicom Shenzen network,16,13.07
-183.94.30.165,29312,True,1.65.196.119,HKT Limited,HKG,HK,Asia Pacific,Hong Kong,4837,CHINA UNICOM China169 Backbone,29,12.12
-85.237.207.79,31181,True,,,TPE,TW,Asia Pacific,Taipei,198100,WAP.AC LTD,189,11.82
-163.177.58.169,31969,True,194.105.83.114,GCI Network Solutions Limited,NRT,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,13,11.45
-3.1.94.232,443,True,3.1.94.232,AMAZON-02,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,55,10.42
-43.156.53.68,443,True,43.156.53.68,Tencent Building Kejizhongyi Avenue,SIN,SG,Asia Pacific,Singapore,132203,Tencent Building Kejizhongyi Avenue,47,8.78
-54.248.121.219,443,True,43.206.69.151,AMAZON-02,NRT,JP,Asia Pacific,Tokyo,16509,AMAZON-02,55,8.74
+IP地址,端口,TLS,数据中心,国家,地区,城市,延迟(ms),速度(MB/s)
+13.229.72.179,42235,True,SIN,SG,Asia Pacific,Singapore,54,17.36
+163.177.58.169,25286,True,HKG,HK,Asia Pacific,Hong Kong,11,60.54
+163.177.58.169,30665,True,HKG,HK,Asia Pacific,Hong Kong,13,35.81
+43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,48,35.65
+183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
+163.177.58.169,28551,True,HKG,HK,Asia Pacific,Hong Kong,13,29.25
+183.236.51.57,27638,True,HKG,HK,Asia Pacific,Hong Kong,29,22.72
+183.94.30.165,46574,True,NRT,JP,Asia Pacific,Tokyo,27,22.69
+183.236.51.57,57852,True,HKG,HK,Asia Pacific,Hong Kong,17,21.7
+183.236.51.57,27934,True,HKG,HK,Asia Pacific,Hong Kong,17,17.61
+183.236.51.57,25982,True,HKG,HK,Asia Pacific,Hong Kong,17,16.48
+85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,190,16.01
+183.236.51.57,32569,True,HKG,HK,Asia Pacific,Hong Kong,26,15.73
+43.134.34.18,443,True,SIN,SG,Asia Pacific,Singapore,48,14.45
+13.228.142.218,443,True,SIN,SG,Asia Pacific,Singapore,59,13.44
+163.177.58.169,27799,True,ICN,KR,Asia Pacific,Seoul,16,13.07
+183.94.30.165,29312,True,HKG,HK,Asia Pacific,Hong Kong,29,12.12
+85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
+163.177.58.169,31969,True,NRT,JP,Asia Pacific,Tokyo,13,11.45
+3.1.94.232,443,True,SIN,SG,Asia Pacific,Singapore,55,10.42
+43.156.53.68,443,True,SIN,SG,Asia Pacific,Singapore,47,8.78
+54.248.121.219,443,True,NRT,JP,Asia Pacific,Tokyo,55,8.74
