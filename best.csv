@@ -1,9 +1,9 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-103.44.255.81,443,True,HKG,Asia Pacific,HK,Hong Kong,7,29.47
-154.21.203.95,49736,True,HKG,Asia Pacific,HK,Hong Kong,19,20.04
-34.92.89.142,443,True,HKG,Asia Pacific,HK,Hong Kong,179,11.16
-52.141.25.42,443,True,ICN,Asia Pacific,KR,Seoul,94,18.94
-61.111.247.253,587,True,ICN,Asia Pacific,KR,Seoul,53,13.7
-185.214.103.86,57569,True,ICN,Asia Pacific,KR,Seoul,53,11.93
-193.32.151.17,38489,True,NRT,Asia Pacific,JP,Tokyo,96,17.1
-43.156.116.194,443,True,SIN,Asia Pacific,SG,Singapore,50,12.28
+103.44.255.81,443,True,HKG,Asia Pacific,HK,Hong Kong,6,23.8
+45.149.186.112,8080,True,HKG,Asia Pacific,HK,Hong Kong,275,12.21
+38.207.129.34,35333,True,HKG,Asia Pacific,HK,Hong Kong,170,10.4
+4.230.9.53,443,True,ICN,Asia Pacific,KR,Seoul,103,18.71
+61.111.247.253,587,True,ICN,Asia Pacific,KR,Seoul,55,13.29
+185.214.103.86,57569,True,ICN,Asia Pacific,KR,Seoul,52,11.32
+43.156.53.68,443,True,SIN,Asia Pacific,SG,Singapore,47,11.76
+43.134.34.18,443,True,SIN,Asia Pacific,SG,Singapore,48,11.63
