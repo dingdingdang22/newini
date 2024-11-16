@@ -2,3 +2,5 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(
 103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,15,8.88
 183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,40,8.88
 163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,67,8.88
+14.43.108.144,34353,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,120,8.88
+210.91.195.55,32921,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,181,8.88
