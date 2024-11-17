@@ -1,9 +1,29 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-103.44.255.81,443,True,HKG,Asia Pacific,HK,Hong Kong,6,23.8
-45.149.186.112,8080,True,HKG,Asia Pacific,HK,Hong Kong,275,12.21
-38.207.129.34,35333,True,HKG,Asia Pacific,HK,Hong Kong,170,10.4
-4.230.9.53,443,True,ICN,Asia Pacific,KR,Seoul,103,18.71
-61.111.247.253,587,True,ICN,Asia Pacific,KR,Seoul,55,13.29
-185.214.103.86,57569,True,ICN,Asia Pacific,KR,Seoul,52,11.32
-43.156.53.68,443,True,SIN,Asia Pacific,SG,Singapore,47,11.76
-43.134.34.18,443,True,SIN,Asia Pacific,SG,Singapore,48,11.63
+13.250.14.76,443,True,SIN,Asia Pacific,SG,Singapore,66,36.37
+103.44.255.81,443,True,HKG,Asia Pacific,HK,Hong Kong,11,36.02
+13.228.72.154,443,True,SIN,Asia Pacific,SG,Singapore,52,33.57
+20.41.104.196,443,True,ICN,Asia Pacific,KR,Seoul,85,22.59
+91.149.239.198,443,True,LAX,North America,US,Los Angeles,185,15.42
+59.3.3.161,443,True,ICN,Asia Pacific,KR,Seoul,107,14.44
+13.53.194.124,443,True,AMS,Europe,NL,Amsterdam,215,14.44
+212.41.15.119,443,True,DME,Europe,RU,Moscow,214,14.2
+185.68.93.39,443,True,SOF,Europe,BG,Sofia,225,14.08
+13.53.40.40,443,True,AMS,Europe,NL,Amsterdam,213,13.87
+13.48.106.240,443,True,AMS,Europe,NL,Amsterdam,211,13.57
+16.171.197.169,443,True,AMS,Europe,NL,Amsterdam,220,12.1
+154.17.11.108,443,True,LAX,North America,US,Los Angeles,161,12.05
+207.2.120.16,443,True,SJC,North America,US,San Jose,168,11.75
+43.156.116.194,443,True,SIN,Asia Pacific,SG,Singapore,53,11.74
+186.67.70.55,443,True,SCL,South America,CL,Santiago,300,11.65
+45.147.51.230,443,True,FRA,Europe,DE,Frankfurt,195,11.39
+172.82.16.99,443,True,SJC,North America,US,San Jose,162,11.34
+34.92.89.142,443,True,HKG,Asia Pacific,HK,Hong Kong,165,11.12
+35.83.185.225,443,True,PDX,North America,US,Portland,214,10.71
+103.137.63.2,443,True,KHH,Asia Pacific,TW,Kaohsiung City,74,10.63
+35.95.64.250,443,True,PDX,North America,US,Portland,180,10.29
+15.188.52.234,443,True,CDG,Europe,FR,Paris,203,9.89
+54.68.60.77,443,True,PDX,North America,US,Portland,178,9.78
+194.58.68.145,443,True,AMS,Europe,NL,Amsterdam,197,9.61
+67.226.221.28,443,True,SJC,North America,US,San Jose,171,9.17
+194.5.97.149,443,True,AMS,Europe,NL,Amsterdam,214,9.12
+35.156.255.225,443,True,FRA,Europe,DE,Frankfurt,200,9.08
