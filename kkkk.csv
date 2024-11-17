@@ -1,17 +1,11 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
-221.139.64.232,22162,True,ICN,KR,Asia Pacific,Seoul,143,8.63
-221.139.64.232,19509,True,ICN,KR,Asia Pacific,Seoul,173,8.34
-175.117.40.5,10162,True,ICN,KR,Asia Pacific,Seoul,139,8.02
+35.201.203.106,443,True,TPE,TW,Asia Pacific,Taipei,37,20.1
+13.229.72.179,42235,True,SIN,SG,Asia Pacific,Singapore,50,17.39
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
-43.156.253.94,443,True,SIN,SG,Asia Pacific,Singapore,45,17.95
+3.1.94.232,443,True,SIN,SG,Asia Pacific,Singapore,50,22.26
+13.231.68.156,443,True,NRT,JP,Asia Pacific,Tokyo,54,18.33
+13.228.155.72,443,True,SIN,SG,Asia Pacific,Singapore,50,16.8
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,190,16.01
-43.134.34.18,443,True,SIN,SG,Asia Pacific,Singapore,48,15.91
-43.156.53.68,443,True,SIN,SG,Asia Pacific,Singapore,47,12.97
+188.64.108.9,443,True,SIN,SG,Asia Pacific,Singapore,49,15.85
+43.134.34.18,443,True,SIN,SG,Asia Pacific,Singapore,46,14.89
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
-3.1.94.232,443,True,SIN,SG,Asia Pacific,Singapore,50,9.34
-103.191.242.222,9099,True,SIN,SG,Asia Pacific,Singapore,7,8.94
-175.117.40.5,32670,True,ICN,KR,Asia Pacific,Seoul,121,8.37
-175.117.40.5,39341,True,ICN,KR,Asia Pacific,Seoul,97,8.33
-1.238.37.126,15016,True,ICN,KR,Asia Pacific,Seoul,61,8.33
-221.139.64.232,19509,True,ICN,KR,Asia Pacific,Seoul,167,8.29
-183.236.51.57,30606,True,SIN,SG,Asia Pacific,Singapore,11,8.28
