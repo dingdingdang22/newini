@@ -1,9 +1,9 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-20.233.68.69,443,True,BOM,Asia Pacific,IN,Mumbai,173,10.45
+20.233.68.69,2053,True,BOM,Asia Pacific,IN,Mumbai,173,10.45
 43.153.103.203,443,True,SJC,North America,US,San Jose,174,23.8
 20.235.105.146,443,True,BOM,Asia Pacific,IN,Mumbai,141,13.02
 8.219.79.88,443,True,IAD,North America,US,Ashburn,189,12.14
 43.153.4.246,443,True,SJC,North America,US,San Jose,166,10.94
 172.82.16.99,443,True,SJC,North America,US,San Jose,159,10.78
 15.237.208.44,443,True,CDG,Europe,FR,Paris,203,10.66
-20.233.68.69,443,True,BOM,Asia Pacific,IN,Mumbai,170,10.56
+20.233.68.69,8443,True,BOM,Asia Pacific,IN,Mumbai,170,10.56
