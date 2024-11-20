@@ -1,9 +1,7 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
-35.201.203.106,443,True,TPE,TW,Asia Pacific,Taipei,44,34.82
+23.225.64.72,25017,True,SIN,SG,Asia Pacific,Singapore,75,9.45
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
-43.134.34.18,443,True,SIN,SG,Asia Pacific,Singapore,47,18.23
+163.177.58.169,32949,True,NRT,JP,Asia Pacific,Tokyo,16,27.08
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,190,16.01
-43.156.53.68,443,True,SIN,SG,Asia Pacific,Singapore,46,15.24
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
-43.156.253.94,443,True,SIN,SG,Asia Pacific,Singapore,45,11.2
-3.1.94.232,443,True,SIN,SG,Asia Pacific,Singapore,52,11.03
+13.229.159.215,443,True,SIN,SG,Asia Pacific,Singapore,59,10.99
