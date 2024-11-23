@@ -1,10 +1,10 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-118.42.36.240,21455,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,134,8.88
-211.227.40.135,15042,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,142,8.88
-211.228.85.135,27447,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,160,8.88
-211.228.85.135,10183,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,222,8.88
+222.104.240.250,11247,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,70,8.88
+222.104.240.250,28479,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,94,8.88
+59.21.85.166,37831,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,126,8.88
 103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,15,8.88
 183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,40,8.88
 163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,67,8.88
-175.124.16.141,29044,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,91,8.88
-163.177.58.169,32949,True,NRTchat,JP,Asia Pacific,Tokyo,135061,China Unicom Guangdong IP network,16,8.88
+222.104.240.250,36477,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,68,8.88
+222.104.240.250,11247,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,152,8.88
+222.104.240.250,35566,True,SJCchat,US,North America,San Jose,4766,Korea Telecom,195,8.88
