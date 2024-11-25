@@ -1,8 +1,11 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
-218.50.152.204,21019,True,ICN,KR,Asia Pacific,Seoul,81,8.02
+175.196.105.220,20938,True,FUK,JP,Asia Pacific,Fukuoka,84,8.17
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
+45.251.10.224,27949,True,SIN,SG,Asia Pacific,Singapore,44,24.87
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,190,16.01
+188.64.108.9,443,True,SIN,SG,Asia Pacific,Singapore,65,15.46
+129.226.150.167,443,True,SIN,SG,Asia Pacific,Singapore,44,14.8
+54.248.121.219,443,True,NRT,JP,Asia Pacific,Tokyo,81,13.49
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
-43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,52,10.36
-43.156.53.68,443,True,SIN,SG,Asia Pacific,Singapore,49,9.08
-175.196.105.220,19438,True,FUK,JP,Asia Pacific,Fukuoka,82,8.03
+43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,50,10.94
+43.156.53.68,443,True,SIN,SG,Asia Pacific,Singapore,49,8.51
