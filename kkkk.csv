@@ -1,11 +1,10 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
-175.196.105.220,20938,True,FUK,JP,Asia Pacific,Fukuoka,84,8.17
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
-45.251.10.224,27949,True,SIN,SG,Asia Pacific,Singapore,44,24.87
+188.64.108.9,443,True,SIN,SG,Asia Pacific,Singapore,59,18.54
+43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,51,17.26
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,190,16.01
-188.64.108.9,443,True,SIN,SG,Asia Pacific,Singapore,65,15.46
-129.226.150.167,443,True,SIN,SG,Asia Pacific,Singapore,44,14.8
-54.248.121.219,443,True,NRT,JP,Asia Pacific,Tokyo,81,13.49
+43.156.116.194,443,True,SIN,SG,Asia Pacific,Singapore,47,14.64
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
-43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,50,10.94
-43.156.53.68,443,True,SIN,SG,Asia Pacific,Singapore,49,8.51
+183.236.51.57,31617,True,SIN,SG,Asia Pacific,Singapore,16,11.17
+116.122.120.234,13229,True,ICN,KR,Asia Pacific,Seoul,71,8.51
+175.114.193.209,27040,True,ICN,KR,Asia Pacific,Seoul,66,8.04
