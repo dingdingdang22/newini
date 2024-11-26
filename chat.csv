@@ -1,16 +1,25 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-222.104.240.250,10203,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,72,8.88
-222.104.240.250,28479,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,75,8.88
-14.39.160.106,11087,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,238,8.88
+183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,11,8.88
+222.104.240.250,28550,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,73,8.88
+118.35.88.114,18136,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,77,8.88
+175.202.242.158,27578,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,78,8.88
+211.229.56.86,17761,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,83,8.88
+168.126.182.190,16998,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,96,8.88
+175.212.82.132,28516,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,98,8.88
+115.22.239.12,15754,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,100,8.88
+220.119.243.243,18414,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,122,8.88
+175.200.150.13,17869,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,96,8.88
+221.152.115.8,14188,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,161,8.88
 103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,15,8.88
 183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,40,8.88
 163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,67,8.88
-222.104.240.250,36477,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,65,8.88
-222.105.224.152,33843,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,71,8.88
-222.104.240.250,28479,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,97,8.88
-222.104.240.250,15967,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,99,8.88
-222.105.160.31,11584,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,119,8.88
-14.54.192.159,35325,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,147,8.88
-180.68.128.117,34633,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,103,8.88
-219.248.32.74,28293,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,99,8.88
-175.124.16.141,18335,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,102,8.88
+222.104.240.250,28479,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,95,8.88
+221.152.115.8,22035,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,110,8.88
+222.104.240.250,19881,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,122,8.88
+210.222.30.180,21064,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,129,8.88
+211.229.151.145,10417,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,130,8.88
+211.224.23.96,27707,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,179,8.88
+220.84.45.97,17774,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,277,8.88
+180.68.128.117,38789,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,105,8.88
+175.124.16.141,29044,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,97,8.88
+114.203.96.76,39200,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,101,8.88
