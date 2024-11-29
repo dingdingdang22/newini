@@ -1,24 +1,16 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-103.148.72.147,1443,True,bestHKG,Asia Pacific,HK,Hong Kong,54,22.29
-38.207.129.34,35333,True,bestHKG,Asia Pacific,HK,Hong Kong,161,10.55
-45.149.186.112,8080,True,bestHKG,Asia Pacific,HK,Hong Kong,207,10.49
-103.44.255.81,443,True,bestHKG,Asia Pacific,HK,Hong Kong,10,10.43
-52.231.97.210,8443,True,bestICN,Asia Pacific,KR,Seoul,94,18.22
-185.214.103.3,8443,True,bestICN,Asia Pacific,KR,Seoul,53,15.89
-146.56.191.197,8080,True,bestICN,Asia Pacific,KR,Seoul,157,10.35
-144.24.68.144,443,True,bestICN,Asia Pacific,KR,Seoul,212,9.7
-217.142.128.145,443,True,bestICN,Asia Pacific,KR,Seoul,164,9.31
+103.148.72.147,1443,True,bestHKG,Asia Pacific,HK,Hong Kong,53,12.92
+52.231.97.210,8443,True,bestICN,Asia Pacific,KR,Seoul,105,19.42
+52.141.25.42,443,True,bestICN,Asia Pacific,KR,Seoul,97,17.43
+185.214.103.3,8443,True,bestICN,Asia Pacific,KR,Seoul,54,15.92
+146.56.105.221,443,True,bestICN,Asia Pacific,KR,Seoul,176,10.73
 103.137.63.2,443,True,bestKHH,Asia Pacific,TW,Kaohsiung City,74,9.83
-15.168.47.201,443,True,bestKIX,Asia Pacific,JP,Osaka,157,11.65
-141.147.144.246,8080,True,bestKIX,Asia Pacific,JP,Osaka,168,10.38
-185.184.223.19,59775,True,bestNRT,Asia Pacific,JP,Tokyo,66,29.47
-141.98.197.103,44873,True,bestNRT,Asia Pacific,JP,Tokyo,65,27.37
-54.248.121.219,443,True,bestNRT,Asia Pacific,JP,Tokyo,57,15.96
-47.91.18.127,443,True,bestNRT,Asia Pacific,JP,Tokyo,180,9.99
-140.238.60.225,443,True,bestNRT,Asia Pacific,JP,Tokyo,159,9.77
-131.186.57.111,443,True,bestNRT,Asia Pacific,JP,Tokyo,181,9.26
-38.207.132.192,21167,True,bestSIN,Asia Pacific,SG,Singapore,40,21.6
-43.156.116.194,443,True,bestSIN,Asia Pacific,SG,Singapore,52,12.57
-43.134.34.18,443,True,bestSIN,Asia Pacific,SG,Singapore,48,11.74
-150.109.11.223,443,True,bestSIN,Asia Pacific,SG,Singapore,48,11.45
-35.201.203.106,443,True,bestTPE,Asia Pacific,TW,Taipei,26,24.29
+217.142.236.93,443,True,bestKIX,Asia Pacific,JP,Osaka,177,10.33
+141.147.144.246,8080,True,bestKIX,Asia Pacific,JP,Osaka,167,9.5
+140.83.36.122,443,True,bestNRT,Asia Pacific,JP,Tokyo,165,9.47
+38.207.132.192,21167,True,bestSIN,Asia Pacific,SG,Singapore,43,20.95
+34.143.192.60,443,True,bestSIN,Asia Pacific,SG,Singapore,60,14.43
+43.134.34.18,443,True,bestSIN,Asia Pacific,SG,Singapore,46,12.26
+43.156.53.68,443,True,bestSIN,Asia Pacific,SG,Singapore,51,11.35
+35.201.203.106,443,True,bestTPE,Asia Pacific,TW,Taipei,27,39.76
+35.185.173.178,443,True,bestTPE,Asia Pacific,TW,Taipei,25,17.02
