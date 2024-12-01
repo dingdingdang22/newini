@@ -1,80 +1,65 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-175.196.105.220,31104,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,67,8.88
-59.9.8.68,32837,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,67,8.88
-221.152.115.8,32497,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,79,8.88
-220.119.243.243,20123,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,82,8.88
-222.121.94.210,37386,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,82,8.88
-175.196.105.220,19438,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,84,8.88
-220.77.18.195,37574,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,86,8.88
-61.80.135.3,19079,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,88,8.88
-220.72.185.107,14893,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,93,8.88
-221.152.115.8,32491,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,94,8.88
-61.80.135.3,18079,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,94,8.88
-221.152.115.8,22075,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,101,8.88
-220.85.201.216,31851,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,140,8.88
-39.119.121.132,17913,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,67,8.88
-39.119.121.132,18319,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,69,8.88
-1.252.14.205,22837,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,73,8.88
-39.119.121.132,35358,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,96,8.88
-39.119.121.132,21843,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,98,8.88
-218.50.152.204,36285,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,100,8.88
-58.149.159.218,15657,True,NRTchat,JP,Asia Pacific,Tokyo,3786,LG DACOM Corporation,85,8.88
-58.151.122.204,20682,True,NRTchat,JP,Asia Pacific,Tokyo,3786,LG DACOM Corporation,86,8.88
-125.191.154.172,35881,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,96,8.88
-218.50.152.204,11102,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,96,8.88
-218.50.152.204,12108,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,98,8.88
-1.252.14.205,32568,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,99,8.88
-125.183.169.77,12794,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,111,8.88
-125.191.154.172,11982,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,118,8.88
-39.119.121.132,24542,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,120,8.88
-39.119.121.132,11400,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,131,8.88
-39.119.121.132,21885,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,135,8.88
-211.194.255.42,34780,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,186,8.88
-211.194.255.42,34025,True,SJCchat,US,North America,San Jose,4766,Korea Telecom,205,8.88
+222.118.58.2,14252,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,77,8.88
+222.118.239.20,22378,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,79,8.88
+222.105.138.122,14511,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,114,8.88
+218.50.152.204,11102,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,95,8.88
+58.151.122.204,18213,True,NRTchat,JP,Asia Pacific,Tokyo,3786,LG DACOM Corporation,99,8.88
+58.151.122.204,20682,True,NRTchat,JP,Asia Pacific,Tokyo,3786,LG DACOM Corporation,100,8.88
+125.191.154.172,35881,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,101,8.88
+39.119.121.132,11988,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,120,8.88
+125.191.154.172,11982,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,126,8.88
+39.119.121.132,11400,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,127,8.88
+116.125.73.21,11207,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,137,8.88
+39.119.121.132,38737,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,147,8.88
+211.194.255.42,34780,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,187,8.88
 103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,15,8.88
 183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,40,8.88
 163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,67,8.88
-14.34.173.234,10263,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,65,8.88
-14.34.173.234,12399,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,65,8.88
-175.196.105.220,31104,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,69,8.88
-175.196.105.220,26004,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,71,8.88
-175.196.105.220,19438,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,108,8.88
-218.50.152.204,35495,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,58,8.88
-218.50.152.204,36702,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,61,8.88
-218.235.186.77,50000,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,64,8.88
-39.119.121.132,39267,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,65,8.88
-211.197.141.138,22822,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,61,8.88
-222.105.138.122,35883,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,84,8.88
-39.119.121.132,25548,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,92,8.88
-39.119.121.132,32946,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,96,8.88
-39.119.121.132,11390,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,98,8.88
-218.50.152.204,32514,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,100,8.88
-218.50.152.204,22132,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,102,8.88
-218.50.152.204,16193,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,102,8.88
-39.119.121.132,31937,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,102,8.88
-39.119.121.132,21843,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,106,8.88
-39.119.121.132,32208,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,114,8.88
-39.119.121.132,30567,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,114,8.88
-39.119.121.132,29653,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,122,8.88
-39.119.121.132,12793,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,129,8.88
-39.119.121.132,10060,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,134,8.88
-39.119.121.132,25216,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,135,8.88
-222.105.138.122,32860,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,135,8.88
-39.119.121.132,37099,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,145,8.88
-39.119.121.132,31025,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,169,8.88
-218.50.152.204,17218,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,93,8.88
-218.50.152.204,12108,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,94,8.88
-39.119.121.132,34631,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,95,8.88
-39.119.121.132,12303,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,98,8.88
-39.119.121.132,18802,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,98,8.88
-39.119.121.132,21885,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,99,8.88
-39.119.121.132,23130,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,107,8.88
-39.119.121.132,36650,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,107,8.88
-39.119.121.132,12014,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,110,8.88
-39.119.121.132,11508,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,142,8.88
-39.119.121.132,28710,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,143,8.88
-39.119.121.132,27714,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,148,8.88
-39.119.121.132,38040,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,149,8.88
-39.119.121.132,28467,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,151,8.88
-211.194.255.42,35829,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,191,8.88
-14.39.61.100,34008,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,195,8.88
+14.34.173.234,10263,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,62,8.88
+175.196.105.220,26004,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,74,8.88
+1.242.153.236,32421,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,64,8.88
+218.235.186.77,28173,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,65,8.88
+218.235.186.77,50000,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,68,8.88
+110.13.78.90,20019,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,70,8.88
+1.242.153.236,38903,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,76,8.88
+175.196.105.220,28944,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,72,8.88
+222.118.239.20,38565,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,72,8.88
+39.119.121.132,28662,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,108,8.88
+39.119.121.132,33549,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,109,8.88
+39.119.121.132,16121,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,111,8.88
+39.119.121.132,10404,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,113,8.88
+39.119.121.132,11298,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,113,8.88
+39.119.121.132,10060,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,113,8.88
+39.119.121.132,26371,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,114,8.88
+39.119.121.132,12793,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,116,8.88
+39.119.121.132,23094,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,118,8.88
+39.119.121.132,20027,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,121,8.88
+39.119.121.132,23669,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,122,8.88
+39.119.121.132,31344,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,122,8.88
+39.119.121.132,31937,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,128,8.88
+39.119.121.132,16100,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,136,8.88
+39.119.121.132,29653,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,141,8.88
+39.119.121.132,15109,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,148,8.88
+39.119.121.132,19432,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,161,8.88
+218.50.152.204,21708,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,85,8.88
+218.50.152.204,30162,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,94,8.88
+39.119.121.132,22428,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,97,8.88
+1.252.14.205,39187,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,98,8.88
+39.119.121.132,36650,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,113,8.88
+218.50.152.204,11102,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,117,8.88
+39.119.121.132,24542,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,117,8.88
+39.119.121.132,30363,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,121,8.88
+39.119.121.132,12014,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,129,8.88
+39.119.121.132,26530,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,147,8.88
+39.119.121.132,39557,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,147,8.88
+39.119.121.132,29503,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,148,8.88
+39.119.121.132,28710,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,150,8.88
+39.119.121.132,26765,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,152,8.88
+39.119.121.132,24890,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,153,8.88
+39.119.121.132,20664,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,160,8.88
+211.194.255.42,35829,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,185,8.88
+175.196.105.220,33397,True,SJCchat,US,North America,San Jose,4766,Korea Telecom,188,8.88
+175.198.255.61,35187,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,195,8.88
+222.118.239.20,39439,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,209,8.88
+175.196.105.220,18132,True,SJCchat,US,North America,San Jose,4766,Korea Telecom,211,8.88
+211.194.255.42,34025,True,SJCchat,US,North America,San Jose,4766,Korea Telecom,214,8.88
