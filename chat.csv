@@ -1,26 +1,16 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,26,8.88
-175.196.105.220,21719,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,80,8.88
-222.118.239.20,22378,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,100,8.88
-114.203.105.106,11360,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,52,8.88
-39.119.121.132,17913,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,79,8.88
-211.197.141.138,24935,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,82,8.88
-218.50.152.204,22132,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,97,8.88
-218.50.152.204,12108,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,89,8.88
-125.191.154.172,12733,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,109,8.88
-58.149.159.218,15657,True,NRTchat,JP,Asia Pacific,Tokyo,3786,LG DACOM Corporation,122,8.88
-61.38.238.18,30791,True,NRTchat,JP,Asia Pacific,Tokyo,3786,LG DACOM Corporation,128,8.88
-58.151.122.204,10491,True,NRTchat,JP,Asia Pacific,Tokyo,3786,LG DACOM Corporation,129,8.88
-58.149.159.218,28459,True,NRTchat,JP,Asia Pacific,Tokyo,3786,LG DACOM Corporation,130,8.88
-39.119.121.132,24542,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,145,8.88
-39.119.121.132,32322,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,146,8.88
-39.119.121.132,11988,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,148,8.88
-103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,38,8.88
-222.105.138.122,37824,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,197,8.88
+220.120.133.102,39360,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,89,8.88
+220.122.42.198,15668,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,91,8.88
+168.126.182.190,16665,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,95,8.88
+220.126.11.89,15053,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,98,8.88
+175.212.155.73,27154,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,99,8.88
+168.126.182.190,16998,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,99,8.88
+168.126.182.190,17194,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,99,8.88
+220.126.11.89,21652,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,102,8.88
+220.126.11.89,15514,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,103,8.88
+220.126.11.89,16630,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,114,8.88
 103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,15,8.88
 183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,40,8.88
 163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,67,8.88
-14.34.173.234,12399,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,72,8.88
-1.252.14.205,37682,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,78,8.88
-175.196.105.220,33397,True,SJCchat,US,North America,San Jose,4766,Korea Telecom,186,8.88
-211.194.255.42,35829,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,186,8.88
+220.78.176.158,21444,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,121,8.88
+220.126.11.89,24820,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,124,8.88
