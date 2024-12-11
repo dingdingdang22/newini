@@ -1,6 +1,15 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,28,8.88
+183.236.51.57,28994,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,54,8.88
 103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,8,8.88
+45.251.10.224,28214,True,LAXchat,US,North America,Los Angeles,133775,Xiamen,96,8.88
 103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,15,8.88
 183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,40,8.88
 163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,67,8.88
+183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,15,8.88
+59.19.185.150,26999,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,198,8.88
+221.157.224.46,26594,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,208,8.88
+211.229.20.164,30063,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,217,8.88
+221.150.72.56,19830,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,218,8.88
+221.150.72.56,25814,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,257,8.88
+221.157.224.46,11029,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,309,8.88
+211.229.20.164,32635,True,LAXchat,US,North America,Los Angeles,4766,Korea Telecom,359,8.88
