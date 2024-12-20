@@ -1,12 +1,14 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,18,8.88
-103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,9,8.88
-183.236.51.57,31617,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,13,8.88
-183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,46,8.88
-45.251.10.224,28214,True,LAXchat,US,North America,Los Angeles,133775,Xiamen,74,8.88
+183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,20,8.88
+163.177.58.169,32444,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,13,8.88
+163.177.58.169,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,21,8.88
+163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,22,8.88
+183.94.30.165,45758,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,22,8.88
+183.94.30.165,25866,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,23,8.88
 103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,15,8.88
 183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,40,8.88
 163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,67,8.88
-163.177.58.169,32444,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,56,8.88
-163.177.58.169,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,59,8.88
-45.251.10.224,41628,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,32,8.88
+183.236.51.57,31617,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,50,8.88
+45.251.10.224,41628,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,54,8.88
+183.236.51.57,28994,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,54,8.88
+45.251.10.224,28214,True,LAXchat,US,North America,Los Angeles,133775,Xiamen,35,8.88
