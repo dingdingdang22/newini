@@ -33,5 +33,3 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
 183.236.51.57,32569,True,HKG,HK,Asia Pacific,Hong Kong,31,12.11
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
 183.236.51.57,25982,True,HKG,HK,Asia Pacific,Hong Kong,18,10.92
-183.236.51.57,32921,True,HKG,HK,Asia Pacific,Hong Kong,26,7.83
-175.124.91.153,37386,True,KIX,JP,Asia Pacific,Osaka,106,7.05
