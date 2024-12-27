@@ -1,23 +1,21 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,15,8.88
-183.236.51.57,33203,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,16,8.88
-183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,17,8.88
-175.203.9.28,38792,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,157,8.88
-211.216.189.208,19585,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,173,8.88
-14.47.175.40,16831,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,191,8.88
-210.222.105.52,10951,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,196,8.88
-175.215.132.166,39994,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,202,8.88
-175.201.108.114,11178,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,216,8.88
-220.126.157.182,25623,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,219,8.88
-210.222.105.52,11731,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,227,8.88
-220.117.199.209,16103,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,232,8.88
-220.120.133.102,23645,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,262,8.88
-118.39.146.51,33311,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,407,8.88
-163.177.58.169,32444,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,12,8.88
-183.236.51.57,31617,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,44,8.88
-45.251.10.224,41628,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,46,8.88
+183.236.51.57,28994,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,18,8.88
+183.236.51.57,30606,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,18,8.88
+183.236.51.57,33203,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,21,8.88
+163.177.58.169,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,12,8.88
+163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,14,8.88
+45.251.10.224,41628,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,61,8.88
 103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,15,8.88
 183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,40,8.88
 163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,67,8.88
-163.177.58.169,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,48,8.88
-163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,48,8.88
+61.74.161.20,11055,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,160,8.88
+211.38.199.32,11534,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,166,8.88
+221.152.115.8,28741,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,179,8.88
+211.227.97.113,35487,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,188,8.88
+168.126.182.190,33093,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,196,8.88
+168.126.182.190,16331,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,215,8.88
+210.222.105.52,24540,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,218,8.88
+168.126.182.190,29227,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,228,8.88
+61.74.161.20,36046,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,248,8.88
+211.230.64.93,36923,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,538,8.88
+163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,63,8.88
