@@ -1,17 +1,14 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-8.210.166.116,443,True,bestHKG,Asia Pacific,HK,Hong Kong,19,59.4
+8.218.110.219,443,True,bestHKG,Asia Pacific,HK,Hong Kong,15,65.16
 104.199.236.135,443,True,bestTPE,Asia Pacific,TW,Taipei,24,29.31
 38.59.241.252,27856,True,bestSJC,North America,US,San Jose,188,28.12
-8.223.15.4,443,True,bestHKG,Asia Pacific,HK,Hong Kong,29,26.15
 43.156.181.203,443,True,bestSIN,Asia Pacific,SG,Singapore,51,25.84
 54.255.71.236,443,True,bestSIN,Asia Pacific,SG,Singapore,58,23.17
-43.198.87.91,443,True,bestHKG,Asia Pacific,HK,Hong Kong,91,21.67
-8.212.44.95,443,True,bestHKG,Asia Pacific,HK,Hong Kong,23,21.5
 129.146.46.164,443,True,bestLAX,North America,US,Los Angeles,189,20.57
 20.41.104.196,443,True,bestICN,Asia Pacific,KR,Seoul,81,18.64
 65.75.193.154,14491,True,bestSJC,North America,US,San Jose,153,18.59
-103.103.245.51,55496,True,bestHKG,Asia Pacific,HK,Hong Kong,45,18.43
 54.169.74.141,2086,True,bestSIN,Asia Pacific,SG,Singapore,53,17.68
+40.83.122.22,2053,True,bestHKG,Asia Pacific,HK,Hong Kong,83,16.81
 154.17.239.70,59424,True,bestLAX,North America,US,Los Angeles,163,16.5
 154.29.150.2,8080,True,bestLAX,North America,US,Los Angeles,201,15.06
 154.9.249.242,443,True,bestLAX,North America,US,Los Angeles,207,14.95
@@ -29,8 +26,8 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 204.110.220.22,80,True,bestSJC,North America,US,San Jose,162,11.57
 13.231.146.61,443,True,bestNRT,Asia Pacific,JP,Tokyo,163,11.56
 202.91.35.102,27911,True,bestLAX,North America,US,Los Angeles,167,11.51
-23.94.25.245,15182,True,bestSJC,North America,US,San Jose,152,11.51
 107.173.34.130,8443,True,bestSJC,North America,US,San Jose,158,11.51
+23.94.25.245,15182,True,bestSJC,North America,US,San Jose,152,11.51
 154.17.231.175,56666,True,bestLAX,North America,US,Los Angeles,159,11.46
 204.110.220.194,80,True,bestSJC,North America,US,San Jose,173,11.4
 204.110.220.137,80,True,bestSJC,North America,US,San Jose,161,11.39
@@ -57,13 +54,14 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 67.226.221.158,80,True,bestSJC,North America,US,San Jose,153,10.48
 67.226.221.116,80,True,bestSJC,North America,US,San Jose,155,10.44
 43.156.53.68,443,True,bestSIN,Asia Pacific,SG,Singapore,53,10.41
-141.147.144.246,8080,True,bestKIX,Asia Pacific,JP,Osaka,167,10.35
 204.110.220.18,80,True,bestSJC,North America,US,San Jose,169,10.35
+141.147.144.246,8080,True,bestKIX,Asia Pacific,JP,Osaka,167,10.35
 204.110.220.161,80,True,bestSJC,North America,US,San Jose,152,10.3
 204.110.220.143,80,True,bestSJC,North America,US,San Jose,181,10.26
 154.17.17.205,11349,True,bestLAX,North America,US,Los Angeles,158,10.22
 204.110.220.48,80,True,bestSJC,North America,US,San Jose,164,10.15
-8.219.221.77,443,True,bestSIN,Asia Pacific,SG,Singapore,190,10.07
+38.207.129.34,35333,True,bestHKG,Asia Pacific,HK,Hong Kong,159,10.08
 152.70.155.147,8443,True,bestLAX,North America,US,Los Angeles,188,10.07
 216.38.168.120,50708,True,bestLAX,North America,US,Los Angeles,178,10.07
+8.219.221.77,443,True,bestSIN,Asia Pacific,SG,Singapore,190,10.07
 138.2.36.157,8443,True,bestKIX,Asia Pacific,JP,Osaka,177,10.06
