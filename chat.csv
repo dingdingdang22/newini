@@ -1,11 +1,20 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,33203,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,21,8.88
-183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,22,8.88
+183.236.51.57,33203,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,12,8.88
+183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,14,8.88
+221.152.115.8,36490,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,98,8.88
+211.105.173.218,12123,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,110,8.88
+61.74.161.20,31147,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,129,8.88
+220.121.144.194,35663,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,142,8.88
+211.217.145.217,26322,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,151,8.88
+61.74.161.20,12089,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,183,8.88
+61.80.81.59,34301,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,203,8.88
+61.74.161.20,22321,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,296,8.88
+220.71.115.60,17639,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,255,8.88
+61.74.161.20,17825,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,291,8.88
+118.39.250.213,13832,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,294,8.88
 103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,15,8.88
 183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,40,8.88
 163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,67,8.88
-163.177.58.169,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,19,8.88
-183.94.30.165,52370,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,74,8.88
-163.177.58.169,32444,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,75,8.88
-183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,24,8.88
-183.236.51.16,15497,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,14,8.88
+183.236.51.16,15781,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,75,8.88
+183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,13,8.88
+183.236.51.16,15497,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,51,8.88
