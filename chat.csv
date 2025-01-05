@@ -8,9 +8,6 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(
 175.205.119.253,12229,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,141,8.88
 218.150.7.29,30081,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,207,8.88
 59.5.165.246,21695,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,275,8.88
-103.191.242.222,9099,True,SINchat,SG,Asia Pacific,Singapore,4816,China Telecom Group,15,8.88
-183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,40,8.88
-163.177.58.169,32381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,67,8.88
 183.94.30.165,25866,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,47,8.88
 183.236.51.16,15781,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,50,8.88
 183.236.51.57,31617,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,34,8.88
