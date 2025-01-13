@@ -1,6 +1,5 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 38.59.241.80,45535,True,bestSJC,North America,US,San Jose,191,33.16
-8.223.15.4,443,True,bestHKG,Asia Pacific,HK,Hong Kong,17,32.26
 37.123.192.214,34237,True,bestSJC,North America,US,San Jose,161,28.32
 37.123.193.197,29121,True,bestSJC,North America,US,San Jose,172,26.52
 34.84.226.135,2096,True,bestNRT,Asia Pacific,JP,Tokyo,59,25.95
@@ -9,14 +8,7 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 18.141.138.141,443,True,bestSIN,Asia Pacific,SG,Singapore,96,17.58
 192.210.196.158,36414,True,bestSJC,North America,US,San Jose,160,17.58
 174.136.207.24,47025,True,bestSJC,North America,US,San Jose,257,17.47
-20.33.30.36,2083,True,bestLAX,North America,US,Los Angeles,187,17.12
 65.75.194.7,12266,True,bestSJC,North America,US,San Jose,185,16.1
-154.17.237.56,26749,True,bestLAX,North America,US,Los Angeles,173,15.79
-154.17.226.32,62096,True,bestLAX,North America,US,Los Angeles,172,15.6
-91.149.239.234,443,True,bestLAX,North America,US,Los Angeles,199,13.16
-154.9.241.153,23119,True,bestLAX,North America,US,Los Angeles,195,13.01
-154.26.178.3,11625,True,bestLAX,North America,US,Los Angeles,165,12.92
-154.31.157.12,443,True,bestLAX,North America,US,Los Angeles,175,12.79
 50.18.25.238,443,True,bestSJC,North America,US,San Jose,155,12.41
 18.181.175.131,443,True,bestNRT,Asia Pacific,JP,Tokyo,161,12.37
 184.169.181.217,443,True,bestSJC,North America,US,San Jose,153,12.24
@@ -24,7 +16,6 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 54.67.51.212,80,True,bestSJC,North America,US,San Jose,156,11.83
 204.110.220.226,80,True,bestSJC,North America,US,San Jose,182,11.77
 54.241.79.250,80,True,bestSJC,North America,US,San Jose,189,11.76
-150.230.201.75,443,True,bestLAX,North America,US,Los Angeles,165,11.74
 13.64.189.46,80,True,bestSJC,North America,US,San Jose,163,11.71
 64.181.240.173,443,True,bestSJC,North America,US,San Jose,166,11.7
 204.110.220.38,80,True,bestSJC,North America,US,San Jose,157,11.66
@@ -32,7 +23,6 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 67.226.221.190,80,True,bestSJC,North America,US,San Jose,157,11.59
 204.110.220.171,80,True,bestSJC,North America,US,San Jose,155,11.56
 13.56.81.55,80,True,bestSJC,North America,US,San Jose,170,11.56
-141.147.173.120,443,True,bestLAX,North America,US,Los Angeles,166,11.53
 104.168.102.121,2053,True,bestSJC,North America,US,San Jose,188,11.5
 67.226.221.104,443,True,bestSJC,North America,US,San Jose,168,11.47
 107.173.111.72,1443,True,bestSJC,North America,US,San Jose,151,11.46
@@ -43,38 +33,30 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 67.226.221.15,80,True,bestSJC,North America,US,San Jose,176,11.22
 67.226.221.173,80,True,bestSJC,North America,US,San Jose,161,11.17
 204.110.220.183,80,True,bestSJC,North America,US,San Jose,168,11.17
-138.2.30.217,443,True,bestLAX,North America,US,Los Angeles,179,11.16
 204.110.220.79,80,True,bestSJC,North America,US,San Jose,184,11.14
 204.110.220.121,80,True,bestSJC,North America,US,San Jose,187,11.08
 204.110.220.168,80,True,bestSJC,North America,US,San Jose,158,11.07
-3.101.102.25,80,True,bestSJC,North America,US,San Jose,186,11.04
 54.183.97.111,443,True,bestSJC,North America,US,San Jose,158,11.04
-67.226.221.195,80,True,bestSJC,North America,US,San Jose,174,11.03
+3.101.102.25,80,True,bestSJC,North America,US,San Jose,186,11.04
 67.226.221.221,80,True,bestSJC,North America,US,San Jose,155,11.03
+67.226.221.195,80,True,bestSJC,North America,US,San Jose,174,11.03
 204.110.220.118,80,True,bestSJC,North America,US,San Jose,170,11.02
 65.75.193.154,14491,True,bestSJC,North America,US,San Jose,246,11.0
 204.110.220.53,80,True,bestSJC,North America,US,San Jose,165,10.86
 67.226.221.96,80,True,bestSJC,North America,US,San Jose,158,10.85
 13.57.6.142,80,True,bestSJC,North America,US,San Jose,188,10.84
-107.175.44.118,58621,True,bestSJC,North America,US,San Jose,157,10.82
 67.226.221.221,443,True,bestSJC,North America,US,San Jose,176,10.82
+107.175.44.118,58621,True,bestSJC,North America,US,San Jose,157,10.82
 107.173.34.130,8443,True,bestSJC,North America,US,San Jose,157,10.8
-204.110.220.69,80,True,bestSJC,North America,US,San Jose,186,10.78
 204.110.220.98,80,True,bestSJC,North America,US,San Jose,157,10.78
-154.26.189.50,20442,True,bestLAX,North America,US,Los Angeles,156,10.76
+204.110.220.69,80,True,bestSJC,North America,US,San Jose,186,10.78
 204.110.220.159,80,True,bestSJC,North America,US,San Jose,156,10.73
-154.26.183.30,6667,True,bestLAX,North America,US,Los Angeles,169,10.73
+35.201.175.67,2096,True,bestTPE,Asia Pacific,TW,Taipei,23,10.72
 54.177.196.101,80,True,bestSJC,North America,US,San Jose,158,10.7
-38.60.91.41,15360,True,bestLAX,North America,US,Los Angeles,166,10.62
 204.110.220.160,80,True,bestSJC,North America,US,San Jose,157,10.6
 204.110.220.124,80,True,bestSJC,North America,US,San Jose,183,10.59
 67.226.221.102,80,True,bestSJC,North America,US,San Jose,155,10.55
-154.17.231.175,56666,True,bestLAX,North America,US,Los Angeles,175,10.39
-38.47.116.97,60002,True,bestLAX,North America,US,Los Angeles,167,10.31
 67.226.221.13,80,True,bestSJC,North America,US,San Jose,150,10.26
-154.21.87.106,22989,True,bestLAX,North America,US,Los Angeles,167,10.25
-193.123.255.243,443,True,bestLAX,North America,US,Los Angeles,175,10.1
-202.91.35.102,27911,True,bestLAX,North America,US,Los Angeles,157,10.1
 8.222.195.67,443,True,bestSIN,Asia Pacific,SG,Singapore,182,10.03
 192.9.236.144,443,True,bestSJC,North America,US,San Jose,183,10.01
 8.219.196.79,443,True,bestSIN,Asia Pacific,SG,Singapore,184,9.93
@@ -90,10 +72,8 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 8.219.85.31,443,True,bestSIN,Asia Pacific,SG,Singapore,184,9.67
 8.219.195.102,443,True,bestSIN,Asia Pacific,SG,Singapore,186,9.67
 35.78.183.64,8443,True,bestNRT,Asia Pacific,JP,Tokyo,157,9.65
-38.148.249.118,32956,True,bestLAX,North America,US,Los Angeles,161,9.65
 8.219.99.64,443,True,bestSIN,Asia Pacific,SG,Singapore,183,9.63
 8.219.133.8,443,True,bestSIN,Asia Pacific,SG,Singapore,182,9.62
-34.125.26.60,8080,True,bestLAX,North America,US,Los Angeles,176,9.6
 8.219.130.167,443,True,bestSIN,Asia Pacific,SG,Singapore,183,9.57
 8.219.120.190,443,True,bestSIN,Asia Pacific,SG,Singapore,184,9.56
 8.222.219.115,443,True,bestSIN,Asia Pacific,SG,Singapore,184,9.54
@@ -104,13 +84,9 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 8.219.174.230,443,True,bestSIN,Asia Pacific,SG,Singapore,185,9.32
 8.219.195.56,443,True,bestSIN,Asia Pacific,SG,Singapore,183,9.25
 8.219.133.246,443,True,bestSIN,Asia Pacific,SG,Singapore,179,9.22
-154.23.244.23,55892,True,bestLAX,North America,US,Los Angeles,176,9.21
 8.219.51.9,443,True,bestSIN,Asia Pacific,SG,Singapore,196,9.18
 8.219.150.227,443,True,bestSIN,Asia Pacific,SG,Singapore,181,9.13
-152.70.249.236,443,True,bestLAX,North America,US,Los Angeles,203,9.12
 8.222.245.0,443,True,bestSIN,Asia Pacific,SG,Singapore,184,9.12
-154.21.93.3,44729,True,bestLAX,North America,US,Los Angeles,159,9.09
 8.219.6.129,443,True,bestSIN,Asia Pacific,SG,Singapore,185,9.07
-129.154.206.208,443,True,bestLAX,North America,US,Los Angeles,197,9.03
 8.219.72.167,443,True,bestSIN,Asia Pacific,SG,Singapore,181,9.02
 8.219.205.177,443,True,bestSIN,Asia Pacific,SG,Singapore,186,9.02
