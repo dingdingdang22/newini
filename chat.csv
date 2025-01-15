@@ -1,4 +1,18 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-163.177.58.167,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,75,8.88
-183.236.51.16,15781,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,76,8.88
-131.186.60.210,8080,True,NRTchat,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,166,8.88
+183.236.51.57,33203,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,14,8.88
+61.80.135.3,30019,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,88,8.88
+61.80.135.3,14364,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,94,8.88
+61.80.135.3,32813,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,122,8.88
+61.80.135.3,27250,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,126,8.88
+221.163.241.98,15671,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,159,8.88
+221.146.93.154,25455,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,166,8.88
+221.146.93.154,14189,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,174,8.88
+221.163.241.98,39105,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,184,8.88
+221.163.241.98,15151,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,196,8.88
+221.163.241.98,10167,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,204,8.88
+221.163.241.98,25407,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,288,8.88
+221.163.241.98,22647,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,289,8.88
+221.163.241.98,37345,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,335,8.88
+163.177.58.167,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,18,8.88
+183.236.51.16,15781,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,19,8.88
+183.94.30.165,25866,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,23,8.88
