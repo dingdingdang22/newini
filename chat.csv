@@ -1,8 +1,21 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,33203,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,25,8.88
-14.54.26.190,38186,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,87,8.88
-183.236.51.16,15781,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,65,8.88
-183.94.30.165,25866,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,82,8.88
-163.177.58.167,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,84,8.88
-106.75.133.65,443,True,SINchat,SG,Asia Pacific,Singapore,58466,CHINANET Guangdong province network,73,8.88
-47.99.108.15,443,True,SJCchat,US,North America,San Jose,37963,Hangzhou Alibaba Advertising CoLtd,32,8.88
+61.74.161.20,27859,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,200,8.88
+61.74.161.20,10362,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,259,8.88
+61.74.161.20,38538,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,380,8.88
+23.94.122.46,443,True,SJCchat,US,North America,San Jose,36352,AS-COLOCROSSING,153,8.88
+104.168.102.163,443,True,SJCchat,US,North America,San Jose,36352,AS-COLOCROSSING,157,8.88
+38.47.117.77,443,True,LAXchat,US,North America,Los Angeles,979,NETLAB-SDN,159,8.88
+104.160.190.180,2087,True,LAXchat,US,North America,Los Angeles,46844,SHARKTECH,167,8.88
+23.94.43.51,443,True,SEAchat,US,North America,Seattle,36352,AS-COLOCROSSING,181,8.88
+38.76.145.184,443,True,LAXchat,US,North America,Los Angeles,174,COGENT-174,184,8.88
+91.149.239.72,443,True,LAXchat,US,North America,Los Angeles,26383,ASNET,189,8.88
+43.231.232.52,443,True,SJCchat,US,North America,San Jose,396948,CLOUDWEBMANAGE-SC,190,8.88
+183.236.51.57,33203,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,13,8.88
+222.107.185.134,37791,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,97,8.88
+61.81.112.29,13969,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,90,8.88
+221.144.200.91,29638,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,93,8.88
+183.94.30.165,49643,True,KIXchat,JP,Asia Pacific,Osaka,4837,CHINA UNICOM China169 Backbone,54,8.88
+140.83.62.37,19493,True,KIXchat,JP,Asia Pacific,Osaka,31898,ORACLE-BMC-31898,177,8.88
+163.177.58.167,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,45,8.88
+183.236.51.16,15781,True,NRTchat,JP,Asia Pacific,Tokyo,9808,China Mobile Communications Group Co Ltd,61,8.88
+47.99.108.15,443,True,SJCchat,US,North America,San Jose,37963,Hangzhou Alibaba Advertising CoLtd,29,8.88
