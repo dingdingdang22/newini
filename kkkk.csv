@@ -1,17 +1,4 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
-34.80.79.47,2096,True,TPE,TW,Asia Pacific,Taipei,23,5.5
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,190,16.01
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
-219.76.13.180,443,True,HKG,HK,Asia Pacific,Hong Kong,572,8.08
-43.129.171.137,443,True,HKG,HK,Asia Pacific,Hong Kong,28,7.58
-149.88.95.42,2053,True,HKG,HK,Asia Pacific,Hong Kong,67,6.98
-116.48.22.147,8443,True,HKG,HK,Asia Pacific,Hong Kong,456,6.84
-219.76.13.181,443,True,HKG,HK,Asia Pacific,Hong Kong,647,6.8
-219.76.13.166,443,True,HKG,HK,Asia Pacific,Hong Kong,121,6.17
-149.88.95.42,8443,True,HKG,HK,Asia Pacific,Hong Kong,73,6.14
-149.88.95.42,443,True,HKG,HK,Asia Pacific,Hong Kong,36,6.06
-183.94.30.165,50205,True,NRT,JP,Asia Pacific,Tokyo,25,5.79
-193.122.101.19,443,True,ICN,KR,Asia Pacific,Seoul,57,5.54
-118.216.2.231,25911,True,NRT,JP,Asia Pacific,Tokyo,181,5.29
-183.236.51.57,31349,True,HKG,HK,Asia Pacific,Hong Kong,44,5.23
