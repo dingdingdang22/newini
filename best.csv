@@ -1,55 +1,44 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 34.150.84.5,443,True,bestHKG,Asia Pacific,HK,Hong Kong,52,67.02
-52.77.97.162,443,True,bestSIN,Asia Pacific,SG,Singapore,51,34.2
-13.250.131.37,443,True,bestSIN,Asia Pacific,SG,Singapore,55,28.76
-13.229.218.95,443,True,bestSIN,Asia Pacific,SG,Singapore,54,27.89
-57.155.59.114,443,True,bestSIN,Asia Pacific,SG,Singapore,50,22.34
-91.149.239.234,443,True,bestLAX,North America,US,Los Angeles,159,20.64
-13.214.38.123,443,True,bestSIN,Asia Pacific,SG,Singapore,96,19.09
+57.155.59.114,443,True,bestSIN,Asia Pacific,SG,Singapore,51,34.33
+13.229.144.157,443,True,bestSIN,Asia Pacific,SG,Singapore,54,32.84
+47.79.89.106,2096,True,bestNRT,Asia Pacific,JP,Tokyo,69,23.26
+35.234.3.153,443,True,bestTPE,Asia Pacific,TW,Taipei,21,22.32
 40.83.122.22,2053,True,bestHKG,Asia Pacific,HK,Hong Kong,82,18.72
-91.149.239.72,443,True,bestLAX,North America,US,Los Angeles,182,17.85
+154.17.239.70,49028,True,bestLAX,North America,US,Los Angeles,160,15.82
 103.148.72.147,1443,True,bestHKG,Asia Pacific,HK,Hong Kong,58,15.56
-18.141.138.141,443,True,bestSIN,Asia Pacific,SG,Singapore,92,15.54
-193.122.114.89,443,True,bestICN,Asia Pacific,KR,Seoul,49,15.02
-154.29.150.2,8080,True,bestLAX,North America,US,Los Angeles,201,14.97
-152.70.95.80,443,True,bestICN,Asia Pacific,KR,Seoul,57,14.55
-154.21.86.78,27763,True,bestLAX,North America,US,Los Angeles,156,14.42
-91.149.239.145,443,True,bestLAX,North America,US,Los Angeles,171,14.12
-20.33.30.36,2083,True,bestLAX,North America,US,Los Angeles,165,14.05
-38.47.117.49,31146,True,bestLAX,North America,US,Los Angeles,173,13.83
-18.138.225.219,443,True,bestSIN,Asia Pacific,SG,Singapore,52,13.4
-154.17.25.7,50376,True,bestLAX,North America,US,Los Angeles,171,13.32
-154.17.237.56,26749,True,bestLAX,North America,US,Los Angeles,170,12.91
-52.187.95.20,2053,True,bestSIN,Asia Pacific,SG,Singapore,52,11.9
-154.9.241.153,22116,True,bestLAX,North America,US,Los Angeles,200,11.84
-43.156.116.194,443,True,bestSIN,Asia Pacific,SG,Singapore,74,11.65
-210.186.12.244,443,True,bestKUL,Asia Pacific,MY,Kuala Lumpur,99,11.39
-141.147.178.241,443,True,bestLAX,North America,US,Los Angeles,175,11.18
-23.169.184.28,13800,True,bestLAX,North America,US,Los Angeles,159,11.12
-38.47.117.77,443,True,bestLAX,North America,US,Los Angeles,157,10.98
-150.109.11.223,443,True,bestSIN,Asia Pacific,SG,Singapore,57,10.72
-146.56.138.147,443,True,bestLAX,North America,US,Los Angeles,176,10.71
-35.234.3.153,443,True,bestTPE,Asia Pacific,TW,Taipei,22,10.64
-217.142.151.126,443,True,bestLAX,North America,US,Los Angeles,189,10.6
-91.149.239.238,443,True,bestLAX,North America,US,Los Angeles,186,10.53
-154.23.243.91,42242,True,bestLAX,North America,US,Los Angeles,182,10.31
-154.17.239.70,59424,True,bestLAX,North America,US,Los Angeles,162,10.25
-154.40.46.28,46757,True,bestLAX,North America,US,Los Angeles,191,10.2
-64.110.90.39,443,True,bestLAX,North America,US,Los Angeles,187,10.0
-23.166.168.67,13118,True,bestLAX,North America,US,Los Angeles,175,9.98
-154.17.17.205,11349,True,bestLAX,North America,US,Los Angeles,159,9.93
-146.56.191.197,8080,True,bestICN,Asia Pacific,KR,Seoul,54,9.78
-154.17.30.195,54863,True,bestLAX,North America,US,Los Angeles,182,9.57
-154.26.182.49,9443,True,bestLAX,North America,US,Los Angeles,184,9.54
-152.70.36.238,443,True,bestICN,Asia Pacific,KR,Seoul,53,9.39
-146.56.154.19,443,True,bestLAX,North America,US,Los Angeles,175,9.35
-154.26.181.45,51953,True,bestLAX,North America,US,Los Angeles,154,9.09
-131.186.22.20,443,True,bestLAX,North America,US,Los Angeles,204,8.89
-132.226.175.181,443,True,bestLAX,North America,US,Los Angeles,190,8.67
-193.122.115.45,443,True,bestLAX,North America,US,Los Angeles,206,8.59
-146.56.164.116,443,True,bestICN,Asia Pacific,KR,Seoul,68,8.53
-64.110.78.44,443,True,bestLAX,North America,US,Los Angeles,208,8.47
-146.56.170.66,443,True,bestLAX,North America,US,Los Angeles,180,8.39
-152.70.252.106,443,True,bestLAX,North America,US,Los Angeles,180,8.22
-154.21.93.3,44729,True,bestLAX,North America,US,Los Angeles,154,8.15
-154.21.93.92,37955,True,bestLAX,North America,US,Los Angeles,156,8.08
+154.17.227.138,587,True,bestLAX,North America,US,Los Angeles,158,15.5
+154.21.93.92,37955,True,bestLAX,North America,US,Los Angeles,159,14.53
+38.47.117.49,31146,True,bestLAX,North America,US,Los Angeles,161,14.08
+154.9.249.242,443,True,bestLAX,North America,US,Los Angeles,195,13.88
+154.9.241.153,23119,True,bestLAX,North America,US,Los Angeles,201,12.68
+43.156.116.194,443,True,bestSIN,Asia Pacific,SG,Singapore,52,12.62
+91.149.239.64,443,True,bestLAX,North America,US,Los Angeles,250,12.25
+154.21.93.3,44729,True,bestLAX,North America,US,Los Angeles,162,12.06
+154.17.239.70,59424,True,bestLAX,North America,US,Los Angeles,158,11.81
+154.9.241.153,38808,True,bestLAX,North America,US,Los Angeles,201,11.68
+23.166.168.67,13118,True,bestLAX,North America,US,Los Angeles,169,11.16
+154.26.182.49,9443,True,bestLAX,North America,US,Los Angeles,155,11.09
+154.31.113.72,443,True,bestNRT,Asia Pacific,JP,Tokyo,160,10.89
+154.26.181.45,51953,True,bestLAX,North America,US,Los Angeles,156,10.86
+23.169.184.28,13800,True,bestLAX,North America,US,Los Angeles,168,10.84
+23.169.184.125,25526,True,bestLAX,North America,US,Los Angeles,166,10.72
+154.9.241.153,59254,True,bestLAX,North America,US,Los Angeles,202,10.71
+141.147.144.246,8080,True,bestKIX,Asia Pacific,JP,Osaka,169,10.67
+154.17.231.175,56666,True,bestLAX,North America,US,Los Angeles,160,10.62
+38.47.117.77,443,True,bestLAX,North America,US,Los Angeles,165,10.09
+66.85.139.204,443,True,bestLAX,North America,US,Los Angeles,185,9.94
+154.40.57.178,34237,True,bestLAX,North America,US,Los Angeles,176,9.84
+3.0.50.69,443,True,bestSIN,Asia Pacific,SG,Singapore,51,9.62
+8.222.212.237,443,True,bestSIN,Asia Pacific,SG,Singapore,188,8.89
+8.219.87.154,443,True,bestSIN,Asia Pacific,SG,Singapore,191,8.87
+8.219.142.205,443,True,bestSIN,Asia Pacific,SG,Singapore,196,8.73
+8.219.64.148,443,True,bestSIN,Asia Pacific,SG,Singapore,193,8.62
+8.219.5.118,443,True,bestSIN,Asia Pacific,SG,Singapore,190,8.56
+146.56.37.148,443,True,bestICN,Asia Pacific,KR,Seoul,51,8.54
+154.40.57.145,34237,True,bestLAX,North America,US,Los Angeles,196,8.46
+202.91.35.102,27911,True,bestLAX,North America,US,Los Angeles,162,8.4
+8.219.247.103,443,True,bestSIN,Asia Pacific,SG,Singapore,206,8.4
+154.9.241.183,16356,True,bestLAX,North America,US,Los Angeles,197,8.15
+8.219.147.178,443,True,bestSIN,Asia Pacific,SG,Singapore,191,8.01
+8.222.196.86,443,True,bestSIN,Asia Pacific,SG,Singapore,198,8.01
