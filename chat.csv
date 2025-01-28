@@ -1,3 +1,5 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-163.177.58.167,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,25,8.88
-163.177.58.167,30081,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,10,8.88
+163.177.58.167,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,19,8.88
+106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,111,8.88
+113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,199,8.88
+163.177.58.167,30081,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,118,8.88
