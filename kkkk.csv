@@ -1,65 +1,49 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
-35.234.3.153,443,True,TPE,TW,Asia Pacific,Taipei,26,22.83
+35.185.142.252,443,True,TPE,TW,Asia Pacific,Taipei,25,15.35
+35.201.203.106,443,True,TPE,TW,Asia Pacific,Taipei,27,11.27
+219.76.13.181,443,True,HKG,HK,Asia Pacific,Hong Kong,36,37.66
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
-219.76.13.180,443,True,HKG,HK,Asia Pacific,Hong Kong,137,31.83
-163.177.58.167,44724,True,HKG,HK,Asia Pacific,Hong Kong,16,29.81
-163.177.58.167,28224,True,HKG,HK,Asia Pacific,Hong Kong,49,29.51
-163.177.58.167,41763,True,HKG,HK,Asia Pacific,Hong Kong,14,28.42
-163.177.58.167,54325,True,HKG,HK,Asia Pacific,Hong Kong,60,26.37
-219.76.13.166,443,True,HKG,HK,Asia Pacific,Hong Kong,106,24.6
-45.251.10.227,30606,True,HKG,HK,Asia Pacific,Hong Kong,135,24.05
-218.250.142.224,443,True,HKG,HK,Asia Pacific,Hong Kong,233,23.84
-163.177.58.167,25990,True,HKG,HK,Asia Pacific,Hong Kong,94,23.39
-183.236.51.57,35435,True,HKG,HK,Asia Pacific,Hong Kong,49,20.54
-38.207.185.109,443,True,HKG,HK,Asia Pacific,Hong Kong,15,19.44
-45.251.10.227,27489,True,HKG,HK,Asia Pacific,Hong Kong,71,19.11
-183.236.51.57,35410,True,HKG,HK,Asia Pacific,Hong Kong,19,18.46
-183.236.51.57,34832,True,HKG,HK,Asia Pacific,Hong Kong,60,17.85
-183.236.51.57,33144,True,HKG,HK,Asia Pacific,Hong Kong,38,17.61
-183.236.51.57,40580,True,HKG,HK,Asia Pacific,Hong Kong,16,17.45
-116.49.95.50,8443,True,HKG,HK,Asia Pacific,Hong Kong,496,17.4
-8.223.15.4,443,True,HKG,HK,Asia Pacific,Hong Kong,16,17.38
-112.120.192.96,443,True,HKG,HK,Asia Pacific,Hong Kong,491,17.15
-116.48.22.147,8443,True,HKG,HK,Asia Pacific,Hong Kong,364,16.73
-45.78.20.75,8443,True,HKG,HK,Asia Pacific,Hong Kong,127,16.49
-183.236.51.57,25982,True,HKG,HK,Asia Pacific,Hong Kong,29,16.29
-163.177.58.167,44306,True,HKG,HK,Asia Pacific,Hong Kong,98,16.11
-45.251.10.227,30520,True,HKG,HK,Asia Pacific,Hong Kong,88,16.06
+219.76.13.180,443,True,HKG,HK,Asia Pacific,Hong Kong,73,30.59
+219.76.13.177,443,True,HKG,HK,Asia Pacific,Hong Kong,85,29.08
+8.223.15.4,443,True,HKG,HK,Asia Pacific,Hong Kong,83,28.62
+163.177.58.167,54325,True,HKG,HK,Asia Pacific,Hong Kong,34,28.5
+163.177.58.167,28224,True,HKG,HK,Asia Pacific,Hong Kong,34,28.34
+163.177.58.167,25990,True,HKG,HK,Asia Pacific,Hong Kong,20,26.73
+38.207.185.109,443,True,HKG,HK,Asia Pacific,Hong Kong,58,25.0
+163.177.58.167,44724,True,HKG,HK,Asia Pacific,Hong Kong,50,24.67
+45.251.10.227,30520,True,HKG,HK,Asia Pacific,Hong Kong,33,24.34
+163.177.58.167,41763,True,HKG,HK,Asia Pacific,Hong Kong,18,22.56
+45.251.10.227,27489,True,HKG,HK,Asia Pacific,Hong Kong,37,20.54
+116.48.22.147,8443,True,HKG,HK,Asia Pacific,Hong Kong,409,19.32
+45.251.10.227,30606,True,HKG,HK,Asia Pacific,Hong Kong,39,19.05
+103.234.53.133,443,True,HKG,HK,Asia Pacific,Hong Kong,49,17.82
+116.49.95.50,8443,True,HKG,HK,Asia Pacific,Hong Kong,544,17.61
+45.78.20.75,8443,True,HKG,HK,Asia Pacific,Hong Kong,49,17.17
+183.236.51.57,40580,True,HKG,HK,Asia Pacific,Hong Kong,34,16.99
+45.78.34.53,443,True,HKG,HK,Asia Pacific,Hong Kong,47,16.43
+183.236.51.57,31349,True,HKG,HK,Asia Pacific,Hong Kong,34,16.07
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,190,16.01
-45.78.34.53,443,True,HKG,HK,Asia Pacific,Hong Kong,42,15.34
-218.102.128.242,443,True,HKG,HK,Asia Pacific,Hong Kong,499,13.51
-103.148.73.118,443,True,HKG,HK,Asia Pacific,Hong Kong,55,13.45
-119.237.56.245,443,True,HKG,HK,Asia Pacific,Hong Kong,514,13.41
-103.148.73.159,443,True,HKG,HK,Asia Pacific,Hong Kong,84,13.2
-13.230.34.30,443,True,NRT,JP,Asia Pacific,Tokyo,56,12.8
-103.180.20.113,443,True,HKG,HK,Asia Pacific,Hong Kong,74,12.58
-192.243.122.226,8443,True,KIX,JP,Asia Pacific,Osaka,60,11.95
+163.177.58.167,44306,True,HKG,HK,Asia Pacific,Hong Kong,30,14.51
+183.236.51.57,35435,True,HKG,HK,Asia Pacific,Hong Kong,31,14.47
+163.177.58.167,44240,True,HKG,HK,Asia Pacific,Hong Kong,16,14.25
+112.120.192.96,443,True,HKG,HK,Asia Pacific,Hong Kong,613,14.01
+103.148.73.190,443,True,HKG,HK,Asia Pacific,Hong Kong,61,12.9
+103.148.73.118,443,True,HKG,HK,Asia Pacific,Hong Kong,53,12.88
+103.148.73.159,443,True,HKG,HK,Asia Pacific,Hong Kong,63,12.41
+103.180.20.113,443,True,HKG,HK,Asia Pacific,Hong Kong,63,12.36
+183.236.51.57,32569,True,HKG,HK,Asia Pacific,Hong Kong,79,11.99
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
-124.156.238.155,443,True,NRT,JP,Asia Pacific,Tokyo,171,11.64
-103.232.214.11,8443,True,NRT,JP,Asia Pacific,Tokyo,58,11.54
-35.77.126.144,443,True,NRT,JP,Asia Pacific,Tokyo,96,11.42
-123.1.199.79,443,True,HKG,HK,Asia Pacific,Hong Kong,48,11.35
-141.98.196.223,443,True,NRT,JP,Asia Pacific,Tokyo,60,11.3
-8.222.108.194,443,True,NRT,JP,Asia Pacific,Tokyo,61,11.17
-152.70.236.148,443,True,ICN,KR,Asia Pacific,Seoul,67,10.94
-192.243.127.224,443,True,KIX,JP,Asia Pacific,Osaka,61,10.93
-8.222.91.133,443,True,NRT,JP,Asia Pacific,Tokyo,90,10.77
-193.122.101.195,443,True,ICN,KR,Asia Pacific,Seoul,65,10.73
-193.123.236.80,443,True,ICN,KR,Asia Pacific,Seoul,68,10.73
-130.162.152.17,443,True,ICN,KR,Asia Pacific,Seoul,70,10.72
-8.222.68.129,443,True,NRT,JP,Asia Pacific,Tokyo,72,10.64
-129.154.207.203,443,True,ICN,KR,Asia Pacific,Seoul,73,10.56
-54.168.173.74,2096,True,NRT,JP,Asia Pacific,Tokyo,78,10.55
-132.226.168.115,443,True,ICN,KR,Asia Pacific,Seoul,79,10.47
-152.70.245.66,12693,True,ICN,KR,Asia Pacific,Seoul,63,10.45
-132.226.171.151,40274,True,ICN,KR,Asia Pacific,Seoul,66,10.29
-38.207.175.73,8443,True,HKG,HK,Asia Pacific,Hong Kong,17,10.28
-217.142.147.108,443,True,ICN,KR,Asia Pacific,Seoul,79,10.23
-47.79.84.195,443,True,NRT,JP,Asia Pacific,Tokyo,89,10.16
-146.56.155.102,20003,True,ICN,KR,Asia Pacific,Seoul,67,10.04
-193.123.225.248,28407,True,ICN,KR,Asia Pacific,Seoul,70,10.04
-163.177.58.167,44240,True,HKG,HK,Asia Pacific,Hong Kong,14,9.88
-146.56.144.169,58293,True,ICN,KR,Asia Pacific,Seoul,67,9.69
-156.254.115.2,443,True,HKG,HK,Asia Pacific,Hong Kong,95,9.66
-8.222.69.185,443,True,NRT,JP,Asia Pacific,Tokyo,70,9.57
-103.234.53.133,443,True,HKG,HK,Asia Pacific,Hong Kong,77,9.48
+103.232.214.11,8443,True,NRT,JP,Asia Pacific,Tokyo,58,11.43
+183.236.51.57,34832,True,HKG,HK,Asia Pacific,Hong Kong,25,10.96
+132.226.171.151,40274,True,ICN,KR,Asia Pacific,Seoul,63,10.94
+152.70.245.66,12693,True,ICN,KR,Asia Pacific,Seoul,73,10.76
+47.79.84.195,443,True,NRT,JP,Asia Pacific,Tokyo,62,10.46
+178.173.230.221,443,True,NRT,JP,Asia Pacific,Tokyo,73,10.27
+54.168.173.74,2096,True,NRT,JP,Asia Pacific,Tokyo,193,10.22
+38.207.175.73,8443,True,HKG,HK,Asia Pacific,Hong Kong,57,10.18
+43.206.252.98,2086,True,HKG,HK,Asia Pacific,Hong Kong,66,9.91
+149.88.95.42,2087,True,HKG,HK,Asia Pacific,Hong Kong,74,9.68
+146.56.155.102,20003,True,ICN,KR,Asia Pacific,Seoul,70,9.65
+149.88.95.42,443,True,HKG,HK,Asia Pacific,Hong Kong,77,9.57
+156.254.115.2,2083,True,HKG,HK,Asia Pacific,Hong Kong,69,9.37
+193.123.225.248,28407,True,ICN,KR,Asia Pacific,Seoul,71,9.08
