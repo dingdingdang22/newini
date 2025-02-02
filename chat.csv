@@ -1,10 +1,11 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-115.23.135.181,14896,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,89,8.88
-14.44.32.251,25057,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,106,8.88
-175.208.46.141,28717,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,131,8.88
-183.94.30.165,45296,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,30,8.88
-163.177.58.167,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,35,8.88
-45.251.10.227,30845,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,38,8.88
-45.251.10.227,41628,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,50,8.88
-113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,121,8.88
-163.177.58.167,30081,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,11,8.88
+183.94.30.165,45296,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,25,8.88
+163.177.58.167,30081,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,59,8.88
+183.236.51.57,35740,True,ICNchat,KR,Asia Pacific,Seoul,9808,China Mobile Communications Group Co Ltd,53,8.88
+163.177.58.167,28381,True,NRTchat,JP,Asia Pacific,Tokyo,17623,China Unicom Shenzen network,13,8.88
+183.236.51.57,31617,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,56,8.88
+45.251.10.227,28279,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,58,8.88
+45.251.10.227,41628,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,59,8.88
+183.236.51.57,30606,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,59,8.88
+45.251.10.227,30845,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,62,8.88
+113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,101,8.88
