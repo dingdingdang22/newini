@@ -1,19 +1,17 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
-183.94.30.165,54019,True,NRT,JP,Asia Pacific,Tokyo,25,11.21
-47.243.242.219,4554,True,HKG,HK,Asia Pacific,Hong Kong,33,42.41
-47.76.85.84,443,True,HKG,HK,Asia Pacific,Hong Kong,15,36.72
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
-183.236.51.57,32365,True,HKG,HK,Asia Pacific,Hong Kong,25,24.43
-183.236.51.57,35435,True,HKG,HK,Asia Pacific,Hong Kong,23,22.22
-45.251.10.227,30606,True,HKG,HK,Asia Pacific,Hong Kong,68,21.06
-183.236.51.57,35838,True,HKG,HK,Asia Pacific,Hong Kong,53,20.55
-45.251.10.227,27489,True,HKG,HK,Asia Pacific,Hong Kong,42,19.11
-183.236.51.57,25982,True,HKG,HK,Asia Pacific,Hong Kong,61,19.08
-183.236.51.57,30578,True,HKG,HK,Asia Pacific,Hong Kong,31,19.01
-183.236.51.57,35560,True,HKG,HK,Asia Pacific,Hong Kong,22,18.87
-45.251.10.227,41628,True,SIN,SG,Asia Pacific,Singapore,37,17.15
-183.236.51.57,33099,True,HKG,HK,Asia Pacific,Hong Kong,42,16.41
+163.177.58.167,54326,True,HKG,HK,Asia Pacific,Hong Kong,52,27.71
+183.236.51.57,33099,True,HKG,HK,Asia Pacific,Hong Kong,62,26.56
+183.236.51.57,32365,True,HKG,HK,Asia Pacific,Hong Kong,71,22.61
+45.251.10.227,27489,True,HKG,HK,Asia Pacific,Hong Kong,93,20.66
+183.236.51.57,35558,True,HKG,HK,Asia Pacific,Hong Kong,77,18.27
+45.78.20.75,8443,True,HKG,HK,Asia Pacific,Hong Kong,39,16.32
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,190,16.01
-183.236.51.57,33144,True,HKG,HK,Asia Pacific,Hong Kong,24,15.58
-183.236.51.57,35558,True,HKG,HK,Asia Pacific,Hong Kong,22,15.46
+45.251.10.227,30606,True,HKG,HK,Asia Pacific,Hong Kong,60,15.54
+183.236.51.57,35560,True,HKG,HK,Asia Pacific,Hong Kong,30,14.7
+183.236.51.57,33144,True,HKG,HK,Asia Pacific,Hong Kong,87,13.29
+183.236.51.57,25982,True,HKG,HK,Asia Pacific,Hong Kong,35,12.75
+183.236.51.57,35435,True,HKG,HK,Asia Pacific,Hong Kong,62,12.66
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
+45.251.10.227,41628,True,SIN,SG,Asia Pacific,Singapore,28,11.4
+183.94.30.165,29312,True,HKG,HK,Asia Pacific,Hong Kong,77,10.39
