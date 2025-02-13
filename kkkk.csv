@@ -1,17 +1,9 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
-163.177.58.167,54326,True,HKG,HK,Asia Pacific,Hong Kong,52,27.71
-183.236.51.57,33099,True,HKG,HK,Asia Pacific,Hong Kong,62,26.56
-183.236.51.57,32365,True,HKG,HK,Asia Pacific,Hong Kong,71,22.61
-45.251.10.227,27489,True,HKG,HK,Asia Pacific,Hong Kong,93,20.66
-183.236.51.57,35558,True,HKG,HK,Asia Pacific,Hong Kong,77,18.27
-45.78.20.75,8443,True,HKG,HK,Asia Pacific,Hong Kong,39,16.32
+183.236.51.57,35435,True,HKG,HK,Asia Pacific,Hong Kong,29,24.63
+163.177.58.167,28224,True,HKG,HK,Asia Pacific,Hong Kong,82,20.77
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,190,16.01
-45.251.10.227,30606,True,HKG,HK,Asia Pacific,Hong Kong,60,15.54
-183.236.51.57,35560,True,HKG,HK,Asia Pacific,Hong Kong,30,14.7
-183.236.51.57,33144,True,HKG,HK,Asia Pacific,Hong Kong,87,13.29
-183.236.51.57,25982,True,HKG,HK,Asia Pacific,Hong Kong,35,12.75
-183.236.51.57,35435,True,HKG,HK,Asia Pacific,Hong Kong,62,12.66
+163.177.58.167,54326,True,HKG,HK,Asia Pacific,Hong Kong,34,12.74
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
-45.251.10.227,41628,True,SIN,SG,Asia Pacific,Singapore,28,11.4
-183.94.30.165,29312,True,HKG,HK,Asia Pacific,Hong Kong,77,10.39
+38.47.125.109,33909,True,NRT,JP,Asia Pacific,Tokyo,65,10.76
+45.251.10.227,41628,True,SIN,SG,Asia Pacific,Singapore,30,10.41
