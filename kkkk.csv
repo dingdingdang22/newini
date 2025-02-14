@@ -1,4 +1,7 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
+47.106.247.54,443,True,HKG,HK,Asia Pacific,Hong Kong,18,4.54
+220.89.23.192,38532,True,ICN,KR,Asia Pacific,Seoul,100,4.44
+220.73.57.97,27139,True,FUK,JP,Asia Pacific,Fukuoka,100,4.01
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
 183.236.51.57,35435,True,HKG,HK,Asia Pacific,Hong Kong,29,24.63
 163.177.58.167,28224,True,HKG,HK,Asia Pacific,Hong Kong,82,20.77
@@ -7,3 +10,12 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
 38.47.125.109,33909,True,NRT,JP,Asia Pacific,Tokyo,65,10.76
 45.251.10.227,41628,True,SIN,SG,Asia Pacific,Singapore,30,10.41
+163.177.58.167,46497,True,HKG,HK,Asia Pacific,Hong Kong,22,5.46
+43.155.84.76,55527,True,HKG,HK,Asia Pacific,Hong Kong,58,5.05
+85.237.207.79,31177,True,TPE,TW,Asia Pacific,Taipei,193,4.76
+211.204.131.20,30842,True,KIX,JP,Asia Pacific,Osaka,106,4.57
+39.124.70.190,30103,True,KIX,JP,Asia Pacific,Osaka,112,4.49
+59.25.212.18,17646,True,FUK,JP,Asia Pacific,Fukuoka,244,4.27
+1.235.252.81,13258,True,NRT,JP,Asia Pacific,Tokyo,185,4.22
+211.114.129.163,36700,True,ICN,KR,Asia Pacific,Seoul,175,4.1
+118.42.233.191,32182,True,FUK,JP,Asia Pacific,Fukuoka,254,4.01
