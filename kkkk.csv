@@ -1,13 +1,22 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
-222.120.46.173,39518,True,ICN,KR,Asia Pacific,Seoul,259,6.53
-221.144.200.91,19508,True,ICN,KR,Asia Pacific,Seoul,251,6.36
-118.37.220.10,33677,True,ICN,KR,Asia Pacific,Seoul,115,5.89
-220.118.248.123,12185,True,ICN,KR,Asia Pacific,Seoul,111,5.71
-221.152.115.8,15774,True,FUK,JP,Asia Pacific,Fukuoka,88,5.37
-175.208.46.141,38888,True,FUK,JP,Asia Pacific,Fukuoka,142,5.13
-220.126.11.89,18056,True,FUK,JP,Asia Pacific,Fukuoka,180,5.11
-39.119.88.106,12647,True,NRT,JP,Asia Pacific,Tokyo,103,4.82
-210.178.104.232,33341,True,ICN,KR,Asia Pacific,Seoul,141,4.71
+14.32.158.138,35370,True,ICN,KR,Asia Pacific,Seoul,127,6.76
+175.192.27.197,15055,True,ICN,KR,Asia Pacific,Seoul,79,6.69
+211.204.131.20,33675,True,NRT,JP,Asia Pacific,Tokyo,103,6.67
+222.104.209.76,13857,True,FUK,JP,Asia Pacific,Fukuoka,204,6.46
+14.32.158.138,33052,True,FUK,JP,Asia Pacific,Fukuoka,174,6.33
+49.167.61.27,23084,True,NRT,JP,Asia Pacific,Tokyo,118,5.99
+116.126.112.160,37284,True,NRT,JP,Asia Pacific,Tokyo,96,5.91
+211.206.83.194,38700,True,NRT,JP,Asia Pacific,Tokyo,117,5.9
+210.205.215.87,30935,True,NRT,JP,Asia Pacific,Tokyo,257,5.8
+182.213.59.227,17832,True,NRT,JP,Asia Pacific,Tokyo,98,5.7
+175.114.195.4,12400,True,NRT,JP,Asia Pacific,Tokyo,114,5.67
+220.122.42.198,35765,True,FUK,JP,Asia Pacific,Fukuoka,88,5.44
+8.209.220.50,21273,True,NRT,JP,Asia Pacific,Tokyo,69,5.29
+1.235.252.81,21901,True,NRT,JP,Asia Pacific,Tokyo,139,5.13
+1.235.252.81,12886,True,NRT,JP,Asia Pacific,Tokyo,264,5.09
+112.158.38.115,26716,True,NRT,JP,Asia Pacific,Tokyo,162,4.75
+163.177.58.167,28381,True,NRT,JP,Asia Pacific,Tokyo,13,4.71
+180.71.144.13,12931,True,NRT,JP,Asia Pacific,Tokyo,117,4.42
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
 183.236.51.57,35560,True,HKG,HK,Asia Pacific,Hong Kong,75,24.91
 183.236.51.57,32365,True,HKG,HK,Asia Pacific,Hong Kong,67,24.7
