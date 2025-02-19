@@ -1,6 +1,6 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,30606,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,39,8.88
-183.94.30.165,34857,True,MNLchat,PH,Asia Pacific,Manila,4837,CHINA UNICOM China169 Backbone,39,8.88
-183.236.51.57,35960,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,42,8.88
-183.236.51.57,28994,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,43,8.88
-113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,96,8.88
+183.236.51.57,35960,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,20,8.88
+183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,21,8.88
+183.94.30.165,34857,True,MNLchat,PH,Asia Pacific,Manila,4837,CHINA UNICOM China169 Backbone,27,8.88
+183.94.30.165,34057,True,MNLchat,PH,Asia Pacific,Manila,4837,CHINA UNICOM China169 Backbone,29,8.88
+113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,97,8.88
