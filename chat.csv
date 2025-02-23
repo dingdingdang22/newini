@@ -1,5 +1,14 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,35960,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,46,8.88
-183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,67,8.88
-113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,98,8.88
-106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,116,8.88
+183.236.51.57,35960,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,25,8.88
+183.236.51.57,28994,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,27,8.88
+180.65.32.158,19802,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,70,8.88
+180.65.32.158,38801,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,190,8.88
+175.124.16.141,34181,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,98,8.88
+175.124.16.141,16410,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,188,8.88
+61.253.48.235,32238,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,122,8.88
+175.124.16.141,13525,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,376,8.88
+104.194.84.219,25411,True,LAXchat,US,North America,Los Angeles,25820,IT7NET,168,8.88
+49.171.48.200,50003,True,ICNchat,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,171,8.88
+175.124.16.141,36542,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,213,8.88
+113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,100,8.88
+106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,113,8.88
