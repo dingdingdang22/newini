@@ -1,19 +1,15 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-49.171.48.200,30078,True,ICNchat,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,112,8.88
-180.65.32.158,32000,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,358,8.88
-39.123.48.10,38084,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,85,8.88
-175.124.16.141,18335,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,96,8.88
-175.124.16.141,13564,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,99,8.88
-175.124.16.141,17935,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,107,8.88
-175.124.16.141,33377,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,364,8.88
-175.124.16.141,39909,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,92,8.88
-175.124.16.141,15926,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,101,8.88
-175.124.16.141,34028,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,97,8.88
-175.124.16.141,36542,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,143,8.88
-175.124.16.141,13564,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,183,8.88
-49.171.48.200,11936,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,91,8.88
-49.171.48.200,31218,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,92,8.88
-49.171.48.200,20215,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,95,8.88
-49.171.48.200,20040,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,128,8.88
-113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,95,8.88
-106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,109,8.88
+183.236.51.57,28994,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,12,8.88
+183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,18,8.88
+180.65.32.158,32000,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,110,8.88
+49.171.48.200,50000,True,ICNchat,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,115,8.88
+49.171.48.200,50003,True,ICNchat,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,435,8.88
+39.123.48.10,38084,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,98,8.88
+175.124.16.141,34181,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,142,8.88
+61.253.48.235,13230,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,108,8.88
+61.253.48.235,32238,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,134,8.88
+175.124.16.141,13564,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,98,8.88
+175.124.16.141,17935,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,163,8.88
+49.171.48.200,20215,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,233,8.88
+113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,148,8.88
+106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,201,8.88
