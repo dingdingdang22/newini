@@ -1,10 +1,12 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,18,8.88
-183.236.51.57,35960,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,18,8.88
-45.251.10.227,25827,True,BKKchat,TH,Asia Pacific,Bangkok,133775,Xiamen,32,8.88
-45.251.10.227,41628,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,27,8.88
-183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,35,8.88
-113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,102,8.88
-106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,113,8.88
-163.177.58.167,48012,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,96,8.88
-222.108.11.126,13467,True,SJCchat,US,North America,San Jose,4766,Korea Telecom,205,8.88
+183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,20,8.88
+183.236.51.57,35960,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,20,8.88
+45.251.10.227,25827,True,BKKchat,TH,Asia Pacific,Bangkok,133775,Xiamen,34,8.88
+121.183.130.101,30819,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,86,8.88
+121.169.228.177,24735,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,80,8.88
+106.244.201.248,50000,True,ICNchat,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,221,8.88
+45.251.10.227,41628,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,30,8.88
+183.236.51.57,28994,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,54,8.88
+113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,106,8.88
+106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,117,8.88
+163.177.58.167,48012,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,19,8.88
