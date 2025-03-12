@@ -1,41 +1,28 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.94.30.165,45561,True,BKKchat,TH,Asia Pacific,Bangkok,4837,CHINA UNICOM China169 Backbone,20,8.88
-45.251.10.227,25827,True,BKKchat,TH,Asia Pacific,Bangkok,133775,Xiamen,22,8.88
-183.236.51.57,35960,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,28,8.88
-125.137.16.207,18652,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,56,8.88
-222.104.240.250,28854,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,58,8.88
-222.104.240.250,25847,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,61,8.88
-222.104.240.250,27305,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,64,8.88
-222.104.240.250,38183,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,149,8.88
-222.104.240.250,23579,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,154,8.88
-222.104.240.250,35188,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,161,8.88
-222.104.240.250,36252,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,176,8.88
-222.104.240.250,36485,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,327,8.88
-58.233.176.176,12076,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,97,8.88
-58.233.176.176,13353,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,147,8.88
-1.250.208.130,13796,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,99,8.88
-1.250.208.130,38988,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,99,8.88
-1.250.208.130,39607,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,102,8.88
-219.254.240.191,12124,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,107,8.88
-219.254.240.191,37831,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,115,8.88
-219.249.144.205,22080,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,109,8.88
-158.101.28.188,587,True,SEAchat,US,North America,Seattle,31898,ORACLE-BMC-31898,280,8.88
-115.95.176.24,30059,True,ICNchat,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,65,8.88
-220.86.175.229,30012,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,75,8.88
-49.171.48.200,30078,True,ICNchat,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,85,8.88
-20.214.143.77,587,True,ICNchat,KR,Asia Pacific,Seoul,8075,MICROSOFT-CORP-MSN-AS-BLOCK,138,8.88
-1.250.208.130,37531,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,102,8.88
-222.238.48.167,10381,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,103,8.88
-219.249.144.205,11820,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,114,8.88
-219.249.144.205,10905,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,118,8.88
-183.94.30.165,45259,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,41,8.88
-49.171.48.200,23391,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,94,8.88
-49.171.48.200,31218,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,103,8.88
-219.249.144.205,14971,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,231,8.88
-183.236.51.57,30606,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,9,8.88
-163.177.58.167,34758,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,41,8.88
-45.251.10.227,41628,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,42,8.88
+183.236.51.57,35960,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,22,8.88
+45.251.10.227,25827,True,BKKchat,TH,Asia Pacific,Bangkok,133775,Xiamen,33,8.88
+222.104.240.250,17735,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,71,8.88
+222.104.240.250,36252,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,72,8.88
+222.104.240.250,15720,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,86,8.88
+222.104.240.250,38183,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,87,8.88
+222.104.240.250,37715,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,97,8.88
+125.137.16.207,37398,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,118,8.88
+222.104.240.250,35188,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,129,8.88
+58.233.176.176,26898,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,68,8.88
+58.233.176.176,13769,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,73,8.88
+219.249.144.205,22080,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,419,8.88
+222.238.48.167,10381,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,102,8.88
+124.111.208.233,37326,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,93,8.88
+219.249.144.205,22232,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,113,8.88
+49.171.48.200,20215,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,116,8.88
+49.171.48.200,23391,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,119,8.88
+183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,10,8.88
+183.236.51.57,28994,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,11,8.88
+163.177.58.167,34758,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,11,8.88
+45.251.10.227,41628,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,23,8.88
 113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,98,8.88
-106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,111,8.88
-183.236.51.57,26175,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,14,8.88
-163.177.58.167,30081,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,49,8.88
+106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,109,8.88
+183.236.51.57,26100,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,13,8.88
+163.177.58.167,30081,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,15,8.88
+163.177.58.167,48012,True,DFWchat,US,North America,Dallas,17623,China Unicom Shenzen network,17,8.88
+183.236.51.57,26097,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,22,8.88
