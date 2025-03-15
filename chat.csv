@@ -1,24 +1,13 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
 183.236.51.57,35960,True,BKKchat,TH,Asia Pacific,Bangkok,9808,China Mobile Communications Group Co Ltd,14,8.88
-183.94.30.165,45561,True,BKKchat,TH,Asia Pacific,Bangkok,4837,CHINA UNICOM China169 Backbone,22,8.88
-45.251.10.227,25827,True,BKKchat,TH,Asia Pacific,Bangkok,133775,Xiamen,35,8.88
-125.137.16.207,18652,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,62,8.88
-183.236.51.57,35740,True,ICNchat,KR,Asia Pacific,Seoul,9808,China Mobile Communications Group Co Ltd,34,8.88
-58.233.176.176,13769,True,ICNchat,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,72,8.88
-152.67.208.45,39863,True,ICNchat,KR,Asia Pacific,Seoul,31898,ORACLE-BMC-31898,186,8.88
-219.249.144.205,14971,True,NRTchat,JP,Asia Pacific,Tokyo,9318,SK Broadband Co Ltd,103,8.88
-219.249.144.205,22080,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,113,8.88
-59.30.32.240,30440,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,270,8.88
-49.171.48.200,50000,True,ICNchat,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,113,8.88
-1.250.208.130,37531,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,259,8.88
-49.171.48.200,23391,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,89,8.88
-49.171.48.200,11936,True,NRTchat,JP,Asia Pacific,Tokyo,17858,LG POWERCOMM,91,8.88
-183.94.30.165,45259,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,105,8.88
-175.124.16.141,36542,True,KIXchat,JP,Asia Pacific,Osaka,9318,SK Broadband Co Ltd,195,8.88
-163.177.58.167,34758,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,12,8.88
-183.94.30.165,45695,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,22,8.88
-45.251.10.227,41628,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,36,8.88
-113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,96,8.88
-106.75.218.245,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,99,8.88
-106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,114,8.88
-163.177.58.167,30081,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,14,8.88
+183.94.30.165,45561,True,BKKchat,TH,Asia Pacific,Bangkok,4837,CHINA UNICOM China169 Backbone,21,8.88
+45.251.10.227,25827,True,BKKchat,TH,Asia Pacific,Bangkok,133775,Xiamen,27,8.88
+183.236.51.57,35740,True,ICNchat,KR,Asia Pacific,Seoul,9808,China Mobile Communications Group Co Ltd,21,8.88
+163.177.58.167,34758,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,11,8.88
+183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,12,8.88
+45.251.10.227,41628,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,27,8.88
+113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,95,8.88
+106.75.218.245,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,111,8.88
+106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,113,8.88
+163.177.58.167,30081,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,11,8.88
+183.61.177.128,10319,True,LAXchat,US,North America,Los Angeles,4134,Chinanet,16,8.88
