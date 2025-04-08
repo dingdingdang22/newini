@@ -1,19 +1,18 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-183.236.51.57,35740,True,ICNchat,KR,Asia Pacific,Seoul,9808,China Mobile Communications Group Co Ltd,12,8.88
-125.94.46.115,14749,True,ICNchat,KR,Asia Pacific,Seoul,4134,Chinanet,34,8.88
-183.94.30.165,45695,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,29,8.88
-183.236.51.57,30606,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,10,8.88
-183.236.51.57,36989,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,10,8.88
-163.177.58.167,48285,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,11,8.88
-183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,13,8.88
-163.177.58.167,35588,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,14,8.88
-106.75.218.245,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,95,8.88
-113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,96,8.88
-106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,113,8.88
-163.177.58.167,47730,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,41,8.88
-163.177.58.167,26648,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,96,8.88
-183.236.51.57,29330,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,97,8.88
-163.177.58.167,48012,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,123,8.88
-125.94.46.115,14748,True,SEAchat,US,North America,Seattle,4134,Chinanet,135,8.88
-163.177.58.167,30081,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,138,8.88
-125.94.46.115,10319,True,LAXchat,US,North America,Los Angeles,4134,Chinanet,149,8.88
+183.236.51.57,35740,True,ICNchat,KR,Asia Pacific,Seoul,9808,China Mobile Communications Group Co Ltd,69,8.88
+125.94.46.115,14749,True,ICNchat,KR,Asia Pacific,Seoul,4134,Chinanet,146,8.88
+217.142.250.195,587,True,KIXchat,JP,Asia Pacific,Osaka,31898,ORACLE-BMC-31898,165,8.88
+183.94.30.165,50951,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,25,8.88
+183.94.30.165,45695,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,41,8.88
+163.177.58.167,35588,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,11,8.88
+163.177.58.167,34758,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,12,8.88
+113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,95,8.88
+106.75.218.245,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,96,8.88
+163.177.58.167,53428,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,11,8.88
+163.177.58.167,48012,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,11,8.88
+163.177.58.167,30081,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,11,8.88
+163.177.58.167,47730,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,13,8.88
+125.94.46.115,14337,True,LAXchat,US,North America,Los Angeles,4134,Chinanet,14,8.88
+183.236.51.57,29330,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,15,8.88
+125.94.46.115,10319,True,LAXchat,US,North America,Los Angeles,4134,Chinanet,15,8.88
+125.94.46.115,14748,True,SEAchat,US,North America,Seattle,4134,Chinanet,15,8.88
