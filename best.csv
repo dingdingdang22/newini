@@ -3,3 +3,9 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 18.167.12.209,443,True,HKG best,Asia Pacific,HK,Hong Kong,109,22.19
 18.167.37.206,443,True,HKG best,Asia Pacific,HK,Hong Kong,116,21.16
 43.154.34.74,1935,True,HKG best,Asia Pacific,HK,Hong Kong,24,12.66
+54.255.22.244,44333,True,SIN best,Asia Pacific,SG,Singapore,50,7.43
+103.137.63.2,443,True,KHH best,Asia Pacific,TW,Kaohsiung City,74,6.83
+220.127.110.11,50000,True,ICN best,Asia Pacific,KR,Seoul,101,6.41
+48.218.147.182,443,True,NRT best,Asia Pacific,JP,Tokyo,96,6.25
+45.143.234.69,8899,True,NRT best,Asia Pacific,JP,Tokyo,62,6.23
+185.201.226.117,46238,True,LAX best,North America,US,Los Angeles,164,6.19
