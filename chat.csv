@@ -1,19 +1,23 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-125.94.46.115,14749,True,ICNchat,KR,Asia Pacific,Seoul,4134,Chinanet,19,8.88
-183.236.51.57,35740,True,ICNchat,KR,Asia Pacific,Seoul,9808,China Mobile Communications Group Co Ltd,37,8.88
-112.162.203.5,50000,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,60,8.88
-183.94.30.165,45695,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,26,8.88
-183.94.30.165,50951,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,34,8.88
-163.177.58.167,34758,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,9,8.88
-163.177.58.167,35588,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,10,8.88
-183.236.51.57,36989,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,12,8.88
-45.251.10.227,38196,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,22,8.88
-113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,102,8.88
-106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,114,8.88
-163.177.58.167,30081,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,13,8.88
-125.94.46.115,14748,True,SEAchat,US,North America,Seattle,4134,Chinanet,16,8.88
-125.94.46.115,14337,True,LAXchat,US,North America,Los Angeles,4134,Chinanet,20,8.88
-163.177.58.167,26648,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,21,8.88
-163.177.58.167,48012,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,22,8.88
-183.236.51.57,29331,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,24,8.88
-163.177.58.167,47730,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,25,8.88
+125.94.46.115,14749,True,ICNchat,KR,Asia Pacific,Seoul,4134,Chinanet,17,8.88
+183.236.51.57,35740,True,ICNchat,KR,Asia Pacific,Seoul,9808,China Mobile Communications Group Co Ltd,23,8.88
+183.94.30.165,50951,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,24,8.88
+183.94.30.165,45695,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,27,8.88
+163.177.58.167,35588,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,12,8.88
+183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,15,8.88
+183.236.51.57,36989,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,17,8.88
+163.177.58.167,34758,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,20,8.88
+45.251.10.227,38196,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,30,8.88
+113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,97,8.88
+106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,113,8.88
+163.177.58.167,48012,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,11,8.88
+183.236.51.57,29850,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,12,8.88
+163.177.58.167,30081,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,12,8.88
+125.94.46.115,14748,True,SEAchat,US,North America,Seattle,4134,Chinanet,12,8.88
+163.177.58.167,26648,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,13,8.88
+163.177.58.167,47730,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,13,8.88
+183.236.51.57,29331,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,13,8.88
+183.236.51.57,29330,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,14,8.88
+183.236.51.57,29249,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,15,8.88
+125.94.46.115,14337,True,LAXchat,US,North America,Los Angeles,4134,Chinanet,22,8.88
+183.94.30.165,45296,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,25,8.88
