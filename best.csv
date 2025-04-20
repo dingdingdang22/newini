@@ -1,39 +1,17 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-91.149.239.198,443,True,LAX best,North America,US,Los Angeles,174,16.37
-5.181.219.103,16238,True,LAX best,North America,US,Los Angeles,176,10.99
-23.165.40.7,18035,True,LAX best,North America,US,Los Angeles,161,10.74
-65.75.194.66,51246,True,LAX best,North America,US,Los Angeles,169,10.61
-103.99.115.8,12241,True,LAX best,North America,US,Los Angeles,162,10.57
-204.110.220.240,80,True,SJC best,North America,US,San Jose,170,10.55
-185.148.14.40,443,True,SJC best,North America,US,San Jose,159,10.45
-67.226.221.220,443,True,SJC best,North America,US,San Jose,156,10.45
-121.156.155.161,12196,True,ICN best,Asia Pacific,KR,Seoul,81,10.34
-67.226.221.38,80,True,SJC best,North America,US,San Jose,154,10.18
-14.46.214.65,21306,True,ICN best,Asia Pacific,KR,Seoul,80,10.17
-65.75.194.7,12266,True,LAX best,North America,US,Los Angeles,178,9.75
-121.138.98.202,12395,True,ICN best,Asia Pacific,KR,Seoul,95,9.75
-204.110.220.218,80,True,SJC best,North America,US,San Jose,160,9.69
-14.46.214.65,10205,True,ICN best,Asia Pacific,KR,Seoul,75,9.48
-121.156.155.161,12314,True,ICN best,Asia Pacific,KR,Seoul,82,9.3
-118.40.112.188,38520,True,ICN best,Asia Pacific,KR,Seoul,83,9.25
-222.120.173.147,12521,True,ICN best,Asia Pacific,KR,Seoul,71,9.19
-192.9.148.42,5000,True,SJC best,North America,US,San Jose,157,9.17
-211.57.29.229,10254,True,ICN best,Asia Pacific,KR,Seoul,88,9.01
-112.184.209.63,12298,True,ICN best,Asia Pacific,KR,Seoul,72,8.9
-112.184.209.63,14401,True,ICN best,Asia Pacific,KR,Seoul,78,8.81
-118.46.106.235,30622,True,ICN best,Asia Pacific,KR,Seoul,86,8.61
-119.205.15.124,12344,True,ICN best,Asia Pacific,KR,Seoul,89,8.61
-222.117.231.32,12530,True,ICN best,Asia Pacific,KR,Seoul,85,8.55
-210.100.138.35,17779,True,ICN best,Asia Pacific,KR,Seoul,89,8.5
-210.99.165.87,50004,True,ICN best,Asia Pacific,KR,Seoul,76,8.48
-59.16.75.225,10009,True,ICN best,Asia Pacific,KR,Seoul,89,8.45
-211.107.83.151,10205,True,ICN best,Asia Pacific,KR,Seoul,77,8.43
-175.199.13.196,12229,True,ICN best,Asia Pacific,KR,Seoul,95,8.38
-221.145.65.109,50000,True,ICN best,Asia Pacific,KR,Seoul,71,8.34
-125.208.102.111,50000,True,ICN best,Asia Pacific,KR,Seoul,64,8.24
-222.102.126.226,12261,True,ICN best,Asia Pacific,KR,Seoul,75,8.14
-154.40.46.4,36984,True,LAX best,North America,US,Los Angeles,166,8.13
-38.60.109.124,52782,True,LAX best,North America,US,Los Angeles,168,8.09
-61.76.234.29,12570,True,ICN best,Asia Pacific,KR,Seoul,84,8.09
-218.151.99.167,50000,True,ICN best,Asia Pacific,KR,Seoul,86,8.08
-112.187.143.178,14523,True,ICN best,Asia Pacific,KR,Seoul,78,8.02
+34.80.233.177,443,True,TPE best,Asia Pacific,TW,Taipei,57,58.27
+8.223.15.4,443,True,HKG best,Asia Pacific,HK,Hong Kong,15,31.14
+3.114.21.102,443,True,KIX best,Asia Pacific,JP,Osaka,56,30.96
+54.199.222.232,443,True,KIX best,Asia Pacific,JP,Osaka,57,30.8
+45.143.234.69,8899,True,NRT best,Asia Pacific,JP,Tokyo,57,28.67
+47.79.85.118,4443,True,NRT best,Asia Pacific,JP,Tokyo,66,27.32
+45.14.64.185,587,True,NRT best,Asia Pacific,JP,Tokyo,65,23.09
+91.199.209.33,443,True,NRT best,Asia Pacific,JP,Tokyo,56,18.56
+54.238.156.23,443,True,KIX best,Asia Pacific,JP,Osaka,54,17.83
+154.9.249.84,65432,True,LAX best,North America,US,Los Angeles,194,11.57
+23.169.184.28,13800,True,LAX best,North America,US,Los Angeles,162,11.27
+154.40.46.4,36984,True,LAX best,North America,US,Los Angeles,175,10.86
+67.226.221.18,80,True,SJC best,North America,US,San Jose,157,10.81
+138.2.0.134,444,True,NRT best,Asia Pacific,JP,Tokyo,162,10.02
+37.128.252.113,31141,True,TPE best,Asia Pacific,TW,Taipei,170,9.26
+204.110.220.36,80,True,SJC best,North America,US,San Jose,154,8.33
