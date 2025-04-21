@@ -1,17 +1,23 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-34.80.233.177,443,True,TPE best,Asia Pacific,TW,Taipei,57,58.27
-8.223.15.4,443,True,HKG best,Asia Pacific,HK,Hong Kong,15,31.14
-3.114.21.102,443,True,KIX best,Asia Pacific,JP,Osaka,56,30.96
-54.199.222.232,443,True,KIX best,Asia Pacific,JP,Osaka,57,30.8
-45.143.234.69,8899,True,NRT best,Asia Pacific,JP,Tokyo,57,28.67
-47.79.85.118,4443,True,NRT best,Asia Pacific,JP,Tokyo,66,27.32
-45.14.64.185,587,True,NRT best,Asia Pacific,JP,Tokyo,65,23.09
-91.199.209.33,443,True,NRT best,Asia Pacific,JP,Tokyo,56,18.56
-54.238.156.23,443,True,KIX best,Asia Pacific,JP,Osaka,54,17.83
-154.9.249.84,65432,True,LAX best,North America,US,Los Angeles,194,11.57
-23.169.184.28,13800,True,LAX best,North America,US,Los Angeles,162,11.27
-154.40.46.4,36984,True,LAX best,North America,US,Los Angeles,175,10.86
+46.3.96.64,443,True,SIN best,Asia Pacific,SG,Singapore,48,33.66
+45.143.234.69,8899,True,NRT best,Asia Pacific,JP,Tokyo,69,32.93
+52.76.137.189,443,True,SIN best,Asia Pacific,SG,Singapore,62,31.28
+54.199.222.232,443,True,KIX best,Asia Pacific,JP,Osaka,56,30.97
+91.149.239.234,443,True,LAX best,North America,US,Los Angeles,163,26.67
+3.0.50.69,443,True,SIN best,Asia Pacific,SG,Singapore,52,26.6
+18.167.172.112,443,True,HKG best,Asia Pacific,HK,Hong Kong,100,19.31
+16.162.225.15,443,True,HKG best,Asia Pacific,HK,Hong Kong,90,18.77
+141.11.86.94,18333,True,TPE best,Asia Pacific,TW,Taipei,166,18.15
+47.76.89.195,48222,True,TPE best,Asia Pacific,TW,Taipei,11,15.75
+154.9.249.84,65432,True,LAX best,North America,US,Los Angeles,200,11.54
+185.201.226.117,46238,True,PDX best,North America,US,Portland,158,11.49
+185.238.250.174,37777,True,LAX best,North America,US,Los Angeles,165,11.29
+35.201.255.124,18888,True,TPE best,Asia Pacific,TW,Taipei,22,10.84
 67.226.221.18,80,True,SJC best,North America,US,San Jose,157,10.81
-138.2.0.134,444,True,NRT best,Asia Pacific,JP,Tokyo,162,10.02
-37.128.252.113,31141,True,TPE best,Asia Pacific,TW,Taipei,170,9.26
+140.245.88.197,443,True,NRT best,Asia Pacific,JP,Tokyo,173,10.18
+38.207.190.141,587,True,LAX best,North America,US,Los Angeles,177,9.86
+103.135.248.172,443,True,HKG best,Asia Pacific,HK,Hong Kong,17,9.38
+37.128.252.113,31141,True,TPE best,Asia Pacific,TW,Taipei,314,9.14
+38.150.3.43,54222,True,LAX best,North America,US,Los Angeles,202,8.44
 204.110.220.36,80,True,SJC best,North America,US,San Jose,154,8.33
+38.47.117.85,443,True,LAX best,North America,US,Los Angeles,206,8.25
