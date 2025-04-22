@@ -1,23 +1,40 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-46.3.96.64,443,True,SIN best,Asia Pacific,SG,Singapore,48,33.66
-45.143.234.69,8899,True,NRT best,Asia Pacific,JP,Tokyo,69,32.93
-52.76.137.189,443,True,SIN best,Asia Pacific,SG,Singapore,62,31.28
+46.3.96.64,443,True,SIN best,Asia Pacific,SG,Singapore,50,33.88
 54.199.222.232,443,True,KIX best,Asia Pacific,JP,Osaka,56,30.97
-91.149.239.234,443,True,LAX best,North America,US,Los Angeles,163,26.67
-3.0.50.69,443,True,SIN best,Asia Pacific,SG,Singapore,52,26.6
+47.79.88.21,6010,True,NRT best,Asia Pacific,JP,Tokyo,66,26.9
+54.151.242.175,8443,True,SIN best,Asia Pacific,SG,Singapore,51,20.53
 18.167.172.112,443,True,HKG best,Asia Pacific,HK,Hong Kong,100,19.31
+38.59.246.41,9443,True,LAX best,North America,US,Los Angeles,186,19.25
 16.162.225.15,443,True,HKG best,Asia Pacific,HK,Hong Kong,90,18.77
-141.11.86.94,18333,True,TPE best,Asia Pacific,TW,Taipei,166,18.15
-47.76.89.195,48222,True,TPE best,Asia Pacific,TW,Taipei,11,15.75
-154.9.249.84,65432,True,LAX best,North America,US,Los Angeles,200,11.54
-185.201.226.117,46238,True,PDX best,North America,US,Portland,158,11.49
-185.238.250.174,37777,True,LAX best,North America,US,Los Angeles,165,11.29
-35.201.255.124,18888,True,TPE best,Asia Pacific,TW,Taipei,22,10.84
-67.226.221.18,80,True,SJC best,North America,US,San Jose,157,10.81
-140.245.88.197,443,True,NRT best,Asia Pacific,JP,Tokyo,173,10.18
-38.207.190.141,587,True,LAX best,North America,US,Los Angeles,177,9.86
+8.219.170.1,9898,True,SIN best,Asia Pacific,SG,Singapore,192,14.7
+67.226.221.158,80,True,SJC best,North America,US,San Jose,189,11.63
+67.226.221.143,80,True,SJC best,North America,US,San Jose,151,11.5
+67.226.221.52,80,True,LAX best,North America,US,Los Angeles,166,11.44
+204.110.220.67,80,True,SJC best,North America,US,San Jose,180,11.36
+204.110.220.167,80,True,LAX best,North America,US,Los Angeles,165,11.33
+67.226.221.0,443,True,LAX best,North America,US,Los Angeles,155,11.26
+204.110.220.158,80,True,SJC best,North America,US,San Jose,170,11.09
+204.110.220.110,80,True,LAX best,North America,US,Los Angeles,178,10.91
+204.110.220.24,80,True,SJC best,North America,US,San Jose,154,10.81
+185.238.250.174,37777,True,LAX best,North America,US,Los Angeles,163,10.75
+121.178.121.161,50000,True,ICN best,Asia Pacific,KR,Seoul,107,9.64
+125.129.250.63,16012,True,ICN best,Asia Pacific,KR,Seoul,105,9.61
+8.219.134.133,443,True,SIN best,Asia Pacific,SG,Singapore,188,9.56
+119.202.158.65,11084,True,ICN best,Asia Pacific,KR,Seoul,109,9.41
 103.135.248.172,443,True,HKG best,Asia Pacific,HK,Hong Kong,17,9.38
-37.128.252.113,31141,True,TPE best,Asia Pacific,TW,Taipei,314,9.14
-38.150.3.43,54222,True,LAX best,North America,US,Los Angeles,202,8.44
-204.110.220.36,80,True,SJC best,North America,US,San Jose,154,8.33
-38.47.117.85,443,True,LAX best,North America,US,Los Angeles,206,8.25
+211.199.39.34,12131,True,ICN best,Asia Pacific,KR,Seoul,100,9.36
+61.75.93.14,16056,True,ICN best,Asia Pacific,KR,Seoul,124,9.18
+38.207.186.250,12457,True,LAX best,North America,US,Los Angeles,168,9.11
+204.110.220.141,80,True,SJC best,North America,US,San Jose,150,9.06
+204.110.220.35,80,True,SJC best,North America,US,San Jose,157,8.82
+119.205.44.175,21302,True,ICN best,Asia Pacific,KR,Seoul,114,8.81
+59.4.42.27,16666,True,ICN best,Asia Pacific,KR,Seoul,114,8.81
+61.81.13.82,50000,True,ICN best,Asia Pacific,KR,Seoul,131,8.79
+138.2.5.193,443,True,LAX best,North America,US,Los Angeles,168,8.68
+38.150.3.43,54222,True,LAX best,North America,US,Los Angeles,218,8.59
+204.110.220.154,80,True,SJC best,North America,US,San Jose,156,8.47
+221.151.212.249,50000,True,ICN best,Asia Pacific,KR,Seoul,103,8.41
+119.205.15.124,35250,True,ICN best,Asia Pacific,KR,Seoul,117,8.34
+125.134.157.224,35241,True,ICN best,Asia Pacific,KR,Seoul,121,8.14
+118.45.1.145,12268,True,ICN best,Asia Pacific,KR,Seoul,114,8.04
+119.195.196.173,32764,True,ICN best,Asia Pacific,KR,Seoul,116,8.04
