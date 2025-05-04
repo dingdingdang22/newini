@@ -11,3 +11,10 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 185.225.20.19,49330,True,SIN best,Asia Pacific,SG,Singapore,200,8.7
 141.11.87.85,18890,True,TPE best,Asia Pacific,TW,Taipei,285,7.89
 38.147.187.99,18181,True,HKG best,Asia Pacific,HK,Hong Kong,50,7.07
+185.126.80.14,8443,True,SIN best,Asia Pacific,SG,Singapore,200,6.88
+103.137.63.2,443,True,KHH best,Asia Pacific,TW,Kaohsiung City,74,6.83
+146.56.45.53,443,True,SIN best,Asia Pacific,SG,Singapore,226,6.74
+131.186.20.243,443,True,SIN best,Asia Pacific,SG,Singapore,235,6.73
+59.19.192.51,10080,True,LAX best,North America,US,Los Angeles,184,6.72
+108.165.40.98,53129,True,LAX best,North America,US,Los Angeles,217,6.6
+45.66.218.194,12965,True,NRT best,Asia Pacific,JP,Tokyo,56,6.5
