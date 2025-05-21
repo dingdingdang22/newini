@@ -1,28 +1,22 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-163.177.58.167,32078,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,29,8.88
-163.177.58.167,26648,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,34,8.88
-58.19.29.102,45296,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,45,8.88
-163.177.58.167,43069,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,45,8.88
-125.94.46.115,14337,True,LAXchat,US,North America,Los Angeles,4134,Chinanet,48,8.88
-183.236.51.57,28502,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,51,8.88
-158.101.28.188,587,True,LAXchat,US,North America,Los Angeles,31898,ORACLE-BMC-31898,237,8.88
-103.8.222.179,25642,True,ICNchat,KR,Asia Pacific,Seoul,137697,CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhouJiangsu Province PRChina,179,8.88
+163.177.58.167,27446,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,20,8.88
+172.93.46.140,587,True,LAXchat,US,North America,Los Angeles,25820,IT7NET,222,8.88
+103.8.222.179,25642,True,ICNchat,KR,Asia Pacific,Seoul,137697,CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhouJiangsu Province PRChina,142,8.88
+163.177.58.167,37292,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,10,8.88
 183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,11,8.88
-163.177.58.167,37292,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,12,8.88
-163.177.58.167,59453,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,12,8.88
-45.251.10.227,38196,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,33,8.88
-113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,102,8.88
-106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,111,8.88
-163.177.58.167,32078,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,11,8.88
-163.177.58.167,43069,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,11,8.88
-183.236.51.57,36770,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,11,8.88
-183.236.51.57,34071,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,12,8.88
-183.236.51.57,28576,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,12,8.88
-163.177.58.167,26648,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,13,8.88
-183.236.51.57,28502,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,13,8.88
-125.94.46.115,14337,True,LAXchat,US,North America,Los Angeles,4134,Chinanet,16,8.88
-58.19.29.102,29867,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,21,8.88
-58.19.29.102,45296,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,22,8.88
-45.251.10.227,25827,True,LAXchat,US,North America,Los Angeles,133775,Xiamen,27,8.88
-103.8.222.179,27799,True,LAXchat,US,North America,Los Angeles,137697,CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhouJiangsu Province PRChina,29,8.88
-163.177.58.167,27446,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,56,8.88
+163.177.58.167,59453,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,11,8.88
+163.177.58.167,48285,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,11,8.88
+45.251.10.227,38196,True,SINchat,SG,Asia Pacific,Singapore,133775,Xiamen,30,8.88
+113.31.109.111,443,True,SINchat,SG,Asia Pacific,Singapore,4811,China Telecom Group,101,8.88
+106.75.30.149,443,True,SINchat,SG,Asia Pacific,Singapore,4808,China Unicom Beijing Province Network,110,8.88
+163.177.58.167,43069,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,22,8.88
+183.236.51.57,36770,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,24,8.88
+163.177.58.167,26648,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,45,8.88
+58.19.29.102,45296,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,47,8.88
+125.94.46.115,14337,True,LAXchat,US,North America,Los Angeles,4134,Chinanet,54,8.88
+45.251.10.227,25827,True,LAXchat,US,North America,Los Angeles,133775,Xiamen,62,8.88
+163.177.58.167,27446,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,70,8.88
+163.177.58.167,32078,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,73,8.88
+103.8.222.179,27799,True,LAXchat,US,North America,Los Angeles,137697,CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhouJiangsu Province PRChina,75,8.88
+183.236.51.57,28576,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,75,8.88
+58.19.29.102,29867,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,112,8.88
