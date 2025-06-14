@@ -1,37 +1,33 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-20.243.85.49,10443,True,NRT best,Asia Pacific,JP,Tokyo,56,31.27
-45.143.234.69,8899,True,NRT best,Asia Pacific,JP,Tokyo,63,29.91
-47.79.33.117,52311,True,NRT best,Asia Pacific,JP,Tokyo,64,27.76
-91.149.239.70,443,True,LAX best,North America,US,Los Angeles,171,26.68
-13.230.34.30,443,True,NRT best,Asia Pacific,JP,Tokyo,55,26.53
-47.79.33.117,11101,True,NRT best,Asia Pacific,JP,Tokyo,62,24.44
-45.66.218.194,12965,True,NRT best,Asia Pacific,JP,Tokyo,59,12.31
+38.60.92.27,443,True,LAX best,North America,US,Los Angeles,161,14.74
 8.210.174.22,10001,True,TPE best,Asia Pacific,TW,Taipei,11,10.98
-154.23.243.91,42242,True,LAX best,North America,US,Los Angeles,165,10.92
-38.47.239.93,21196,True,LAX best,North America,US,Los Angeles,176,10.33
+8.222.159.134,12314,True,SIN best,Asia Pacific,SG,Singapore,191,9.48
 67.226.221.44,80,True,SJC best,North America,US,San Jose,151,8.65
 103.137.63.3,443,True,KHH best,Asia Pacific,TW,Kaohsiung City,58,8.29
-220.71.216.216,12428,True,ICN best,Asia Pacific,KR,Seoul,65,8.26
-154.9.241.153,10276,True,LAX best,North America,US,Los Angeles,191,8.21
-118.44.51.175,12400,True,ICN best,Asia Pacific,KR,Seoul,67,7.95
-211.114.180.156,21305,True,ICN best,Asia Pacific,KR,Seoul,81,7.74
-183.105.151.175,16069,True,ICN best,Asia Pacific,KR,Seoul,85,7.64
-220.120.139.237,12436,True,ICN best,Asia Pacific,KR,Seoul,71,7.58
-222.106.89.183,17010,True,ICN best,Asia Pacific,KR,Seoul,70,7.55
-115.23.244.98,50000,True,ICN best,Asia Pacific,KR,Seoul,57,7.33
-220.80.8.223,50000,True,ICN best,Asia Pacific,KR,Seoul,65,7.33
-152.70.251.133,443,True,SIN best,Asia Pacific,SG,Singapore,235,7.24
-211.185.2.191,16032,True,ICN best,Asia Pacific,KR,Seoul,78,7.09
-144.24.95.46,443,True,SIN best,Asia Pacific,SG,Singapore,225,7.07
-218.159.222.216,12277,True,ICN best,Asia Pacific,KR,Seoul,64,7.05
-125.143.115.3,50001,True,ICN best,Asia Pacific,KR,Seoul,70,7.01
-121.132.58.142,12452,True,ICN best,Asia Pacific,KR,Seoul,74,6.85
+14.56.74.151,50000,True,ICN best,Asia Pacific,KR,Seoul,63,8.1
+23.169.184.125,25526,True,LAX best,North America,US,Los Angeles,170,8.05
+183.108.91.204,30005,True,ICN best,Asia Pacific,KR,Seoul,67,7.76
+211.217.31.160,12213,True,ICN best,Asia Pacific,KR,Seoul,82,7.58
+183.98.8.11,10810,True,ICN best,Asia Pacific,KR,Seoul,67,7.5
+121.150.217.106,12495,True,ICN best,Asia Pacific,KR,Seoul,78,7.34
+59.9.232.172,17773,True,ICN best,Asia Pacific,KR,Seoul,71,7.24
+14.42.55.33,16016,True,ICN best,Asia Pacific,KR,Seoul,69,7.23
+59.23.74.189,33922,True,ICN best,Asia Pacific,KR,Seoul,93,7.22
+210.222.30.180,10017,True,ICN best,Asia Pacific,KR,Seoul,69,7.19
+222.102.137.152,18062,True,ICN best,Asia Pacific,KR,Seoul,94,7.16
+222.104.213.148,12341,True,ICN best,Asia Pacific,KR,Seoul,65,7.02
+210.222.78.191,12264,True,ICN best,Asia Pacific,KR,Seoul,79,6.96
 103.137.63.2,443,True,KHH best,Asia Pacific,TW,Kaohsiung City,74,6.83
-112.168.173.214,50000,True,ICN best,Asia Pacific,KR,Seoul,83,6.74
-121.131.104.228,50000,True,ICN best,Asia Pacific,KR,Seoul,71,6.71
-112.164.239.188,50000,True,ICN best,Asia Pacific,KR,Seoul,70,6.55
-158.180.68.96,443,True,SIN best,Asia Pacific,SG,Singapore,240,6.5
-125.138.28.68,12088,True,ICN best,Asia Pacific,KR,Seoul,88,6.26
-221.167.4.244,50000,True,ICN best,Asia Pacific,KR,Seoul,77,6.12
-121.178.225.56,18112,True,ICN best,Asia Pacific,KR,Seoul,67,6.03
-211.230.97.218,50000,True,ICN best,Asia Pacific,KR,Seoul,64,6.01
+210.222.30.180,21311,True,LAX best,North America,US,Los Angeles,198,6.73
+14.32.12.235,12109,True,ICN best,Asia Pacific,KR,Seoul,68,6.7
+222.109.243.98,50000,True,ICN best,Asia Pacific,KR,Seoul,57,6.66
+59.13.75.15,12487,True,ICN best,Asia Pacific,KR,Seoul,71,6.62
+121.148.11.169,50001,True,ICN best,Asia Pacific,KR,Seoul,61,6.6
+221.155.187.77,50000,True,ICN best,Asia Pacific,KR,Seoul,59,6.48
+221.160.250.78,50000,True,ICN best,Asia Pacific,KR,Seoul,60,6.39
+220.120.172.116,11210,True,ICN best,Asia Pacific,KR,Seoul,77,6.37
+59.22.140.62,12462,True,ICN best,Asia Pacific,KR,Seoul,59,6.2
+118.33.128.6,16087,True,ICN best,Asia Pacific,KR,Seoul,59,6.17
+121.147.108.106,16020,True,ICN best,Asia Pacific,KR,Seoul,64,6.12
+220.85.122.216,12503,True,ICN best,Asia Pacific,KR,Seoul,79,6.07
+125.135.4.15,11434,True,ICN best,Asia Pacific,KR,Seoul,58,6.03
