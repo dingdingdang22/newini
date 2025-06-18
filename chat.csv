@@ -1,8 +1,5 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
 154.37.211.162,13614,True,LAXchat,US,North America,Los Angeles,40065,CNSERVERS,173,8.88
-119.199.206.40,39731,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,66,8.88
-183.101.244.245,50000,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,118,8.88
-121.169.173.210,50000,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,178,8.88
 163.177.58.167,59453,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,9,8.88
 183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,13,8.88
 163.177.58.167,48285,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,15,8.88
