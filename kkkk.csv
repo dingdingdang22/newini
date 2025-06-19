@@ -1,25 +1,23 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
-219.76.13.180,443,True,HKG,HK,Asia Pacific,Hong Kong,634,25.58
-183.236.51.57,26795,True,HKG,HK,Asia Pacific,Hong Kong,41,20.74
+219.76.13.180,443,True,HKG,HK,Asia Pacific,Hong Kong,137,21.01
+219.76.13.166,443,True,HKG,HK,Asia Pacific,Hong Kong,200,20.54
+183.236.51.57,26803,True,HKG,HK,Asia Pacific,Hong Kong,36,20.3
+45.251.10.227,25693,True,HKG,HK,Asia Pacific,Hong Kong,36,18.38
+219.76.13.177,443,True,HKG,HK,Asia Pacific,Hong Kong,212,16.63
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,190,16.01
-8.218.37.175,47881,True,SIN,SG,Asia Pacific,Singapore,15,14.43
-3.1.116.161,2053,True,SIN,SG,Asia Pacific,Singapore,51,14.07
-13.250.14.76,443,True,SIN,SG,Asia Pacific,Singapore,50,13.18
-164.52.2.99,443,True,SIN,SG,Asia Pacific,Singapore,54,13.09
+124.156.202.172,443,True,SIN,SG,Asia Pacific,Singapore,51,14.84
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
 23.106.143.190,39027,True,KIX,JP,Asia Pacific,Osaka,58,11.77
-113.31.109.111,443,True,SIN,SG,Asia Pacific,Singapore,96,11.26
-58.19.29.102,25783,True,HKG,HK,Asia Pacific,Hong Kong,56,10.73
-149.88.95.42,8443,True,HKG,HK,Asia Pacific,Hong Kong,34,10.19
-149.88.95.42,443,True,HKG,HK,Asia Pacific,Hong Kong,51,10.15
-149.88.95.42,2053,True,HKG,HK,Asia Pacific,Hong Kong,30,10.06
-149.88.95.42,2087,True,HKG,HK,Asia Pacific,Hong Kong,34,10.03
-45.66.218.194,12965,True,NRT,JP,Asia Pacific,Tokyo,129,9.98
-106.75.30.149,443,True,SIN,SG,Asia Pacific,Singapore,111,9.87
-149.88.95.42,2083,True,HKG,HK,Asia Pacific,Hong Kong,35,9.83
-13.230.34.30,443,True,NRT,JP,Asia Pacific,Tokyo,68,9.24
-103.160.100.205,29844,True,NRT,JP,Asia Pacific,Tokyo,61,9.1
-8.218.66.205,24838,True,HKG,HK,Asia Pacific,Hong Kong,58,9.08
-18.183.158.211,443,True,NRT,JP,Asia Pacific,Tokyo,80,8.7
-185.115.207.218,443,True,SIN,SG,Asia Pacific,Singapore,86,8.15
+113.31.109.111,443,True,SIN,SG,Asia Pacific,Singapore,100,10.81
+18.183.158.211,443,True,NRT,JP,Asia Pacific,Tokyo,78,10.72
+3.1.116.161,2053,True,SIN,SG,Asia Pacific,Singapore,52,10.64
+58.19.29.102,25783,True,HKG,HK,Asia Pacific,Hong Kong,159,10.52
+8.218.66.205,24838,True,HKG,HK,Asia Pacific,Hong Kong,58,10.27
+106.75.30.149,443,True,SIN,SG,Asia Pacific,Singapore,118,9.87
+8.218.37.175,47881,True,SIN,SG,Asia Pacific,Singapore,18,9.78
+103.160.100.205,29844,True,NRT,JP,Asia Pacific,Tokyo,66,9.24
+45.66.218.194,12965,True,NRT,JP,Asia Pacific,Tokyo,57,9.15
+40.81.29.103,8089,True,HKG,HK,Asia Pacific,Hong Kong,206,8.37
+149.88.95.42,443,True,HKG,HK,Asia Pacific,Hong Kong,28,8.36
+13.230.34.30,443,True,NRT,JP,Asia Pacific,Tokyo,77,8.06
