@@ -7,20 +7,19 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
 183.236.51.57,26803,True,HKG,HK,Asia Pacific,Hong Kong,25,18.3
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,190,16.01
 183.236.51.57,26795,True,HKG,HK,Asia Pacific,Hong Kong,25,15.01
-13.250.131.37,443,True,SIN,SG,Asia Pacific,Singapore,55,13.88
-3.1.116.161,2053,True,SIN,SG,Asia Pacific,Singapore,56,13.58
-13.250.14.76,443,True,SIN,SG,Asia Pacific,Singapore,54,13.57
-13.230.34.30,443,True,NRT,JP,Asia Pacific,Tokyo,55,12.17
-20.243.85.49,10443,True,NRT,JP,Asia Pacific,Tokyo,58,11.98
+124.156.202.172,443,True,SIN,SG,Asia Pacific,Singapore,63,14.83
+13.250.14.76,443,True,SIN,SG,Asia Pacific,Singapore,59,13.57
+43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,69,13.37
+3.1.116.161,2053,True,SIN,SG,Asia Pacific,Singapore,54,13.11
+13.230.34.30,443,True,NRT,JP,Asia Pacific,Tokyo,67,12.14
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
-164.52.2.99,443,True,SIN,SG,Asia Pacific,Singapore,65,11.68
-23.106.143.190,39027,True,KIX,JP,Asia Pacific,Osaka,58,11.65
+20.243.85.49,10443,True,NRT,JP,Asia Pacific,Tokyo,74,11.57
 58.19.29.102,25783,True,HKG,HK,Asia Pacific,Hong Kong,23,10.89
-8.218.37.175,47881,True,SIN,SG,Asia Pacific,Singapore,15,10.89
 45.251.10.227,25693,True,HKG,HK,Asia Pacific,Hong Kong,28,10.7
-192.243.122.226,8443,True,KIX,JP,Asia Pacific,Osaka,67,10.42
-113.31.109.111,443,True,SIN,SG,Asia Pacific,Singapore,100,10.41
-106.75.30.149,443,True,SIN,SG,Asia Pacific,Singapore,117,9.86
-103.160.100.205,29844,True,NRT,JP,Asia Pacific,Tokyo,67,9.3
+192.243.122.226,8443,True,KIX,JP,Asia Pacific,Osaka,60,10.6
+8.218.37.175,47881,True,SIN,SG,Asia Pacific,Singapore,42,10.5
+113.31.109.111,443,True,SIN,SG,Asia Pacific,Singapore,94,10.36
+45.66.218.194,12965,True,NRT,JP,Asia Pacific,Tokyo,87,9.95
+106.75.30.149,443,True,SIN,SG,Asia Pacific,Singapore,119,9.59
 164.52.2.98,443,True,SIN,SG,Asia Pacific,Singapore,64,9.15
-164.52.2.98,443,True,SIN,SG,Asia Pacific,Singapore,56,8.79
+103.160.100.205,29844,True,NRT,JP,Asia Pacific,Tokyo,75,8.8
