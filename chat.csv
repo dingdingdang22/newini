@@ -1,8 +1,10 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
 107.172.103.195,16038,True,SJCchat,US,North America,San Jose,36352,AS-COLOCROSSING,165,8.88
 148.135.17.203,31147,True,LAXchat,US,North America,Los Angeles,35916,MULTA-ASN1,168,8.88
-202.144.195.204,443,True,NRTchat,JP,Asia Pacific,Tokyo,55799,IPTELECOM ASIA,60,8.88
-163.177.58.167,48285,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,18,8.88
-183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,27,8.88
-163.177.58.167,32078,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,20,8.88
-103.8.222.179,27799,True,LAXchat,US,North America,Los Angeles,137697,CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhouJiangsu Province PRChina,43,8.88
+183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,10,8.88
+163.177.58.167,26648,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,11,8.88
+163.177.58.167,32078,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,11,8.88
+125.94.46.115,14337,True,LAXchat,US,North America,Los Angeles,4134,Chinanet,13,8.88
+183.236.51.57,28502,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,18,8.88
+58.19.29.102,29867,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,22,8.88
+103.8.222.179,27799,True,LAXchat,US,North America,Los Angeles,137697,CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhouJiangsu Province PRChina,40,8.88
