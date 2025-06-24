@@ -1,24 +1,24 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
-43.154.34.74,1935,True,HKG,HK,Asia Pacific,Hong Kong,75,23.95
-183.236.51.57,26803,True,HKG,HK,Asia Pacific,Hong Kong,34,17.26
-219.76.13.166,443,True,HKG,HK,Asia Pacific,Hong Kong,69,16.94
+219.76.13.166,443,True,HKG,HK,Asia Pacific,Hong Kong,104,34.98
+219.76.13.180,443,True,HKG,HK,Asia Pacific,Hong Kong,131,28.03
+183.236.51.57,26795,True,HKG,HK,Asia Pacific,Hong Kong,36,23.63
+45.251.10.227,25693,True,HKG,HK,Asia Pacific,Hong Kong,64,21.71
+183.236.51.57,26803,True,HKG,HK,Asia Pacific,Hong Kong,33,16.76
+43.154.34.74,1935,True,HKG,HK,Asia Pacific,Hong Kong,37,16.29
 85.237.207.79,31121,True,TPE,TW,Asia Pacific,Taipei,190,16.01
-45.251.10.227,25693,True,HKG,HK,Asia Pacific,Hong Kong,37,13.05
 8.218.37.175,47881,True,SIN,SG,Asia Pacific,Singapore,12,12.05
 85.237.207.79,31181,True,TPE,TW,Asia Pacific,Taipei,189,11.82
-20.243.85.49,10443,True,NRT,JP,Asia Pacific,Tokyo,55,11.77
-210.61.97.241,81,True,KHH,TW,Asia Pacific,Kaohsiung City,82,11.58
+147.79.20.239,443,True,NRT,JP,Asia Pacific,Tokyo,71,11.56
 192.243.122.226,8443,True,KIX,JP,Asia Pacific,Osaka,58,11.51
-18.183.158.211,443,True,NRT,JP,Asia Pacific,Tokyo,58,11.02
-45.66.218.194,12965,True,NRT,JP,Asia Pacific,Tokyo,53,10.25
-149.88.95.42,2083,True,HKG,HK,Asia Pacific,Hong Kong,30,10.13
-147.79.20.239,443,True,NRT,JP,Asia Pacific,Tokyo,66,9.92
-149.88.95.42,2053,True,HKG,HK,Asia Pacific,Hong Kong,54,9.71
-8.218.66.205,24838,True,HKG,HK,Asia Pacific,Hong Kong,63,9.4
+8.218.66.205,24838,True,HKG,HK,Asia Pacific,Hong Kong,18,10.49
+18.183.158.211,443,True,NRT,JP,Asia Pacific,Tokyo,55,10.38
+20.243.85.49,10443,True,NRT,JP,Asia Pacific,Tokyo,57,10.36
+149.88.95.42,8443,True,HKG,HK,Asia Pacific,Hong Kong,26,10.17
+149.88.95.42,2083,True,HKG,HK,Asia Pacific,Hong Kong,30,10.12
+149.88.95.42,2096,True,HKG,HK,Asia Pacific,Hong Kong,30,9.94
+45.66.218.194,12965,True,NRT,JP,Asia Pacific,Tokyo,59,9.82
+149.88.95.42,443,True,HKG,HK,Asia Pacific,Hong Kong,103,9.66
 3.1.116.161,2053,True,SIN,SG,Asia Pacific,Singapore,54,9.16
-103.160.100.205,29844,True,NRT,JP,Asia Pacific,Tokyo,60,9.16
-58.19.29.102,25783,True,HKG,HK,Asia Pacific,Hong Kong,28,8.99
-222.101.91.204,50000,True,ICN,KR,Asia Pacific,Seoul,64,8.2
-125.187.120.122,11181,True,ICN,KR,Asia Pacific,Seoul,74,8.11
-149.88.95.42,443,True,HKG,HK,Asia Pacific,Hong Kong,21,8.02
+149.88.95.42,2087,True,HKG,HK,Asia Pacific,Hong Kong,30,8.21
+125.187.120.122,11181,True,ICN,KR,Asia Pacific,Seoul,69,8.14
