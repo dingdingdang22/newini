@@ -1,9 +1,6 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-172.83.159.4,41389,True,SEAchat,US,North America,Seattle,201106,Spartan Host Ltd,178,8.88
-183.236.51.57,28994,True,SINchat,SG,Asia Pacific,Singapore,9808,China Mobile Communications Group Co Ltd,18,8.88
-163.177.58.167,48285,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,32,8.88
-163.177.58.167,32078,True,LAXchat,US,North America,Los Angeles,17623,China Unicom Shenzen network,14,8.88
-125.94.46.115,14337,True,LAXchat,US,North America,Los Angeles,4134,Chinanet,27,8.88
-58.19.29.102,29867,True,LAXchat,US,North America,Los Angeles,4837,CHINA UNICOM China169 Backbone,41,8.88
-183.236.51.57,28502,True,LAXchat,US,North America,Los Angeles,9808,China Mobile Communications Group Co Ltd,44,8.88
-103.8.222.179,27799,True,LAXchat,US,North America,Los Angeles,137697,CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhouJiangsu Province PRChina,58,8.88
+163.177.58.167,48285,True,SINchat,SG,Asia Pacific,Singapore,17623,China Unicom Shenzen network,22,8.88
+163.177.58.167,32078,True,PHXchat,US,North America,Phoenix,17623,China Unicom Shenzen network,14,8.88
+163.177.58.167,26648,True,SEAchat,US,North America,Seattle,17623,China Unicom Shenzen network,18,8.88
+103.8.222.179,27799,True,LAXchat,US,North America,Los Angeles,137697,CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhouJiangsu Province PRChina,30,8.88
+125.94.46.115,14337,True,LAXchat,US,North America,Los Angeles,4134,Chinanet,39,8.88
