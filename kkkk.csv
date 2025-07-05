@@ -1,6 +1,70 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
 47.76.76.107,18999,True,HKG,HK,Asia Pacific,Hong Kong,12,18.14
 47.76.76.107,18999,True,HKG,HK,Asia Pacific,Hong Kong,14,15.5
+154.198.173.14,2083,True,SJC,US,North America,San Jose,369,7.53
+154.92.9.253,2053,True,SJC,US,North America,San Jose,169,7.37
+154.206.12.231,2096,True,SJC,US,North America,San Jose,170,7.36
+154.92.9.168,2087,True,SJC,US,North America,San Jose,180,7.32
+154.206.12.247,8443,True,SJC,US,North America,San Jose,537,7.32
+154.211.8.111,2083,True,SJC,US,North America,San Jose,206,7.3
+154.198.173.18,2096,True,SJC,US,North America,San Jose,162,7.3
+154.198.173.90,443,True,SJC,US,North America,San Jose,204,7.29
+154.198.173.31,2053,True,SJC,US,North America,San Jose,150,7.29
+154.206.12.149,8443,True,SJC,US,North America,San Jose,162,7.26
+154.218.15.182,443,True,SJC,US,North America,San Jose,182,7.25
+154.92.9.234,2087,True,SJC,US,North America,San Jose,172,7.24
+154.198.173.77,2083,True,SJC,US,North America,San Jose,200,7.21
+154.198.173.94,2053,True,SJC,US,North America,San Jose,166,7.2
+154.198.173.90,2053,True,SJC,US,North America,San Jose,271,7.2
+154.211.8.105,443,True,SJC,US,North America,San Jose,173,7.2
+154.198.173.248,2083,True,SJC,US,North America,San Jose,368,7.2
+154.198.173.170,2083,True,SJC,US,North America,San Jose,167,7.19
+154.218.15.6,2096,True,SJC,US,North America,San Jose,350,7.18
+154.218.15.179,443,True,SJC,US,North America,San Jose,221,7.18
+154.218.15.48,2083,True,SJC,US,North America,San Jose,154,7.18
+154.198.173.104,443,True,SJC,US,North America,San Jose,344,7.17
+154.92.9.67,443,True,SJC,US,North America,San Jose,169,7.17
+154.198.173.255,8443,True,SJC,US,North America,San Jose,262,7.17
+154.198.173.39,2087,True,SJC,US,North America,San Jose,164,7.16
+154.92.9.2,2087,True,SJC,US,North America,San Jose,189,7.16
+154.211.8.172,8443,True,SJC,US,North America,San Jose,149,7.16
+154.218.15.185,2096,True,SJC,US,North America,San Jose,190,7.16
+154.198.173.194,2087,True,SJC,US,North America,San Jose,175,7.15
+154.198.173.105,8443,True,SJC,US,North America,San Jose,161,7.15
+154.211.8.148,2053,True,SJC,US,North America,San Jose,153,7.14
+154.198.173.174,2096,True,SJC,US,North America,San Jose,353,7.14
+154.211.8.150,2053,True,SJC,US,North America,San Jose,184,7.14
+154.218.15.104,443,True,SJC,US,North America,San Jose,179,7.13
+154.198.173.59,2096,True,SJC,US,North America,San Jose,266,7.11
+154.206.12.235,2087,True,SJC,US,North America,San Jose,479,7.11
+154.218.15.239,2053,True,SJC,US,North America,San Jose,157,7.11
+154.198.173.238,443,True,SJC,US,North America,San Jose,150,7.1
+154.198.173.186,2096,True,SJC,US,North America,San Jose,177,7.1
+154.198.173.77,2083,True,SJC,US,North America,San Jose,338,7.09
+154.92.9.44,2053,True,SJC,US,North America,San Jose,419,7.09
+154.206.12.149,8443,True,SJC,US,North America,San Jose,187,7.09
+154.198.173.112,443,True,SJC,US,North America,San Jose,217,7.08
+154.206.12.30,2096,True,SJC,US,North America,San Jose,168,7.08
+154.92.9.234,2087,True,SJC,US,North America,San Jose,240,7.08
+154.218.15.75,8443,True,SJC,US,North America,San Jose,256,7.08
+154.218.15.229,8443,True,SJC,US,North America,San Jose,147,7.07
+154.218.15.136,2087,True,SJC,US,North America,San Jose,153,7.07
+154.218.15.164,443,True,SJC,US,North America,San Jose,537,7.07
+154.211.8.87,2053,True,SJC,US,North America,San Jose,325,7.06
+154.92.9.72,2083,True,SJC,US,North America,San Jose,220,7.06
+154.198.173.41,2096,True,SJC,US,North America,San Jose,151,7.06
+154.218.15.136,8443,True,SJC,US,North America,San Jose,297,7.06
+154.92.9.73,443,True,SJC,US,North America,San Jose,174,7.05
+154.198.173.199,2053,True,SJC,US,North America,San Jose,155,7.05
+154.92.9.47,443,True,SJC,US,North America,San Jose,363,7.05
+154.218.15.63,2096,True,SJC,US,North America,San Jose,230,7.05
+154.211.8.135,2053,True,SJC,US,North America,San Jose,231,7.04
+154.92.9.27,8443,True,SJC,US,North America,San Jose,154,7.03
+154.211.8.171,443,True,SJC,US,North America,San Jose,318,7.03
+154.198.173.205,2083,True,SJC,US,North America,San Jose,291,7.02
+154.211.8.241,2096,True,SJC,US,North America,San Jose,359,7.02
+154.198.173.35,443,True,SJC,US,North America,San Jose,177,7.01
+154.211.8.172,2096,True,SJC,US,North America,San Jose,150,7.01
 183.236.51.57,27519,True,TPE,TW,Asia Pacific,Taipei,16,35.47
 43.154.34.74,1935,True,HKG,HK,Asia Pacific,Hong Kong,67,18.83
 219.76.13.180,443,True,HKG,HK,Asia Pacific,Hong Kong,242,16.09
@@ -33,3 +97,24 @@ IP地址,端口,TLS,数据中心,国家,地区,城市,TCP延迟(ms),速度(MB/s)
 149.88.95.42,443,True,HKG,HK,Asia Pacific,Hong Kong,57,8.69
 149.88.95.42,2083,True,HKG,HK,Asia Pacific,Hong Kong,19,8.65
 149.88.95.42,2083,True,HKG,HK,Asia Pacific,Hong Kong,53,8.47
+125.187.120.122,11181,True,ICN,KR,Asia Pacific,Seoul,68,7.99
+40.81.29.103,8089,True,HKG,HK,Asia Pacific,Hong Kong,83,7.96
+43.156.116.194,443,True,SIN,SG,Asia Pacific,Singapore,47,7.89
+149.88.95.42,8443,True,HKG,HK,Asia Pacific,Hong Kong,18,7.84
+149.88.95.42,2096,True,HKG,HK,Asia Pacific,Hong Kong,50,7.8
+185.115.207.218,443,True,SIN,SG,Asia Pacific,Singapore,106,7.76
+103.232.213.117,8080,True,NRT,JP,Asia Pacific,Tokyo,63,7.71
+13.250.131.37,443,True,SIN,SG,Asia Pacific,Singapore,51,7.58
+115.40.244.240,11211,True,ICN,KR,Asia Pacific,Seoul,160,7.56
+40.81.29.103,8089,True,HKG,HK,Asia Pacific,Hong Kong,85,7.48
+175.114.195.4,11063,True,ICN,KR,Asia Pacific,Seoul,67,7.33
+185.115.207.218,443,True,SIN,SG,Asia Pacific,Singapore,91,7.33
+115.40.244.240,12696,True,ICN,KR,Asia Pacific,Seoul,86,7.29
+52.141.25.42,443,True,ICN,KR,Asia Pacific,Seoul,94,7.29
+180.228.127.9,50000,True,ICN,KR,Asia Pacific,Seoul,57,7.23
+123.142.67.164,50000,True,ICN,KR,Asia Pacific,Seoul,59,7.22
+149.88.95.42,2053,True,HKG,HK,Asia Pacific,Hong Kong,19,7.13
+125.187.120.122,11181,True,ICN,KR,Asia Pacific,Seoul,117,7.13
+180.228.127.9,50000,True,ICN,KR,Asia Pacific,Seoul,54,7.09
+115.40.244.240,11211,True,ICN,KR,Asia Pacific,Seoul,99,7.06
+103.195.191.55,443,True,SIN,SG,Asia Pacific,Singapore,108,7.01
