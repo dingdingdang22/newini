@@ -1,29 +1,25 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-46.232.108.217,443,True,HKG best,Asia Pacific,HK,Hong Kong,14,51.91
-46.232.108.187,443,True,HKG best,Asia Pacific,HK,Hong Kong,16,46.42
-46.232.109.220,28015,True,HKG best,Asia Pacific,HK,Hong Kong,20,44.99
-46.232.106.207,443,True,HKG best,Asia Pacific,HK,Hong Kong,68,43.67
-46.232.108.52,443,True,HKG best,Asia Pacific,HK,Hong Kong,29,35.9
-52.187.64.229,443,True,SIN best,Asia Pacific,SG,Singapore,54,30.58
-20.17.107.137,443,True,SIN best,Asia Pacific,SG,Singapore,61,24.73
-47.243.47.178,80,True,TPE best,Asia Pacific,TW,Taipei,13,22.86
-45.8.114.96,7777,True,NRT best,Asia Pacific,JP,Tokyo,79,22.39
-47.243.33.234,7775,True,HKG best,Asia Pacific,HK,Hong Kong,16,22.05
-47.239.81.175,6020,True,HKG best,Asia Pacific,HK,Hong Kong,16,19.71
-52.198.130.69,443,True,NRT best,Asia Pacific,JP,Tokyo,75,19.25
-13.76.102.145,443,True,SIN best,Asia Pacific,SG,Singapore,91,18.93
-46.232.106.207,2052,True,HKG best,Asia Pacific,HK,Hong Kong,40,16.17
-47.79.92.31,8443,True,NRT best,Asia Pacific,JP,Tokyo,80,14.26
-8.218.128.140,443,True,HKG best,Asia Pacific,HK,Hong Kong,40,13.51
-8.209.224.148,443,True,NRT best,Asia Pacific,JP,Tokyo,74,11.82
-47.239.64.163,443,True,HKG best,Asia Pacific,HK,Hong Kong,20,10.6
-14.54.124.53,12404,True,ICN best,Asia Pacific,KR,Seoul,84,7.85
+46.232.109.220,28015,True,HKG best,Asia Pacific,HK,Hong Kong,26,67.0
+4.194.131.141,8081,True,SIN best,Asia Pacific,SG,Singapore,53,30.24
+154.17.18.138,443,True,LAX best,North America,US,Los Angeles,159,19.25
+52.175.20.222,443,True,HKG best,Asia Pacific,HK,Hong Kong,86,18.06
+154.21.83.154,443,True,DFW best,North America,US,Dallas,173,14.87
+154.9.249.242,443,True,LAX best,North America,US,Los Angeles,180,14.8
+154.21.86.124,443,True,LAX best,North America,US,Los Angeles,182,13.33
+154.23.172.19,11000,True,DFW best,North America,US,Dallas,185,12.37
+154.7.181.207,40893,True,LAX best,North America,US,Los Angeles,162,11.02
+38.47.101.176,443,True,HKG best,Asia Pacific,HK,Hong Kong,18,10.42
+154.9.241.153,10276,True,LAX best,North America,US,Los Angeles,187,10.34
+154.9.242.142,10036,True,LAX best,North America,US,Los Angeles,173,10.31
+154.17.237.56,26749,True,LAX best,North America,US,Los Angeles,169,10.04
+38.47.116.206,443,True,LAX best,North America,US,Los Angeles,162,9.97
+108.165.40.98,53129,True,LAX best,North America,US,Los Angeles,183,9.02
 168.126.210.143,30452,True,ICN best,Asia Pacific,KR,Seoul,75,7.85
-147.78.247.7,443,True,NRT best,Asia Pacific,JP,Tokyo,67,7.78
+14.54.124.53,12404,True,ICN best,Asia Pacific,KR,Seoul,84,7.85
 125.139.27.247,12130,True,ICN best,Asia Pacific,KR,Seoul,79,7.73
-47.238.74.255,443,True,HKG best,Asia Pacific,HK,Hong Kong,39,7.66
 14.39.43.121,30022,True,ICN best,Asia Pacific,KR,Seoul,83,7.64
 121.177.13.220,10052,True,ICN best,Asia Pacific,KR,Seoul,85,7.58
+154.17.231.175,56666,True,LAX best,North America,US,Los Angeles,174,7.52
 121.135.194.124,50000,True,ICN best,Asia Pacific,KR,Seoul,57,7.37
 14.36.154.36,50000,True,ICN best,Asia Pacific,KR,Seoul,68,7.36
 211.221.11.231,50001,True,ICN best,Asia Pacific,KR,Seoul,69,7.13
@@ -34,6 +30,7 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 220.71.199.115,17070,True,ICN best,Asia Pacific,KR,Seoul,81,6.84
 103.137.63.2,443,True,KHH best,Asia Pacific,TW,Kaohsiung City,74,6.83
 59.7.61.67,50007,True,ICN best,Asia Pacific,KR,Seoul,77,6.79
+158.179.194.207,443,True,SIN best,Asia Pacific,SG,Singapore,226,6.75
 183.106.203.112,50003,True,ICN best,Asia Pacific,KR,Seoul,82,6.68
 168.126.210.143,18093,True,ICN best,Asia Pacific,KR,Seoul,65,6.61
 112.163.253.175,12260,True,ICN best,Asia Pacific,KR,Seoul,83,6.57
@@ -43,5 +40,6 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 14.51.196.75,50000,True,ICN best,Asia Pacific,KR,Seoul,70,6.48
 175.215.175.175,50003,True,ICN best,Asia Pacific,KR,Seoul,82,6.48
 211.251.17.3,50000,True,ICN best,Asia Pacific,KR,Seoul,64,6.34
+38.207.162.15,12288,True,LAX best,North America,US,Los Angeles,187,6.25
 121.158.134.80,18008,True,ICN best,Asia Pacific,KR,Seoul,65,6.17
 222.107.93.165,50000,True,ICN best,Asia Pacific,KR,Seoul,69,6.06
