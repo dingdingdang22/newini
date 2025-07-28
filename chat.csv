@@ -1,3 +1,2 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-139.99.236.163,443,True,SYDchat,AU,Oceania,Sydney,16276,OVH SAS,246,8.88
-139.99.236.163,443,True,SYDchat,AU,Oceania,Sydney,16276,OVH SAS,1488,8.88
+148.135.15.148,443,True,LAXchat,US,North America,Los Angeles,35916,MULTA-ASN1,593,8.88
