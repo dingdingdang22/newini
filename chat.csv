@@ -1,4 +1,3 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-192.3.208.125,59184,True,SJCchat,US,North America,San Jose,36352,AS-COLOCROSSING,361,8.88
-60.249.114.181,32003,True,LAXchat,US,North America,Los Angeles,3462,Data Communication Business Group,554,8.88
-116.241.116.184,20242,True,TPEchat,TW,Asia Pacific,Taipei,131596,TBC,338,8.88
+107.172.103.195,16045,True,PDXchat,US,North America,Portland,36352,AS-COLOCROSSING,950,8.88
+209.15.110.126,443,True,BKKchat,TH,Asia Pacific,Bangkok,135566,Thailand Government Data Center and Cloud service TGDCC,279,8.88
