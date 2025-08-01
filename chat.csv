@@ -1,3 +1,4 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-107.172.103.195,16045,True,PDXchat,US,North America,Portland,36352,AS-COLOCROSSING,950,8.88
-209.15.110.126,443,True,BKKchat,TH,Asia Pacific,Bangkok,135566,Thailand Government Data Center and Cloud service TGDCC,279,8.88
+152.70.101.24,16518,True,NRTchat,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,180,8.88
+217.142.250.195,587,True,KIXchat,JP,Asia Pacific,Osaka,31898,ORACLE-BMC-31898,196,8.88
+141.148.143.184,37022,True,PDXchat,US,North America,Portland,31898,ORACLE-BMC-31898,284,8.88
