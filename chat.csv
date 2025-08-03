@@ -1,5 +1,5 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-152.70.101.24,16207,True,NRTchat,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,162,8.88
-45.146.82.107,35292,True,SEAchat,US,North America,Seattle,142111,Zhejiang Aiyun Network Technology Co Ltd,507,8.88
-152.70.101.24,16022,True,NRTchat,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,163,8.88
-147.79.20.239,443,True,NRTchat,JP,Asia Pacific,Tokyo,0,Unknown,164,8.88
+142.171.38.53,2333,True,LAXchat,US,North America,Los Angeles,35916,MULTA-ASN1,176,8.88
+141.11.95.10,18443,True,LAXchat,US,North America,Los Angeles,8100,ASN-QUADRANET-GLOBAL,225,8.88
+104.168.87.41,16443,True,SJCchat,US,North America,San Jose,36352,AS-COLOCROSSING,450,8.88
+211.248.217.7,50000,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,960,8.88
