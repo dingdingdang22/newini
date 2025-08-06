@@ -1,23 +1,5 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-154.21.92.83,8443,True,LAX best,North America,US,Los Angeles,171,11.92
-23.165.40.250,443,True,LAX best,North America,US,Los Angeles,171,10.63
-38.47.116.206,443,True,LAX best,North America,US,Los Angeles,171,10.61
-34.92.248.117,9444,True,HKG best,Asia Pacific,HK,Hong Kong,12,10.41
-154.21.85.170,60000,True,LAX best,North America,US,Los Angeles,166,10.23
-222.103.112.243,12391,True,KIX best,Asia Pacific,JP,Osaka,73,10.13
-47.79.146.110,587,True,NRT best,Asia Pacific,JP,Tokyo,67,9.23
-154.9.241.153,23119,True,LAX best,North America,US,Los Angeles,193,9.08
-206.237.117.221,443,True,LAX best,North America,US,Los Angeles,161,8.83
-61.82.172.245,18553,True,KIX best,Asia Pacific,JP,Osaka,90,7.67
-59.19.192.51,12302,True,FUK best,Asia Pacific,JP,Fukuoka,67,7.31
-47.57.70.81,443,True,HKG best,Asia Pacific,HK,Hong Kong,24,7.13
-121.159.246.10,12126,True,KIX best,Asia Pacific,JP,Osaka,88,7.05
-206.237.12.130,666,True,HKG best,Asia Pacific,HK,Hong Kong,39,7.02
-210.99.119.3,12549,True,KIX best,Asia Pacific,JP,Osaka,87,6.84
+46.232.108.52,443,True,HKG best,Asia Pacific,HK,Hong Kong,14,7.84
+34.92.248.117,9444,True,HKG best,Asia Pacific,HK,Hong Kong,25,6.92
 103.137.63.2,443,True,KHH best,Asia Pacific,TW,Kaohsiung City,74,6.83
-183.97.196.49,12232,True,FUK best,Asia Pacific,JP,Fukuoka,73,6.71
-43.154.131.189,443,True,HKG best,Asia Pacific,HK,Hong Kong,11,6.6
-118.42.233.191,31822,True,KIX best,Asia Pacific,JP,Osaka,96,6.6
-220.85.122.216,21357,True,FUK best,Asia Pacific,JP,Fukuoka,107,6.47
-125.134.6.129,12282,True,FUK best,Asia Pacific,JP,Fukuoka,77,6.35
-119.207.56.167,20107,True,FUK best,Asia Pacific,JP,Fukuoka,83,6.27
+43.160.202.92,443,True,SIN best,Asia Pacific,SG,Singapore,51,6.7
