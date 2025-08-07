@@ -1,3 +1,303 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,延迟(ms),TCP延迟(ms),速度(MB/s)
 210.61.97.241,81,True,KHH,TW,Asia Pacific,Kaohsiung City,77,,8.41
 122.116.43.253,995,True,TPE,TW,Asia Pacific,Taipei,35,,7.97
+47.76.151.149,29937,True,HKG,HK,Asia Pacific,Hong Kong,41,,6.44
+156.238.19.58,443,True,SJC,US,North America,San Jose,208,,5.79
+154.198.173.131,8443,True,SJC,US,North America,San Jose,261,,5.78
+156.238.18.182,8443,True,SJC,US,North America,San Jose,162,,5.77
+156.238.19.174,443,True,SJC,US,North America,San Jose,169,,5.69
+154.211.8.188,443,True,SJC,US,North America,San Jose,280,,5.69
+123.111.169.70,8443,True,ICN,KR,Asia Pacific,Seoul,71,,5.69
+156.238.18.136,8443,True,SJC,US,North America,San Jose,178,,5.68
+154.206.12.186,8443,True,SJC,US,North America,San Jose,306,,5.68
+154.211.8.108,2083,True,SJC,US,North America,San Jose,211,,5.67
+154.211.8.118,2096,True,SJC,US,North America,San Jose,249,,5.67
+156.238.19.75,2087,True,SJC,US,North America,San Jose,291,,5.67
+154.92.9.111,443,True,SJC,US,North America,San Jose,183,,5.66
+156.238.19.181,443,True,SJC,US,North America,San Jose,236,,5.65
+154.206.12.193,8443,True,SJC,US,North America,San Jose,165,,5.63
+156.238.18.160,2096,True,SJC,US,North America,San Jose,295,,5.63
+154.211.8.64,2083,True,SJC,US,North America,San Jose,279,,5.62
+106.241.78.205,11001,True,NRT,JP,Asia Pacific,Tokyo,113,,5.62
+156.238.19.165,2083,True,SJC,US,North America,San Jose,328,,5.62
+154.92.9.67,443,True,SJC,US,North America,San Jose,168,,5.62
+154.92.9.50,2087,True,SJC,US,North America,San Jose,278,,5.61
+154.218.15.27,443,True,SJC,US,North America,San Jose,309,,5.61
+154.198.173.90,2053,True,SJC,US,North America,San Jose,296,,5.6
+154.206.12.7,2053,True,SJC,US,North America,San Jose,247,,5.6
+156.238.19.206,2083,True,SJC,US,North America,San Jose,177,,5.6
+154.211.8.41,2053,True,SJC,US,North America,San Jose,196,,5.58
+156.238.18.152,443,True,SJC,US,North America,San Jose,160,,5.58
+154.92.9.35,8443,True,SJC,US,North America,San Jose,191,,5.57
+154.198.173.60,2087,True,SJC,US,North America,San Jose,255,,5.56
+154.218.15.28,2096,True,SJC,US,North America,San Jose,278,,5.56
+154.218.15.222,8443,True,SJC,US,North America,San Jose,199,,5.56
+156.238.19.177,2087,True,SJC,US,North America,San Jose,187,,5.56
+156.238.19.232,2083,True,SJC,US,North America,San Jose,151,,5.56
+154.92.9.166,2096,True,SJC,US,North America,San Jose,163,,5.55
+154.92.9.201,2096,True,SJC,US,North America,San Jose,221,,5.55
+154.198.173.35,2083,True,SJC,US,North America,San Jose,284,,5.55
+154.218.15.117,8443,True,SJC,US,North America,San Jose,183,,5.53
+156.238.19.80,8443,True,SJC,US,North America,San Jose,172,,5.53
+156.238.19.253,443,True,SJC,US,North America,San Jose,160,,5.53
+154.218.15.136,443,True,SJC,US,North America,San Jose,198,,5.52
+154.218.15.155,2053,True,SJC,US,North America,San Jose,162,,5.52
+154.206.12.175,443,True,SJC,US,North America,San Jose,152,,5.52
+154.198.173.248,2083,True,SJC,US,North America,San Jose,173,,5.52
+154.92.9.14,2096,True,SJC,US,North America,San Jose,217,,5.51
+154.218.15.136,2087,True,SJC,US,North America,San Jose,157,,5.51
+156.238.19.43,443,True,SJC,US,North America,San Jose,260,,5.51
+156.238.18.231,2096,True,SJC,US,North America,San Jose,231,,5.5
+154.218.15.230,2083,True,SJC,US,North America,San Jose,158,,5.5
+154.92.9.234,2087,True,SJC,US,North America,San Jose,160,,5.5
+110.9.5.160,50000,True,ICN,KR,Asia Pacific,Seoul,55,,5.5
+154.206.12.235,2053,True,SJC,US,North America,San Jose,165,,5.49
+156.238.19.20,2053,True,SJC,US,North America,San Jose,237,,5.49
+154.92.9.182,2053,True,SJC,US,North America,San Jose,257,,5.47
+154.206.12.235,2087,True,SJC,US,North America,San Jose,334,,5.47
+154.218.15.186,8443,True,SJC,US,North America,San Jose,240,,5.47
+154.206.12.237,2087,True,SJC,US,North America,San Jose,197,,5.47
+154.211.8.230,443,True,SJC,US,North America,San Jose,182,,5.47
+154.206.12.30,2096,True,SJC,US,North America,San Jose,200,,5.47
+154.198.173.42,443,True,SJC,US,North America,San Jose,170,,5.47
+154.206.12.84,2096,True,SJC,US,North America,San Jose,192,,5.47
+154.206.12.135,443,True,SJC,US,North America,San Jose,161,,5.45
+154.218.15.126,2087,True,SJC,US,North America,San Jose,230,,5.44
+156.238.19.81,8443,True,SJC,US,North America,San Jose,280,,5.44
+154.218.15.237,2096,True,SJC,US,North America,San Jose,225,,5.44
+154.206.12.74,8443,True,SJC,US,North America,San Jose,240,,5.44
+154.92.9.242,443,True,SJC,US,North America,San Jose,267,,5.44
+154.211.8.221,2053,True,SJC,US,North America,San Jose,212,,5.43
+156.238.19.178,2087,True,SJC,US,North America,San Jose,221,,5.43
+156.238.18.142,8443,True,SJC,US,North America,San Jose,266,,5.43
+154.218.15.191,2096,True,SJC,US,North America,San Jose,235,,5.43
+154.198.173.62,443,True,SJC,US,North America,San Jose,214,,5.43
+154.92.9.168,2053,True,SJC,US,North America,San Jose,284,,5.42
+154.211.8.167,2053,True,SJC,US,North America,San Jose,259,,5.42
+156.238.18.184,2053,True,SJC,US,North America,San Jose,304,,5.41
+156.238.19.80,2053,True,SJC,US,North America,San Jose,248,,5.41
+154.218.15.154,2083,True,SJC,US,North America,San Jose,265,,5.41
+156.238.19.163,2087,True,SJC,US,North America,San Jose,161,,5.41
+154.92.9.142,8443,True,SJC,US,North America,San Jose,242,,5.4
+156.238.19.42,2053,True,SJC,US,North America,San Jose,171,,5.39
+156.238.18.120,2087,True,SJC,US,North America,San Jose,231,,5.39
+154.211.8.113,2087,True,SJC,US,North America,San Jose,233,,5.39
+154.218.15.249,2083,True,SJC,US,North America,San Jose,224,,5.39
+154.211.8.135,2053,True,SJC,US,North America,San Jose,215,,5.38
+156.238.18.76,8443,True,SJC,US,North America,San Jose,202,,5.37
+156.238.18.178,2096,True,SJC,US,North America,San Jose,277,,5.37
+156.238.18.168,8443,True,SJC,US,North America,San Jose,304,,5.37
+156.238.19.198,2053,True,SJC,US,North America,San Jose,256,,5.37
+156.238.19.131,2087,True,SJC,US,North America,San Jose,198,,5.37
+154.211.8.232,443,True,SJC,US,North America,San Jose,158,,5.36
+154.206.12.98,443,True,SJC,US,North America,San Jose,152,,5.36
+154.218.15.132,2096,True,SJC,US,North America,San Jose,262,,5.36
+154.218.15.164,443,True,SJC,US,North America,San Jose,208,,5.36
+156.238.18.236,2053,True,SJC,US,North America,San Jose,228,,5.36
+154.211.8.50,2096,True,SJC,US,North America,San Jose,171,,5.36
+156.238.18.132,2083,True,SJC,US,North America,San Jose,151,,5.35
+154.206.12.223,2053,True,SJC,US,North America,San Jose,227,,5.35
+154.218.15.223,443,True,SJC,US,North America,San Jose,157,,5.35
+154.211.8.87,8443,True,SJC,US,North America,San Jose,205,,5.35
+154.211.8.222,2053,True,SJC,US,North America,San Jose,239,,5.34
+154.198.173.33,2083,True,SJC,US,North America,San Jose,154,,5.34
+154.198.173.154,443,True,SJC,US,North America,San Jose,264,,5.34
+154.211.8.5,443,True,SJC,US,North America,San Jose,158,,5.34
+154.198.173.77,2083,True,SJC,US,North America,San Jose,149,,5.33
+156.238.19.106,2096,True,SJC,US,North America,San Jose,209,,5.33
+154.206.12.121,8443,True,SJC,US,North America,San Jose,172,,5.33
+154.218.15.142,8443,True,SJC,US,North America,San Jose,320,,5.32
+156.238.18.208,2083,True,SJC,US,North America,San Jose,254,,5.31
+154.206.12.130,443,True,SJC,US,North America,San Jose,156,,5.31
+154.198.173.67,2096,True,SJC,US,North America,San Jose,217,,5.31
+156.238.18.80,2087,True,SJC,US,North America,San Jose,177,,5.31
+154.206.12.141,8443,True,SJC,US,North America,San Jose,184,,5.31
+154.198.173.35,443,True,SJC,US,North America,San Jose,157,,5.31
+156.238.18.60,2096,True,SJC,US,North America,San Jose,291,,5.31
+156.238.18.6,2087,True,SJC,US,North America,San Jose,167,,5.3
+116.121.184.98,13380,True,HKG,HK,Asia Pacific,Hong Kong,133,,5.3
+156.238.18.128,443,True,SJC,US,North America,San Jose,159,,5.3
+154.198.173.35,8443,True,SJC,US,North America,San Jose,234,,5.29
+156.238.18.19,8443,True,SJC,US,North America,San Jose,226,,5.28
+154.211.8.84,2087,True,SJC,US,North America,San Jose,232,,5.27
+156.238.19.173,8443,True,SJC,US,North America,San Jose,266,,5.27
+156.238.18.93,2087,True,SJC,US,North America,San Jose,219,,5.27
+154.211.8.211,8443,True,SJC,US,North America,San Jose,294,,5.27
+154.218.15.216,2053,True,SJC,US,North America,San Jose,169,,5.26
+156.238.19.200,2087,True,SJC,US,North America,San Jose,157,,5.26
+154.206.12.124,2053,True,SJC,US,North America,San Jose,173,,5.26
+154.92.9.150,8443,True,SJC,US,North America,San Jose,254,,5.25
+154.92.9.54,443,True,SJC,US,North America,San Jose,153,,5.25
+154.198.173.51,2096,True,SJC,US,North America,San Jose,157,,5.25
+154.92.9.72,2083,True,SJC,US,North America,San Jose,237,,5.25
+156.238.19.173,443,True,SJC,US,North America,San Jose,153,,5.24
+154.206.12.108,2053,True,SJC,US,North America,San Jose,155,,5.24
+154.211.8.238,8443,True,SJC,US,North America,San Jose,168,,5.24
+154.198.173.129,8443,True,SJC,US,North America,San Jose,259,,5.23
+154.206.12.129,2096,True,SJC,US,North America,San Jose,201,,5.23
+154.218.15.17,2096,True,SJC,US,North America,San Jose,247,,5.21
+154.211.8.203,443,True,SJC,US,North America,San Jose,180,,5.21
+154.206.12.48,2096,True,SJC,US,North America,San Jose,158,,5.2
+154.198.173.176,2083,True,SJC,US,North America,San Jose,264,,5.2
+156.238.19.43,2083,True,SJC,US,North America,San Jose,238,,5.19
+156.238.18.180,2053,True,SJC,US,North America,San Jose,175,,5.19
+154.206.12.109,2083,True,SJC,US,North America,San Jose,308,,5.19
+154.92.9.159,2053,True,SJC,US,North America,San Jose,292,,5.19
+156.238.18.169,443,True,SJC,US,North America,San Jose,207,,5.19
+154.92.9.172,2087,True,SJC,US,North America,San Jose,157,,5.17
+156.238.19.58,2087,True,SJC,US,North America,San Jose,166,,5.16
+154.198.173.18,2096,True,SJC,US,North America,San Jose,200,,5.16
+154.92.9.240,2083,True,SJC,US,North America,San Jose,433,,5.16
+154.211.8.95,2087,True,SJC,US,North America,San Jose,167,,5.15
+154.92.9.177,2053,True,SJC,US,North America,San Jose,208,,5.15
+154.211.8.10,8443,True,SJC,US,North America,San Jose,241,,5.14
+154.211.8.193,2053,True,SJC,US,North America,San Jose,196,,5.11
+154.92.9.35,2087,True,SJC,US,North America,San Jose,206,,5.1
+154.218.15.239,2053,True,SJC,US,North America,San Jose,176,,5.09
+156.238.18.167,2053,True,SJC,US,North America,San Jose,285,,5.09
+154.198.173.62,2096,True,SJC,US,North America,San Jose,181,,5.09
+154.92.9.190,2087,True,SJC,US,North America,San Jose,253,,5.08
+154.198.173.105,8443,True,SJC,US,North America,San Jose,159,,5.08
+156.238.19.17,2096,True,SJC,US,North America,San Jose,158,,5.07
+156.238.18.215,8443,True,SJC,US,North America,San Jose,229,,5.07
+154.92.9.55,8443,True,SJC,US,North America,San Jose,246,,5.07
+154.211.8.233,443,True,SJC,US,North America,San Jose,292,,5.05
+154.206.12.60,443,True,SJC,US,North America,San Jose,179,,5.05
+154.218.15.240,443,True,SJC,US,North America,San Jose,174,,5.05
+154.218.15.148,2087,True,SJC,US,North America,San Jose,306,,5.04
+154.206.12.164,443,True,SJC,US,North America,San Jose,195,,5.04
+154.92.9.8,2053,True,SJC,US,North America,San Jose,218,,5.04
+156.238.19.64,8443,True,SJC,US,North America,San Jose,276,,5.03
+156.238.18.131,2053,True,SJC,US,North America,San Jose,188,,5.01
+156.238.18.43,443,True,SJC,US,North America,San Jose,163,,5.01
+154.92.9.39,2096,True,SJC,US,North America,San Jose,166,,4.99
+156.238.19.75,2083,True,SJC,US,North America,San Jose,190,,4.97
+154.218.15.205,2096,True,SJC,US,North America,San Jose,187,,4.97
+154.206.12.136,2096,True,SJC,US,North America,San Jose,267,,4.96
+154.211.8.78,443,True,SJC,US,North America,San Jose,268,,4.94
+154.92.9.145,8443,True,SJC,US,North America,San Jose,187,,4.93
+156.238.18.227,443,True,SJC,US,North America,San Jose,201,,4.91
+156.238.19.122,2096,True,SJC,US,North America,San Jose,284,,4.89
+154.206.12.56,2083,True,SJC,US,North America,San Jose,274,,4.88
+154.218.15.142,2053,True,SJC,US,North America,San Jose,214,,4.85
+154.211.8.216,2096,True,SJC,US,North America,San Jose,257,,4.83
+156.238.18.28,2087,True,SJC,US,North America,San Jose,295,,4.83
+154.198.173.106,2053,True,SJC,US,North America,San Jose,199,,4.82
+154.218.15.60,2096,True,SJC,US,North America,San Jose,189,,4.81
+154.206.12.213,443,True,SJC,US,North America,San Jose,158,,4.79
+154.211.8.145,8443,True,SJC,US,North America,San Jose,322,,4.79
+154.206.12.149,8443,True,SJC,US,North America,San Jose,242,,4.76
+156.238.19.50,2053,True,SJC,US,North America,San Jose,290,,4.76
+154.206.12.142,2087,True,SJC,US,North America,San Jose,304,,4.76
+156.238.18.101,2083,True,SJC,US,North America,San Jose,178,,4.75
+154.218.15.218,2096,True,SJC,US,North America,San Jose,167,,4.75
+154.218.15.229,8443,True,SJC,US,North America,San Jose,192,,4.75
+154.198.173.59,2096,True,SJC,US,North America,San Jose,259,,4.73
+154.92.9.67,2096,True,SJC,US,North America,San Jose,160,,4.7
+156.238.18.102,2083,True,SJC,US,North America,San Jose,165,,4.7
+154.218.15.137,2087,True,SJC,US,North America,San Jose,163,,4.7
+156.238.19.151,443,True,SJC,US,North America,San Jose,280,,4.7
+154.198.173.16,2053,True,SJC,US,North America,San Jose,162,,4.69
+154.206.12.247,8443,True,SJC,US,North America,San Jose,158,,4.68
+156.238.18.36,2053,True,SJC,US,North America,San Jose,202,,4.68
+156.238.18.24,443,True,SJC,US,North America,San Jose,157,,4.66
+154.198.173.174,2096,True,SJC,US,North America,San Jose,202,,4.66
+154.211.8.111,2083,True,SJC,US,North America,San Jose,207,,4.65
+154.218.15.22,2087,True,SJC,US,North America,San Jose,250,,4.64
+156.238.18.146,443,True,SJC,US,North America,San Jose,152,,4.64
+154.92.9.210,2087,True,SJC,US,North America,San Jose,165,,4.62
+154.218.15.133,2083,True,SJC,US,North America,San Jose,239,,4.62
+156.238.19.60,2083,True,SJC,US,North America,San Jose,186,,4.6
+154.218.15.2,2083,True,SJC,US,North America,San Jose,192,,4.6
+154.198.173.82,2053,True,SJC,US,North America,San Jose,192,,4.6
+154.206.12.163,443,True,SJC,US,North America,San Jose,226,,4.59
+114.201.241.35,32559,True,ICN,KR,Asia Pacific,Seoul,84,,4.58
+156.238.18.18,2053,True,SJC,US,North America,San Jose,173,,4.55
+154.218.15.78,2053,True,SJC,US,North America,San Jose,168,,4.55
+154.198.173.230,2083,True,SJC,US,North America,San Jose,249,,4.52
+154.92.9.176,2096,True,SJC,US,North America,San Jose,157,,4.49
+154.92.9.92,2087,True,SJC,US,North America,San Jose,159,,4.48
+154.206.12.167,443,True,SJC,US,North America,San Jose,284,,4.44
+156.238.18.9,2087,True,SJC,US,North America,San Jose,160,,4.42
+156.238.19.163,2096,True,SJC,US,North America,San Jose,220,,4.42
+156.238.18.206,2083,True,SJC,US,North America,San Jose,302,,4.4
+154.92.9.23,8443,True,SJC,US,North America,San Jose,266,,4.4
+156.238.19.69,443,True,SJC,US,North America,San Jose,299,,4.39
+154.198.173.78,443,True,SJC,US,North America,San Jose,161,,4.33
+154.218.15.134,2096,True,SJC,US,North America,San Jose,174,,4.32
+154.92.9.119,8443,True,SJC,US,North America,San Jose,244,,4.31
+156.238.18.228,8443,True,SJC,US,North America,San Jose,166,,4.27
+154.218.15.116,8443,True,SJC,US,North America,San Jose,174,,4.25
+154.92.9.38,2096,True,SJC,US,North America,San Jose,231,,4.24
+154.211.8.239,2053,True,SJC,US,North America,San Jose,195,,4.24
+154.92.9.143,443,True,SJC,US,North America,San Jose,217,,4.22
+156.238.18.18,443,True,SJC,US,North America,San Jose,150,,4.18
+156.238.19.13,443,True,SJC,US,North America,San Jose,209,,4.16
+156.238.18.51,2096,True,SJC,US,North America,San Jose,172,,4.15
+58.124.135.229,50000,True,ICN,KR,Asia Pacific,Seoul,68,,4.14
+156.238.19.224,2083,True,SJC,US,North America,San Jose,234,,4.11
+154.92.9.252,443,True,SJC,US,North America,San Jose,156,,4.08
+154.211.8.157,443,True,SJC,US,North America,San Jose,277,,4.06
+156.238.19.175,2053,True,SJC,US,North America,San Jose,212,,4.03
+156.238.18.170,443,True,SJC,US,North America,San Jose,235,,4.02
+156.238.19.1,2087,True,SJC,US,North America,San Jose,169,,4.02
+121.158.27.207,50000,True,ICN,KR,Asia Pacific,Seoul,748,,6.86
+112.222.129.170,50000,True,ICN,KR,Asia Pacific,Seoul,136,,6.58
+175.212.44.200,50000,True,ICN,KR,Asia Pacific,Seoul,702,,6.14
+47.238.161.64,39214,True,HKG,HK,Asia Pacific,Hong Kong,143,,6.12
+40.81.29.103,8089,True,HKG,HK,Asia Pacific,Hong Kong,91,,6.05
+125.134.6.129,29542,True,FUK,JP,Asia Pacific,Fukuoka,64,,6.04
+47.243.173.55,33892,True,HKG,HK,Asia Pacific,Hong Kong,45,,5.74
+123.142.67.164,29461,True,ICN,KR,Asia Pacific,Seoul,113,,5.66
+121.168.144.41,50000,True,ICN,KR,Asia Pacific,Seoul,726,,5.46
+222.101.91.204,50000,True,ICN,KR,Asia Pacific,Seoul,757,,5.44
+112.109.58.49,50000,True,ICN,KR,Asia Pacific,Seoul,91,,5.34
+180.230.0.137,50000,True,ICN,KR,Asia Pacific,Seoul,202,,5.33
+221.158.4.230,18266,True,FUK,JP,Asia Pacific,Fukuoka,112,,5.29
+112.170.112.178,15846,True,FUK,JP,Asia Pacific,Fukuoka,102,,5.22
+183.101.244.245,50000,True,ICN,KR,Asia Pacific,Seoul,88,,5.08
+27.100.189.152,50000,True,ICN,KR,Asia Pacific,Seoul,182,,5.06
+161.117.249.114,2025,True,SIN,SG,Asia Pacific,Singapore,181,,5.0
+1.214.208.5,50000,True,ICN,KR,Asia Pacific,Seoul,125,,4.99
+115.95.176.24,30064,True,ICN,KR,Asia Pacific,Seoul,741,,4.98
+211.216.189.208,26538,True,ICN,KR,Asia Pacific,Seoul,766,,4.98
+115.40.244.240,12696,True,ICN,KR,Asia Pacific,Seoul,183,,4.94
+182.231.198.88,16026,True,ICN,KR,Asia Pacific,Seoul,100,,4.93
+58.229.126.162,15456,True,NRT,JP,Asia Pacific,Tokyo,177,,4.9
+112.156.154.95,30067,True,ICN,KR,Asia Pacific,Seoul,89,,4.87
+112.170.112.178,27621,True,FUK,JP,Asia Pacific,Fukuoka,72,,4.83
+52.141.25.42,443,True,ICN,KR,Asia Pacific,Seoul,229,,4.81
+61.36.172.75,50000,True,ICN,KR,Asia Pacific,Seoul,173,,4.77
+14.48.170.40,50000,True,ICN,KR,Asia Pacific,Seoul,711,,4.73
+222.106.126.224,50000,True,ICN,KR,Asia Pacific,Seoul,84,,4.71
+175.208.202.41,20583,True,ICN,KR,Asia Pacific,Seoul,186,,4.67
+112.170.112.178,28154,True,FUK,JP,Asia Pacific,Fukuoka,84,,4.64
+210.103.86.17,10083,True,ICN,KR,Asia Pacific,Seoul,706,,4.64
+220.90.247.28,50000,True,ICN,KR,Asia Pacific,Seoul,550,,4.62
+43.156.181.203,443,True,SIN,SG,Asia Pacific,Singapore,241,,4.6
+222.118.239.20,24751,True,FUK,JP,Asia Pacific,Fukuoka,127,,4.58
+125.130.15.106,20280,True,ICN,KR,Asia Pacific,Seoul,65,,4.56
+211.227.114.208,50000,True,ICN,KR,Asia Pacific,Seoul,109,,4.52
+121.167.230.98,50000,True,ICN,KR,Asia Pacific,Seoul,88,,4.5
+220.119.170.222,26883,True,FUK,JP,Asia Pacific,Fukuoka,75,,4.49
+185.18.222.208,2053,True,NRT,JP,Asia Pacific,Tokyo,104,,4.48
+119.66.172.143,50000,True,ICN,KR,Asia Pacific,Seoul,176,,4.43
+192.243.127.224,443,True,KIX,JP,Asia Pacific,Osaka,156,,4.41
+211.216.189.208,26565,True,ICN,KR,Asia Pacific,Seoul,712,,4.37
+112.162.138.75,50000,True,ICN,KR,Asia Pacific,Seoul,122,,4.31
+125.187.120.122,11181,True,ICN,KR,Asia Pacific,Seoul,693,,4.31
+118.41.25.147,30077,True,ICN,KR,Asia Pacific,Seoul,137,,4.31
+221.149.11.173,15679,True,ICN,KR,Asia Pacific,Seoul,117,,4.3
+115.91.235.58,50000,True,ICN,KR,Asia Pacific,Seoul,199,,4.29
+220.88.250.117,10810,True,FUK,JP,Asia Pacific,Fukuoka,144,,4.28
+221.158.4.230,32512,True,FUK,JP,Asia Pacific,Fukuoka,140,,4.25
+123.142.67.164,50000,True,ICN,KR,Asia Pacific,Seoul,88,,4.24
+211.248.217.7,50000,True,ICN,KR,Asia Pacific,Seoul,130,,4.23
+47.243.13.161,1010,True,HKG,HK,Asia Pacific,Hong Kong,26,,4.21
+220.80.75.163,34650,True,FUK,JP,Asia Pacific,Fukuoka,120,,4.2
+222.96.105.8,50000,True,ICN,KR,Asia Pacific,Seoul,741,,4.16
+14.55.223.70,50000,True,ICN,KR,Asia Pacific,Seoul,102,,4.16
+211.227.43.208,30058,True,ICN,KR,Asia Pacific,Seoul,703,,4.15
+211.51.176.6,30059,True,ICN,KR,Asia Pacific,Seoul,697,,4.1
+118.131.232.132,30063,True,ICN,KR,Asia Pacific,Seoul,131,,4.06
+112.173.70.40,50000,True,ICN,KR,Asia Pacific,Seoul,739,,4.03
