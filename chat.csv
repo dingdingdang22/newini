@@ -1,5 +1,2 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-142.171.38.53,2333,True,LAXchat,US,North America,Los Angeles,35916,MULTA-ASN1,176,8.88
-141.11.95.10,18443,True,LAXchat,US,North America,Los Angeles,8100,ASN-QUADRANET-GLOBAL,225,8.88
-104.168.87.41,16443,True,SJCchat,US,North America,San Jose,36352,AS-COLOCROSSING,450,8.88
-211.248.217.7,50000,True,ICNchat,KR,Asia Pacific,Seoul,4766,Korea Telecom,960,8.88
+58.19.29.102,45695,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,30,8.88
