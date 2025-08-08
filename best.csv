@@ -1,11 +1,14 @@
 IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+154.17.18.138,443,True,LAX best,North America,US,Los Angeles,157,10.77
+154.17.237.56,26749,True,LAX best,North America,US,Los Angeles,162,10.68
+23.165.40.23,443,True,LAX best,North America,US,Los Angeles,168,10.64
+38.207.169.67,2083,True,LAX best,North America,US,Los Angeles,165,10.49
+154.23.244.23,55892,True,LAX best,North America,US,Los Angeles,171,8.94
 103.137.63.2,443,True,KHH best,Asia Pacific,TW,Kaohsiung City,74,6.83
 34.81.140.124,10240,True,TPE best,Asia Pacific,TW,Taipei,89,6.13
-154.64.251.12,442,True,HKG best,Asia Pacific,HK,Hong Kong,11,5.48
 121.159.246.10,12523,True,ICN best,Asia Pacific,KR,Seoul,83,4.69
 112.172.38.246,12346,True,ICN best,Asia Pacific,KR,Seoul,87,4.64
 59.19.192.51,31017,True,FUK best,Asia Pacific,JP,Fukuoka,156,4.59
 8.219.126.137,491,True,SIN best,Asia Pacific,SG,Singapore,212,4.35
 221.159.191.178,12141,True,ICN best,Asia Pacific,KR,Seoul,62,4.19
-154.23.244.23,55892,True,LAX best,North America,US,Los Angeles,167,4.18
 40.65.162.116,443,True,SIN best,Asia Pacific,SG,Singapore,48,4.03
