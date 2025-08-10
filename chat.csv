@@ -1,2 +1,2 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-58.19.29.102,45695,True,NRTchat,JP,Asia Pacific,Tokyo,4837,CHINA UNICOM China169 Backbone,30,8.88
+220.80.75.163,34650,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,86,8.88
