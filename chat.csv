@@ -1,2 +1,2 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-220.80.75.163,34650,True,FUKchat,JP,Asia Pacific,Fukuoka,4766,Korea Telecom,86,8.88
+172.232.187.222,8443,True,SEAchat,US,North America,Seattle,63949,Akamai Connected Cloud,197,8.88
