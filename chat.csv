@@ -1,2 +1,2 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-172.232.187.222,8443,True,SEAchat,US,North America,Seattle,63949,Akamai Connected Cloud,197,8.88
+152.70.101.24,16739,True,NRTchat,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,143,8.88
