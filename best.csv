@@ -52,6 +52,7 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 218.150.66.110,14524,True,ICN best,Asia Pacific,KR,Seoul,76,4.29
 222.103.28.108,12166,True,ICN best,Asia Pacific,KR,Seoul,68,4.27
 210.103.86.17,10083,True,ICN best,Asia Pacific,KR,Seoul,60,4.24
+117.123.237.115,18030,True,KIX best,Asia Pacific,JP,Osaka,150,4.2
 125.135.43.66,50000,True,ICN best,Asia Pacific,KR,Seoul,58,4.16
 211.223.101.81,50000,True,ICN best,Asia Pacific,KR,Seoul,67,3.89
 220.72.161.178,10007,True,ICN best,Asia Pacific,KR,Seoul,96,3.86
@@ -72,8 +73,7 @@ IP地址,端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 211.107.44.18,18023,True,ICN best,Asia Pacific,KR,Seoul,77,3.26
 175.200.140.27,11401,True,ICN best,Asia Pacific,KR,Seoul,75,3.25
 222.113.18.214,12469,True,ICN best,Asia Pacific,KR,Seoul,87,3.22
-141.147.159.250,443,True,KIX best,Asia Pacific,JP,Osaka,176,3.15
-129.154.55.18,443,True,SIN best,Asia Pacific,SG,Singapore,282,3.12
 183.97.196.49,11288,True,ICN best,Asia Pacific,KR,Seoul,73,3.12
+129.154.55.18,443,True,SIN best,Asia Pacific,SG,Singapore,282,3.12
 119.193.156.30,50007,True,ICN best,Asia Pacific,KR,Seoul,67,3.08
 132.145.116.185,443,True,NRT best,Asia Pacific,JP,Tokyo,122,3.02
