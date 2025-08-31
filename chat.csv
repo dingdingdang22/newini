@@ -1,2 +1,4 @@
 IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
-121.66.32.174,50000,True,ICNchat,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,197,8.88
+91.149.239.206,443,True,LAXchat,US,North America,Los Angeles,26383,ASNET,173,8.88
+159.100.194.42,443,True,SJCchat,US,North America,San Jose,11179,ARYAKA-ARIN,437,8.88
+180.230.0.137,50000,True,ICNchat,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,74,8.88
