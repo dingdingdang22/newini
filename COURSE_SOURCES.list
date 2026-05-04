@@ -1,1 +1,19 @@
-
+[
+  {
+    "type": "youtube_playlist",
+    "id": "PLM1j2JqVBQfnB8vhiXl_TjO0szciKQGfY",
+    "title": "海绵宝宝"
+  },
+  {
+    "type": "youtube_playlist",
+    "id": "OLAK5uy_m4g1sRMn8VOHpfif0z2DhkGZIzR-cNtAc",
+    "title": "KPOP"
+  },
+  {
+    "type": "custom_list",
+    "title": "🎬 额外奖励",
+    "items": [
+      { "id": "Qq-E9cO1_uc", "title": "KPop Demon Hunters Performance at the 2025 MAMA Awards" },
+    ]
+  }
+]
