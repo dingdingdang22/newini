@@ -1,27 +1,41 @@
-[
+/**
+ * 视频课程统一数据源配置
+ */
+export const COURSE_SOURCES = [
   {
-    "type": "youtube_playlist",
-    "id": "PLM1j2JqVBQfnB8vhiXl_TjO0szciKQGfY",
-    "title": "海绵宝宝"
+    type: "youtube_playlist",
+    id: "PLM1j2JqVBQfnB8vhiXl_TjO0szciKQGfY",
+    title: "海绵宝宝"
   },
   {
-    "type": "youtube_playlist",
-    "id": "OLAK5uy_m4g1sRMn8VOHpfif0z2DhkGZIzR-cNtAc",
-    "title": "猎魔女团原声"
+    type: "youtube_playlist",
+    id: "OLAK5uy_m4g1sRMn8VOHpfif0z2DhkGZIzR-cNtAc",
+    title: "猎魔女团原声"
   },
   {
-    "type": "youtube_playlist",
-    "id": "PLkgGhNvMiBBoy5t8hjxZf_fA-L2rrAE3n",
-    "title": "彼得兔"
+    type: "youtube_playlist",
+    id: "PLkgGhNvMiBBoy5t8hjxZf_fA-L2rrAE3n",
+    title: "彼得兔"
   },
   {
-    "type": "custom_list",
-    "title": "🎬 额外奖励",
-    "items": [
-      { "id": "Qq-E9cO1_uc", "title": "KPop Demon Hunters Performance at the 2025 MAMA Awards" },
-      { "id": "x2i-YjCuQJ8", "title": "菲梦少女梦想的开始上" },
-      { "id": "SbuoMphN0uQ", "title": "菲梦少女梦想的开始下" },      
-      { "id": "Kw3935PH01E", "title": "Shakira--zoo疯狂动物城" }
+    type: "custom_list",
+    title: "🎬 额外奖励",
+    items: [
+      { id: "Qq-E9cO1_uc", title: "KPop Demon Hunters Performance at the 2025 MAMA Awards" },
+      { id: "x2i-YjCuQJ8", title: "菲梦少女梦想的开始上" },
+      { id: "SbuoMphN0uQ", title: "菲梦少女梦想的开始下" }, 
+      { id: "NqB5focTdbE", title: "菲梦少女闪耀的资质上" },
+      { id: "Kw3935PH01E", title: "Shakira--zoo疯狂动物城" }
     ]
+  },
+  {
+    id: "nas_course_movie",
+    title: "电影学习",
+    type: "alist_dir",
+    // 对应 AList 中的实际物理路径
+    alistPath: "/DofeeEnglish", 
+    password: "555555", 
+    cover: "/images/covers/movies.jpg", 
+    description: "通过经典电影片段进行沉浸式英语学习，支持双轨字幕对齐与联动。"
   }
-]
+];
