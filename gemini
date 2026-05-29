@@ -14,3 +14,22 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,doubleclick
 DOMAIN-KEYWORD,gcp
 DOMAIN-SUFFIX,ghcr.io
+# Antigravity 官方网站、文档与下载端
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity-unleash.goog
+
+# Antigravity 核心智能体 API 与后端服务 (最关键，不分流会导致客户端卡死)
+DOMAIN,antigravity.googleapis.com
+DOMAIN,antigravity-pa.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+
+# 基础身份验证与 Firebase 安装环境同步
+DOMAIN,firebaseinstallations.googleapis.com
+DOMAIN,geller-pa.googleapis.com
+DOMAIN,clients6.google.com
+
+# 底层模型服务 (Gemini 3.5 Flash / AI Studio 核心)
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,aistudio.google.com
