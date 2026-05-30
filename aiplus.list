@@ -23,3 +23,16 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,auth0.com
+# OpenAI 官方 API 与认证
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,auth0.com
+
+# Codex 专属客户端、CLI 与同步服务域名
+DOMAIN,codex.openai.com
+DOMAIN-SUFFIX,identities.theb.ai (若使用第三方中转)
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,figma.com
