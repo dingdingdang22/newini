@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflare.com
 # Cloudflare 验证节点
 DOMAIN-SUFFIX,challenges.cloudflare.com
