@@ -33,3 +33,4 @@ DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,aistudio.google.com
+DOMAIN-KEYWORD,notebooklm
