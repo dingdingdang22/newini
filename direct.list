@@ -1,3 +1,9 @@
+DOMAIN-SUFFIX,cloudflare.com
+# Cloudflare 验证节点
+DOMAIN-SUFFIX,challenges.cloudflare.com
+# Cloudflare 子域名（管理/状态页面等）
+DOMAIN-SUFFIX,cloudflarestatus.com
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-KEYWORD,eastwestbank
@@ -15,9 +21,4 @@ DOMAIN-SUFFIX,DSmyNAS.org
 DOMAIN-SUFFIX,FamilyDS.com
 DOMAIN-SUFFIX,FamilyDS.net
 DOMAIN-SUFFIX,FamilyDS.org
-DOMAIN-SUFFIX,cloudflare.com
-# Cloudflare 验证节点
-DOMAIN-SUFFIX,challenges.cloudflare.com
-# Cloudflare 子域名（管理/状态页面等）
-DOMAIN-SUFFIX,cloudflarestatus.com
-DOMAIN-SUFFIX,cloudflare-dns.com
+
