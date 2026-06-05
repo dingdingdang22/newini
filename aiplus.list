@@ -2,7 +2,6 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
@@ -19,7 +18,6 @@ DOMAIN-SUFFIX,yeschat.ai
 DOMAIN-SUFFIX,aiease.ai
 DOMAIN-KEYWORD,skywork
 DOMAIN-SUFFIX,skywork.ai
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,auth0.com
