@@ -25,7 +25,8 @@ export const COURSE_SOURCES = [
       { id: "x2i-YjCuQJ8", title: "菲梦少女梦想的开始上" },
       { id: "SbuoMphN0uQ", title: "菲梦少女梦想的开始下" }, 
       { id: "NqB5focTdbE", title: "菲梦少女闪耀的资质上" },
-      { id: "Kw3935PH01E", title: "Shakira--zoo疯狂动物城" }
+      { id: "Kw3935PH01E", title: "Shakira--zoo疯狂动物城" }，
+      { id: "MZCmwOn4Ln4", title: "星卡梦少女4之花神的試煉💙E13-E15" }
     ]
   },
   {
