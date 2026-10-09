@@ -34,3 +34,6 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,muse.ai,PROXY
+DOMAIN-SUFFIX,meta.com,PROXY
+DOMAIN-KEYWORD,muse-ai,PROXY
