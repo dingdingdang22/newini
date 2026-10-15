@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,doubleclick
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,facebook.com
 DOMAIN-KEYWORD,gcp
 DOMAIN-SUFFIX,ghcr.io
 # Antigravity 官方网站、文档与下载端
