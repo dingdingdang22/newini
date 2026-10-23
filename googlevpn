@@ -1,0 +1,7 @@
+- DOMAIN,phosphor-pa.googleapis.com,googlesocks
+- DOMAIN,beryllium-pa.googleapis.com,googlesocks
+- DOMAIN-SUFFIX,g-tun.com,googlesocks
+- DOMAIN-SUFFIX,cupronickel.goog,googlesocks
+- IP-CIDR,162.120.128.0/17,googlesocks,no-resolve
+- IP-CIDR,136.23.0.0/18,googlesocks,no-resolve
+- IP-CIDR6,2606:40::/32,googlesocks,no-resolve
